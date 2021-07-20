@@ -1,0 +1,725 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "04924b792a612da70d262ccbb7106e88"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "0781779de9f20c79f7eaa198e50e23ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          8,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "1e206047fc23ae0c50f6e181b443d073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "2b6bf7411ad5e82695564c918bf96ef2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          14,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "2df53534388d2998bc996f5b13c01337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          15,
+          38
+        ],
+        "type": "Point"
+      },
+      "id": "324b2f48b74eafa39a933582c04abea5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          11,
+          43
+        ],
+        "type": "Point"
+      },
+      "id": "4e5af923ead1eaf64332957176656c31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          14,
+          36
+        ],
+        "type": "Point"
+      },
+      "id": "50023b53109ec53f54f5dce3e66c4efe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "6138a789374382f1354a25e771940a52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          15,
+          38
+        ],
+        "type": "Point"
+      },
+      "id": "641132d8d85b56147fd2f3044a673686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "6c0b4955c394f78141bcb997bed8ec37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "6f78d88176bd27c14f8cc04d21d20c99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          18,
+          39
+        ],
+        "type": "Point"
+      },
+      "id": "702f37c71751ffb1abfb6d0944bedc0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "788561c3b729f407ba6beecd750c80cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "7a874a997b5925e9354899927328b60a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          39
+        ],
+        "type": "Point"
+      },
+      "id": "820080c8dec3a258236e9a209c1fc9b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "8500dc66e4e7077bf99883bc70b96563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          8,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "8639c1d2b488e0a2ac3a41ff668d0aeb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "8771a3271f9768f069438cfd2b0684f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "89e3dfa988a2b9c21911498d7f7cc10c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "8ef45a65aa5acf24b98cc4fd12de8594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          13,
+          42
+        ],
+        "type": "Point"
+      },
+      "id": "960a8477c2581821a420d1dc8fedfef1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          14,
+          36
+        ],
+        "type": "Point"
+      },
+      "id": "96bf435b2b613f85c9eecd2b200dd494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          11,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "97963903a9c15ce8709b54a41ae06400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          14,
+          40
+        ],
+        "type": "Point"
+      },
+      "id": "98a55cf88c4dfce5d13ffdeca5bd36f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          42
+        ],
+        "type": "Point"
+      },
+      "id": "a11495cebe422d64940d3ed77111eedf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "a28d909a1c4c5862607cabdbd2b117cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          15,
+          36
+        ],
+        "type": "Point"
+      },
+      "id": "a3c4f994e91f4c3c53cb493a5481b8c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "aabda8354ae3fa02d785365cb1384db6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "aaed9669a30f97ba24a95cf13a31c47b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          13,
+          38
+        ],
+        "type": "Point"
+      },
+      "id": "b0fc4b5a1d8f8f2e55d44e2d98fd640e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "b425d50e3c0b8614886360665df10d82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "b55b3e817971fd0db23d2af786401a6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          13,
+          37
+        ],
+        "type": "Point"
+      },
+      "id": "c33ba04fba1667e3d641f6761bdc02ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          8,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "c6a28dec8f8e0232039352b5f1bcc78e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "c8028f564b87a2b3be6bbd8281328a7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          16,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "cb94b9b70e8b693168e1daea1813606e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          18,
+          39
+        ],
+        "type": "Point"
+      },
+      "id": "d25a028e838268dfe0661987a4ac7789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "dae7c0e58e58673941c5fc188323e77a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          15,
+          40
+        ],
+        "type": "Point"
+      },
+      "id": "dbaccfdbe038a76dbcfdb54be2c4d9a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          11,
+          43
+        ],
+        "type": "Point"
+      },
+      "id": "df1f390fb03e84f680fa7c63ce34951a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          16,
+          38
+        ],
+        "type": "Point"
+      },
+      "id": "e3bd509b93408c0b2123205abc9bf8a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "e3e9a303cbeb47a04c5256c6b7ff22cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          13,
+          37
+        ],
+        "type": "Point"
+      },
+      "id": "e86941890e82fa8ce587f5d2c320e511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "e9511b6a709a7593aea237d572899db4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          10,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "f5779f58ae48fb4df5a3aeebbdca4edd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          16,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "f5dbbefbdce058727700a301bbfb27dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          14,
+          40
+        ],
+        "type": "Point"
+      },
+      "id": "f75d8fd9ecaae109d43016237e3de3c0"
+    }
+  ],
+  "type": "FeatureCollection"
+}
