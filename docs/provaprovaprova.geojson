@@ -1,0 +1,725 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Liceo Scientifico Statale Galileo Galilei"
+      },
+      "geometry": {
+        "coordinates": [
+          11,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "01263171c305c125c1a34e17d09eb837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "IIS - TOMMASO FAZELLO"
+      },
+      "geometry": {
+        "coordinates": [
+          13,
+          37
+        ],
+        "type": "Point"
+      },
+      "id": "028d13ceada0184dc6e90414ac70b8ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "Liceo Scientifico e Linguistico Statale “G. Marconi” - Milano"
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "033eccd05864facfa7dcc1bd5a1df713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "IC \"Luigi Piarandello\" - Fonte Nuova"
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "08ad52af620a602bce2d00d43c34d41f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Istituto Istruzione Superiore Enzo Ferrari "
+      },
+      "geometry": {
+        "coordinates": [
+          15,
+          38
+        ],
+        "type": "Point"
+      },
+      "id": "127d9d04de720561cf125023ce6890e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "DANTE ALIGHIERI GIOSUÈ CARDUCCI  Scuola statale secondaria di I grado - Piacenza"
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "160c3293a2fc4581bd4055a8d0059b49"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Liceo Ginnasio Statale G.B. Vico"
+      },
+      "geometry": {
+        "coordinates": [
+          14,
+          40
+        ],
+        "type": "Point"
+      },
+      "id": "235a5a777756861531ad90698dca490e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "I.T.S. Commerciale e per Geometri Michelangelo Buonarroti"
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "24f2727935efca8997b4e1ec3b77c404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Istituto Comprensivo \" Mario Rapisardi\""
+      },
+      "geometry": {
+        "coordinates": [
+          13,
+          37
+        ],
+        "type": "Point"
+      },
+      "id": "250901fbfda01d3eb3e5208f85df8b87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Direzione Didattica \"Edmondo De Amicis\" - Palermo"
+      },
+      "geometry": {
+        "coordinates": [
+          13,
+          38
+        ],
+        "type": "Point"
+      },
+      "id": "287e16a369564ac9c3e7ced87ddd3fa8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Istituto d'istruzione superiore \"Galilei - Campailla\""
+      },
+      "geometry": {
+        "coordinates": [
+          14,
+          36
+        ],
+        "type": "Point"
+      },
+      "id": "2a55ff1cc063439e51cf023d1418edff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "I.C.S. TRICASE VIA APULIA"
+      },
+      "geometry": {
+        "coordinates": [
+          18,
+          39
+        ],
+        "type": "Point"
+      },
+      "id": "32180f27ce96658473fb7ddc655762a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "IC \"P. Visconti\" - Ogliastro Cilento"
+      },
+      "geometry": {
+        "coordinates": [
+          15,
+          40
+        ],
+        "type": "Point"
+      },
+      "id": "34b0cb44c348cc9bdcd7e0ac6497d726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "IIS Leonardo Da Vinci"
+      },
+      "geometry": {
+        "coordinates": [
+          8,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "35cea89c11517b5cd1d01a90085a268a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Liceo M. Fanti"
+      },
+      "geometry": {
+        "coordinates": [
+          10,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "3b67f37e4b468a86cfc93813590414a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Liceo Linguistico \"Ilaria Alpi\" - Cesena"
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "3da81fc9714d8a4adaa0532529efd6ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Liceo Scientifico e linguistico \"O.Tedone\""
+      },
+      "geometry": {
+        "coordinates": [
+          16,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "4a4953fbacc8448e57a89bb7d522c8c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Istituto Comprensivo \"S.Canevari\""
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          42
+        ],
+        "type": "Point"
+      },
+      "id": "5747bd7abe7b33d379fbb3a058eb7907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "IC \"T. Patini\" - Aquila"
+      },
+      "geometry": {
+        "coordinates": [
+          13,
+          42
+        ],
+        "type": "Point"
+      },
+      "id": "5c5137fb0a9a708348d4414334f586e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "IC \"L Da Vinci\" - Venezia Mestre"
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "5dccb124dcbe6bc44b52d00300fb90a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "ICS \"Galileo Galilei\" - Arienzo"
+      },
+      "geometry": {
+        "coordinates": [
+          14,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "6298f993d5bc849102fdb3a35bce9653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "ISTITUTO COMPRENSIVO DELLA VAL NURE  "
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "6749cdaf8a4d02e63c42a2e078948ebb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "I. C.  CADUTI DI CEFALONIA - MAZZINI"
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "6ad9c936021c414fa91f2512b0f6490d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "IS TRAMELLO CASSINARI"
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "6f918d6f078729ca32fd424d883c8ae6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Istituto comprensivo Santo Stefano Magra"
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "7ed079d1a97c3ab8d049d00ea61b8c74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "IC Santa Margherita Ligure"
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "80711757db7d6e232d49fe8c4c6771e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "ICS \"G. Falcone - P. Borsellino\" Cassabile"
+      },
+      "geometry": {
+        "coordinates": [
+          15,
+          36
+        ],
+        "type": "Point"
+      },
+      "id": "81b73cea2564a2ee8cddc1d018c525df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Istituto Comprensivo Statale"
+      },
+      "geometry": {
+        "coordinates": [
+          18,
+          39
+        ],
+        "type": "Point"
+      },
+      "id": "8424c68d6a7a2616dbce9c2c9a4f2db2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "Istituto Comprensivo di Viguzzolo"
+      },
+      "geometry": {
+        "coordinates": [
+          8,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "88c1bff86b81b841d99075615c3cecad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Istituto Comprensivo di Castelnuovo Don Bosco"
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "8a9e8ab476c8453916501ba050bcab5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "Direzione Didattica Statale"
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "8cd721089b68b255fbd3c0b52a5cf757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Liceo Scientifico Statale Michelangelo"
+      },
+      "geometry": {
+        "coordinates": [
+          9,
+          39
+        ],
+        "type": "Point"
+      },
+      "id": "8d400981e8ccdba89e989f2db3c168e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "IC \"Marconi Antonelli\""
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "8e57a1adcee0e809d83087d21a8a4b57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "ISTITUTO TECNICO COMMERCIALE - VITTORIO VENETO - SALVEMINI"
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "8f7217894863f3cbcc6f117cf560bd53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "ISTITUTO D'ISTRUZIONE Secondaria SUPERIORE \"TOMMASO FIORE\" -  Modugno "
+      },
+      "geometry": {
+        "coordinates": [
+          16,
+          41
+        ],
+        "type": "Point"
+      },
+      "id": "92fe60e770ea1c906fce235094a74d17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "IC di Vigliano Biellese"
+      },
+      "geometry": {
+        "coordinates": [
+          8,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "988561ee31c0a261a44fc8ce11be5390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "Liceo Classico e Scientifico Statale \"S. Pellico - G. Peano\" - Cuneo"
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "99ed3b1fa4cea16b391a55f3d41fbd02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "IC di Vicchio"
+      },
+      "geometry": {
+        "coordinates": [
+          11,
+          43
+        ],
+        "type": "Point"
+      },
+      "id": "9ce45c418349b5550c904cc9528bbf61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "I.I.S. LA FARINA BASILE"
+      },
+      "geometry": {
+        "coordinates": [
+          15,
+          38
+        ],
+        "type": "Point"
+      },
+      "id": "a404d8c62dc2be8259cfccff9dafa38d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "Liceo scientifico Galileo Ferraris"
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "ad1939cad7b7c9f7aa286c1d1b0ef214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "ISTITUTO COMPRENSIVO \"G. FALCONE - P. BORSELLINO\" DI CAULONIA "
+      },
+      "geometry": {
+        "coordinates": [
+          16,
+          38
+        ],
+        "type": "Point"
+      },
+      "id": "b067e0dcf6e575406b233e2f6f8153ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Istituto Comprensivo - Baccio di Montelupo"
+      },
+      "geometry": {
+        "coordinates": [
+          11,
+          43
+        ],
+        "type": "Point"
+      },
+      "id": "b19ba066bb43dec096dccd7fcde7ae87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Istituto Comprensivo Caio Giulio Cesare "
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "baed898f2740f75132e2407550c7271a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Istituto Comprensivo n.1"
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          44
+        ],
+        "type": "Point"
+      },
+      "id": "bc5e58d7bfa05c195cc66c37a175eb82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "1 Istituto superiore \"Archimede\""
+      },
+      "geometry": {
+        "coordinates": [
+          14,
+          36
+        ],
+        "type": "Point"
+      },
+      "id": "d072b32ccdb77e3442831d2899faab36"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Istituto Comprensivo Viale San Marco "
+      },
+      "geometry": {
+        "coordinates": [
+          12,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "d090753bc7b69d4e2a0935dc84fd66a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Scuola",
+        "nome": "Liceo Scientifico \"A. Genoino\""
+      },
+      "geometry": {
+        "coordinates": [
+          14,
+          40
+        ],
+        "type": "Point"
+      },
+      "id": "e2c1991d63e74609486d39b3b8086443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Rete Scuole",
+        "nome": "Liceo Classico Statale Massimo D'Azeglio "
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          45
+        ],
+        "type": "Point"
+      },
+      "id": "f949290c2be447e38c4b0f7ace44c037"
+    }
+  ],
+  "type": "FeatureCollection"
+}
