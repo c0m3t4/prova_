@@ -1,0 +1,965 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Direzione Didattica Statale",
+        "address": "Corso Benedetto Croce 26  Torino TO ",
+        "meccanografico": "TOEE01400B",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "TorinoReteLibri",
+        "url": "http://torinoretelibri.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.020504,
+          7.644707
+        ],
+        "type": "Point"
+      },
+      "id": "0132604fb751e4d2729a89a9c2018108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto Comprensivo n.1",
+        "address": "Via Giorgina Saffi , 12 Forlì FC ",
+        "meccanografico": "FOIC826006",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://fc-ic1.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          44.221867,
+          12.038318
+        ],
+        "type": "Point"
+      },
+      "id": "056bdcf1eb8fada723904dac4087cab0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liceo Scientifico e linguistico \"O.Tedone\"",
+        "address": "Via A.Volta, 13 Ruvo di Puglia BA ",
+        "meccanografico": "BAPS09000R",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://ba-tedone.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          41.11658,
+          16.48974
+        ],
+        "type": "Point"
+      },
+      "id": "12e53c5fdd9c35dee2d662ddf7f1f11b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liceo Classico Statale Massimo D'Azeglio ",
+        "address": "via Parini, 8 Torino TO ",
+        "meccanografico": "TOPC070004",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "TorinoReteLibri",
+        "url": "http://torinoretelibri.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.120551,
+          7.633084
+        ],
+        "type": "Point"
+      },
+      "id": "164188fa0b7a8c357d9736667c530fea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1 Istituto superiore \"Archimede\"",
+        "address": "Via Sipione, 147 Rosolini SR ",
+        "meccanografico": "SRIS017003",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://sr-archimederosolini.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          36.822297,
+          14.945243
+        ],
+        "type": "Point"
+      },
+      "id": "189821932e61bae6370df960a775d7e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liceo Scientifico \"A. Genoino\"",
+        "address": "via Ernesto Di Marino, 12 Cava de' Tirreni  SA ",
+        "meccanografico": "SAPS09000C",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://scuola.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          40.700553,
+          14.700024
+        ],
+        "type": "Point"
+      },
+      "id": "1cee3c57081786da1cdcda035ca05ab1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto Comprensivo Statale",
+        "address": "Via Giuseppe Mazzini, 46 Miggiano LE ",
+        "meccanografico": "LEIC83500D",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://scuola.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          39.960874,
+          18.310584
+        ],
+        "type": "Point"
+      },
+      "id": "1da015268c50247cd778d1ef2d83d854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto comprensivo Santo Stefano Magra",
+        "address": "Via Luciano Tavilla, 46 Santo Stefano di Magra SP ",
+        "meccanografico": "SPIC807003",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://sp-magra.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          44.163863,
+          9.915064
+        ],
+        "type": "Point"
+      },
+      "id": "1db0e1d49bed83b4197c5c528d7866c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "I. C.  CADUTI DI CEFALONIA - MAZZINI",
+        "address": "Via Baltimora 110  Torino TO ",
+        "meccanografico": "TOIC8B000L",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "TorinoReteLibri",
+        "url": "http://torinoretelibri.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.046289,
+          7.637997
+        ],
+        "type": "Point"
+      },
+      "id": "22f5a5cf8d2e62d67dc6667174688a68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ISTITUTO D'ISTRUZIONE Secondaria SUPERIORE \"TOMMASO FIORE\" -  Modugno ",
+        "address": "Via Padre A.M. di Francia,4  Modugno  Ba ",
+        "meccanografico": "BAIS02900G",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "Biblòh!",
+        "url": "http://bibloh.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          41.09454,
+          16.7959
+        ],
+        "type": "Point"
+      },
+      "id": "2b251f1a6d5f0ac62fbeac426e993f89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DANTE ALIGHIERI GIOSUÈ CARDUCCI  Scuola statale secondaria di I grado - Piacenza",
+        "address": "Via Piatti, 9 PIACENZA PC ",
+        "meccanografico": "PCMM00200Q",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "Biblòh!",
+        "url": "http://bibloh.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.04202,
+          9.70462
+        ],
+        "type": "Point"
+      },
+      "id": "3a6a74e9c9724e7904225811d27cf79c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto Comprensivo \"S.Canevari\"",
+        "address": "via Carlo Cattaneo 5/7 Viterbo VT ",
+        "meccanografico": "VTIC833009",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://vt-canevari.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          42.413415,
+          12.116503
+        ],
+        "type": "Point"
+      },
+      "id": "4227961396020918dcd0e7eb8f89bd2c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto Comprensivo di Viguzzolo",
+        "address": "Via Marconi, 62 Viguzzolo  AL ",
+        "meccanografico": "ALIC81200R",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "Biblòh!",
+        "url": "http://bibloh.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          44.90567,
+          8.91968
+        ],
+        "type": "Point"
+      },
+      "id": "4aae19f83ebe2958c5f04509ae4a234c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liceo Scientifico e Linguistico Statale “G. Marconi” - Milano",
+        "address": "Via dei Narcisi 5 Milano MI ",
+        "meccanografico": "MIPS16000D",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "Biblòh!",
+        "url": "http://bibloh.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.450613,
+          9.12714
+        ],
+        "type": "Point"
+      },
+      "id": "506305421406804e82af0cffd4314fed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IC di Vicchio",
+        "address": "VIALE BEATO ANGELICO 22 VICCHIO FI",
+        "meccanografico": "FIIC81500E",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "https://fi-icvicchio.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          43.933795,
+          11.459327
+        ],
+        "type": "Point"
+      },
+      "id": "50dcceb27ad4bd17af8fe1fb59a09027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liceo Scientifico Statale Michelangelo",
+        "address": "VIA DEI DONORATICO SNC Cagliari CA ",
+        "meccanografico": "CAPS04000L",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://ca-michelangelo.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          39.230325,
+          9.123742
+        ],
+        "type": "Point"
+      },
+      "id": "574374f60e5193c22fa9754424072c01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IS TRAMELLO CASSINARI",
+        "address": " Via Negri 45 Piacenza PC ",
+        "meccanografico": "PCIS007002",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "Biblòh!",
+        "url": "http://bibloh.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          44.751342,
+          9.602015
+        ],
+        "type": "Point"
+      },
+      "id": "59ca55e4b135e8610bb57225fa43dcba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto Comprensivo Viale San Marco ",
+        "address": "Viale San Marco, 67  Venezia  VE ",
+        "meccanografico": "VEIC874009",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://ve-icvialesanmarco.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.481973,
+          12.260649
+        ],
+        "type": "Point"
+      },
+      "id": "5c11f4f526b1f3a59adad68b666067d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ISTITUTO COMPRENSIVO DELLA VAL NURE  ",
+        "address": "Via Acerbi, n.61  Ponte dell'Olio  Pc ",
+        "meccanografico": "PCIC80700T",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "Biblòh!",
+        "url": "http://bibloh.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          44.86762,
+          9.64433
+        ],
+        "type": "Point"
+      },
+      "id": "62687ed44c36d6e6c4bf72701c43784c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IC \"L Da Vinci\" - Venezia Mestre",
+        "address": "VIA TEVERE 93 MESTRE VE",
+        "meccanografico": "VEIC87300D",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "https://scuola.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.497582,
+          12.257115
+        ],
+        "type": "Point"
+      },
+      "id": "6c03004ea17de36f42f5073a608b4a99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IIS Leonardo Da Vinci",
+        "address": "Via Trotti 17/19 Alessandria AL ",
+        "meccanografico": "ALTD00601X",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://scuola.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          44.914126,
+          8.613031
+        ],
+        "type": "Point"
+      },
+      "id": "7d04673a0b344600bd661061a29857f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "I.C.S. TRICASE VIA APULIA",
+        "address": "Via Apulia, 2 TRICASE  LE ",
+        "meccanografico": "LEIC87500X",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "Biblòh!",
+        "url": "http://bibloh.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          39.93042,
+          18.355332
+        ],
+        "type": "Point"
+      },
+      "id": "837503b3eabf32a4d4da813ec2fb94a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IC Santa Margherita Ligure",
+        "address": "Via Liuzzi, 4 Santa Margherita Ligure GE ",
+        "meccanografico": "GEIC80600L",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://ge-icsantamargherita.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          44.33456,
+          9.21204
+        ],
+        "type": "Point"
+      },
+      "id": "8606da898326593ea6c237d8c8b8a975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto Comprensivo di Castelnuovo Don Bosco",
+        "address": "Via Mercandillo, 24 Castelnuovo Don Bosco  AT ",
+        "meccanografico": "ATIC80100B",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://at-iccastelnuovodonbosco.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.042516,
+          7.963164
+        ],
+        "type": "Point"
+      },
+      "id": "8a7984d33164c806dcdedb591c0dd219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto Comprensivo Caio Giulio Cesare ",
+        "address": "Via Cappuccina 68 D Venezia VE ",
+        "meccanografico": "VEIC87200N",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://scuola.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.481997,
+          12.235275
+        ],
+        "type": "Point"
+      },
+      "id": "961efa9b4e2bff5bb1a720147f4b9729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "I.T.S. Commerciale e per Geometri Michelangelo Buonarroti",
+        "address": "Via Angelo Celli, 1 Frascati RM ",
+        "meccanografico": "RMTD19000N",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://rm-buonarroti.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          41.808637,
+          12.684724
+        ],
+        "type": "Point"
+      },
+      "id": "9838a34d12f499ce7b960e9f29908f51"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liceo scientifico Galileo Ferraris",
+        "address": "Corso Montevecchio, 67 Torino TO ",
+        "meccanografico": "TOPS04000B",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "TorinoReteLibri",
+        "url": "http://torinoretelibri.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.07049,
+          7.68682
+        ],
+        "type": "Point"
+      },
+      "id": "9907034ff21bc679ba1a884db9f7dfd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto Comprensivo - Baccio di Montelupo",
+        "address": "Via Caverni, 60 Montelupo Fiorentino FI ",
+        "meccanografico": "FIIC811007",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://fi-baccio.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          43.732138,
+          11.020048
+        ],
+        "type": "Point"
+      },
+      "id": "9f66633cdb4e8d7aff7675158d65dacc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liceo Scientifico Statale Galileo Galilei",
+        "address": "via Ceresina, 17 Selvazzano Dentro PD ",
+        "meccanografico": "PDPS11000P",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://pd-galilei.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.412674,
+          11.813863
+        ],
+        "type": "Point"
+      },
+      "id": "a5506c69150f59f2b2cb687bfddf03dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IC \"T. Patini\" - Aquila",
+        "address": "VIA Pasquale Ficara 10 L'AQUILA AQ",
+        "meccanografico": "AQIC85000B",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "https://aq-patini.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          42.3659,
+          13.360938
+        ],
+        "type": "Point"
+      },
+      "id": "a9dc576b6457c2ff0b858c31221710f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liceo Classico e Scientifico Statale \"S. Pellico - G. Peano\" - Cuneo",
+        "address": "c.so Giovanni Giolitti 11, 12100 Cuneo",
+        "meccanografico": "CNPS02000N",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "Biblòh!",
+        "url": "http://bibloh.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          44.384405,
+          7.542611
+        ],
+        "type": "Point"
+      },
+      "id": "b1fc3eb623e9579b0bc573f0496aa0d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto Istruzione Superiore Enzo Ferrari ",
+        "address": "Vico Picardi Barcellona Pozzo di Gotto ME ",
+        "meccanografico": "MEIS01100P",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://me-iisferrari.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          38.151051,
+          15.200871
+        ],
+        "type": "Point"
+      },
+      "id": "b499e7d9b89fb7443fddc74c4427baa0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IC di Vigliano Biellese",
+        "address": "Via Dante Alighieri, 6 Vigliano Biellese BI",
+        "meccanografico": "BIIC81800P",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "https://bi-icvigliano.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.561166,
+          8.105529
+        ],
+        "type": "Point"
+      },
+      "id": "c22d5b7a378949c4624768b7503d8274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IIS - TOMMASO FAZELLO",
+        "address": "VIA ALCIDE DE GASPERI 10 SCIACCA AG ",
+        "meccanografico": "AGIS00800P",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://ag-iissfazello.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          37.515775,
+          13.079868
+        ],
+        "type": "Point"
+      },
+      "id": "c3ed44bc773436aa314ff3bbab3c7ef2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ISTITUTO TECNICO COMMERCIALE - VITTORIO VENETO - SALVEMINI",
+        "address": "Viale Mazzini 4  Latina LT ",
+        "meccanografico": "LTTD02000B",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "Bibliorete",
+        "url": "http://bibliorete.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          41.46614,
+          12.9043
+        ],
+        "type": "Point"
+      },
+      "id": "cb4dc2e11c35e36ad9d8c391253021c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ISTITUTO COMPRENSIVO \"G. FALCONE - P. BORSELLINO\" DI CAULONIA ",
+        "address": "VIA CORRADO ALVARO 2  CAULONIA RC ",
+        "meccanografico": "RCIC826001",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://scuola.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          38.342895,
+          16.462353
+        ],
+        "type": "Point"
+      },
+      "id": "d02afdce5c023a772f162f858ac4e745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IC \"Luigi Piarandello\" - Fonte Nuova",
+        "address": "VIA APPENNINI 53 FONTE NUOVA RM",
+        "meccanografico": "RMIC875009",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "https://rm-pirandello.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          41.983056,
+          12.65263
+        ],
+        "type": "Point"
+      },
+      "id": "d169caa001a6a34a55c30fbca5a8106d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ICS \"G. Falcone - P. Borsellino\" Cassabile",
+        "address": "via della Madonna, 51 Cassibile SR ",
+        "meccanografico": "SRIC801009",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://sr-falconeborsellino.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          36.972574,
+          15.202055
+        ],
+        "type": "Point"
+      },
+      "id": "d37052c6e6f195654624256a68feb3de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IC \"P. Visconti\" - Ogliastro Cilento",
+        "address": "VIA SAN LEONARDO, 6 OGLIASTRO CILENTO SA",
+        "meccanografico": "SAIC83200V",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "https://sa-visconti.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          40.35113,
+          15.04638
+        ],
+        "type": "Point"
+      },
+      "id": "da28ca0a96666477836b7274802d839c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Direzione Didattica \"Edmondo De Amicis\" - Palermo",
+        "address": "Via Rosso Di San Secondo 1 Palermo PA",
+        "meccanografico": "PAEE017009",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "https://pa-deamicis.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          38.120383,
+          13.32917
+        ],
+        "type": "Point"
+      },
+      "id": "e06e7a48db35c3e4d4d97cc884985831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto d'istruzione superiore \"Galilei - Campailla\"",
+        "address": "Piazza Baden Powell, 10 Modica RG ",
+        "meccanografico": "RGIS01600A",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://rg-galilei.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          36.8499,
+          14.76976
+        ],
+        "type": "Point"
+      },
+      "id": "e52fb3538a466fa503bb0032a43f0cf6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "I.I.S. LA FARINA BASILE",
+        "address": "VIA ORATORIO DELLA PACE, 5 Messina  ME ",
+        "meccanografico": "MEIS03100X",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://me-lafarinabasile.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          38.194987,
+          15.55373
+        ],
+        "type": "Point"
+      },
+      "id": "e55f86409a037449cb0e403e3d1a32f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "IC \"Marconi Antonelli\"",
+        "address": "Via Asigliano Vercellese, 10 Torino  TO ",
+        "meccanografico": "TOIC87500R",
+        "tipo": "Rete Scuole",
+        "poi": "school",
+        "nomerete": "TorinoReteLibri",
+        "url": "http://torinoretelibri.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          45.075942,
+          7.724748
+        ],
+        "type": "Point"
+      },
+      "id": "ea15536e4e6c36c073069a549466a3a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liceo Ginnasio Statale G.B. Vico",
+        "address": "via Salvator Rosa,117 Napoli NA ",
+        "meccanografico": "NAPC09000V",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://na-vico.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          40.854094,
+          14.24736
+        ],
+        "type": "Point"
+      },
+      "id": "ed070da8b7c75561af5ba7be0e3838e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liceo M. Fanti",
+        "address": "Viale Peruzzi, n. 7 Carpi MO ",
+        "meccanografico": "MOPS030002",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://mo-fanti.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          44.78237,
+          10.8777
+        ],
+        "type": "Point"
+      },
+      "id": "ede68ed6753368be094e40539220f02b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Istituto Comprensivo \" Mario Rapisardi\"",
+        "address": "Viale Trieste, sn Canicattì AG ",
+        "meccanografico": "AGIC82900G",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "http://scuola.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          37.35842,
+          13.84786
+        ],
+        "type": "Point"
+      },
+      "id": "f2b0c2de150a76031782b82080120487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ICS \"Galileo Galilei\" - Arienzo",
+        "address": "VIA CAPPELLA 2 ARIENZO CE",
+        "meccanografico": "CEIC848004",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "https://scuola.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          41.0279,
+          14.494817
+        ],
+        "type": "Point"
+      },
+      "id": "f67d977f8c8cffb464a1b3b6fcb4ba3e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Liceo Linguistico \"Ilaria Alpi\" - Cesena",
+        "address": "piazza Aldo Moro 76 Cesena FC",
+        "meccanografico": "FOPM05000N",
+        "tipo": "Scuola",
+        "poi": "school",
+        "nomerete": "",
+        "url": "https://fo-liceoalpi.medialibrary.it"
+      },
+      "geometry": {
+        "coordinates": [
+          44.144438,
+          12.247819
+        ],
+        "type": "Point"
+      },
+      "id": "feb4c64dd882234f29aa4c8e84c9c0e4"
+    }
+  ],
+  "type": "FeatureCollection"
+}
