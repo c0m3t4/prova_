@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Leaflet GeoJSON Search</title>
+  <link rel='stylesheet' href='https://unpkg.com/leaflet@1.2.0/dist/leaflet.css'>
+<link rel='stylesheet' href='https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css'><link rel="stylesheet" href="./style.css">
+<link rel='stylesheet' href='https://unpkg.com/leaflet@1.0.3/dist/leaflet.css'>
+
+<style>
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html,
+body,
+#map {
+    margin: 10px;
+    padding: 0;
+    width: 98%;
+    height: 95%;
+}
+
+/* form controls */
+form {
+  position: absolute;
+  z-index: 1500;
+  top: 20px;
+  right: 20px;
+  padding: 10px;
+  background: #333;
+}
+
+#userSearch {
+  margin: 10px;
+  height: 2.5em;
+  width: 1000px;
+}
+
+.ui-autocomplete {
+    z-index: 2000;
+}
+
+.leaflet-popup-content-wrapper {
+   background: #FFFFFF;
+   border: solid 3px #1EA6CD;
+   font-size: 14;
+}
+
+
+</style>
+</head>
+
+<body>
+<!-- partial:index.partial.html -->
+
+<div><input id="userSearch" type="text" color="#1EA6CD" placeholder="Cerca la tua scuola per nome o meccanografico" /></div>
+<!-- container for Leaflet map -->
+<div id="map">
+</div>
+
+<script src='https://unpkg.com/leaflet@1.0.3/dist/leaflet.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+<!-- partial -->
+<script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+<script src='https://code.jquery.com/ui/1.12.1/jquery-ui.min.js'></script>
+<script src='https://unpkg.com/leaflet@1.2.0/dist/leaflet.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.js'></script>
+<script  src="./script.js"></script>
+
+</body>
+
+<script>
+
+var map = L.map('map', {
+   center: [41, 13],
+   zoom: 6
+});
+
+
+// Open Street Map base map
+var osm = L.tileLayer('https://api.mapbox.com/styles/v1/isabellamanchia/ckrkp384t9h6r17o543x9s0hq/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiaXNhYmVsbGFtYW5jaGlhIiwiYSI6ImNrcjBkNGg5MjBwNHYyb21udnNrdm5kcW4ifQ.nzfUmZTvIHjHcbD8EaTpLg', {
+  attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+}).addTo(map);
+
+"use strict";
+
+// array to hold member name and coordinates
+var memberSearch = [];
+// array used as source for autocomplete search
+var returnMember = [];
+
+// initialize map
+
+
+// URL to GeoJSON data for members
+var geojsonData = 'https://c0m3t4.github.io/prova_/prova_leaflet.geojson';
+
+// create members layer from GeoJSON and add to map
+var pmgMembers = new L.GeoJSON.AJAX(geojsonData, {
+    // A Function that will be called once for each created Feature, after it has been created and styled
+    // see http://leafletjs.com/reference.html#geojson
+    onEachFeature: function(feature, layer) {
+        // add data about each member to an array
+        memberSearch.push({
+            // fullName will be used in the autocomplete search
+            fullName: layer.feature.properties.title + " " + layer.feature.properties.meccanografico + " " + layer.feature.properties.address + " " + layer.feature.properties.nomerete,
+            // coords will be used to zoom to each member when they are selected from search
+            coords: L.latLng(layer.feature.geometry.coordinates[1], layer.feature.geometry.coordinates[0])
+        });
+    }
+}).addTo(map);
+
+// create source (array) for autocomplete search
+// wrap array.push() within timeout function to compensate for time to load GeoJSON?
+var createMembersList = setTimeout(function() {
+    for (var i=0; i < memberSearch.length; i++) {
+        returnMember.push(memberSearch[i]["fullName"]);
+    }
+    return returnMember;
+}, 5000);
+
+// initialize jQuery UI autocomplete
+// target #userSearch input element
+// see https://api.jqueryui.com/autocomplete/
+$("#userSearch").autocomplete({
+  autoFocus:true,
+  minLength:2,
+  disabled: false,
+  delay:300, // how long after a user types until text appears
+  source: returnMember, // source for autocomplete (an array)
+  select: function(event, ui) {
+    // get member and zoom to selected member
+    new function() {
+      for (var i=0; i < memberSearch.length; i++) {
+        if (ui.item.value === memberSearch[i]["fullName"]) {
+            // store L.latLng object for selected member
+            var coords = memberSearch[i]["coords"];
+            // change map view to zoom to member if they are selected
+            map.setView(coords, 15);
+        } // end if
+      } // end for loop
+    }; // end new function
+  } // end select
+});
+
+/* Prevent hitting enter from refreshing the page */
+$("#userSearch").keypress(function (e) {
+  if (e.which == 13) {
+    e.preventDefault();
+  }
+});
+
+var popup = new L.GeoJSON.AJAX(geojsonData, {
+	style: function (feature) {
+		return {color: feature.properties.color};
+	},
+	onEachFeature: function (feature, layer) {
+    var popupContent = '<h3><b>' + feature.properties.title + ' – ' + feature.properties.meccanografico + '</b></h3>'
+    + '<p>' +
+    feature.properties.address +
+    '</p>'
+    +
+    '<p color:#1EA6CD><b><a href="' + feature.properties.url + '" target="_blank">' + feature.properties.url + '</a></b></p>'
+    +
+
+    feature.properties.nomerete;
+		layer.bindPopup(popupContent);
+	}
+}).addTo(map);
+
+</script>
+
+</html>
