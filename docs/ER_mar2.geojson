@@ -1,0 +1,255 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "2",
+        "Full Address": "via Boiardi, 5 Fiorenzuola d'Arda (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Boiardi, 5",
+        "SitoScuola": "https://www.istitutomatteifiorenzuola.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Fiorenzuola d'Arda",
+        "Meccanografico": "PCIS00400E",
+        "Nomerete": "",
+        "Scuola": "Istituto Statale di Istruzione Superiore \"Enrico Mattei\""
+      },
+      "geometry": {
+        "coordinates": [
+          9.91329,
+          44.92435
+        ],
+        "type": "Point"
+      },
+      "id": "1b3e4799e7d5872a87e237acc3e09824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "1",
+        "Full Address": "via San Bernardo da Chiaravalle, 10 Fiorenzuola d'Arda (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via San Bernardo da Chiaravalle, 10",
+        "SitoScuola": "https://www.istitutocomprensivofiorenzuola.edu.it/index.php",
+        "Regione": "Emilia Romagna",
+        "Città": "Fiorenzuola d'Arda",
+        "Meccanografico": "PCIC818008",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale di Fiorenzuola d'Arda"
+      },
+      "geometry": {
+        "coordinates": [
+          9.911712,
+          44.924728
+        ],
+        "type": "Point"
+      },
+      "id": "2f2bfb6eea369976f5f117108c6b7e9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "1",
+        "Full Address": "via Pelicelli, 8/A Parma (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Pelicelli, 8/A",
+        "SitoScuola": "https://icsalvodacquistoparma.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Parma",
+        "Meccanografico": "PRIC82900G",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale \"Salvo d'Acquisto\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.32618,
+          44.79935
+        ],
+        "type": "Point"
+      },
+      "id": "39f06f9cdfb549654d5ab5f1130b3d35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "2",
+        "Full Address": "via Maria Luigia, 3 Parma (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Maria Luigia, 3",
+        "SitoScuola": "https://www.liceoulivi.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Parma",
+        "Meccanografico": "PRPS04000X",
+        "Nomerete": "",
+        "Scuola": "Liceo Scientifico Statale \"Giacomo Ulivi\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.322237,
+          44.796786
+        ],
+        "type": "Point"
+      },
+      "id": "58c72f1033fd084a703d3ed1951b4ab1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "1",
+        "Full Address": "via Gramsci, 18 Riolo Terme (RA) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RA)",
+        "Dominio": "https://bibliotecheromagna.medialibrary.it",
+        "Indirizzo": "via Gramsci, 18",
+        "SitoScuola": "https://www.icpascoliriolo.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Riolo Terme",
+        "Meccanografico": "RAIC816005",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale \"G. Pascoli\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.72722,
+          44.27609
+        ],
+        "type": "Point"
+      },
+      "id": "768ae8feeb36556816ac9ef22d57c3f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "1",
+        "Full Address": "via Amundsen, 80 Modena (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Amundsen, 80",
+        "SitoScuola": "https://www.ic1modena.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Modena",
+        "Meccanografico": "MOIC84100V",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo 1 Modena"
+      },
+      "geometry": {
+        "coordinates": [
+          10.92539,
+          44.64783
+        ],
+        "type": "Point"
+      },
+      "id": "9c885a0c2af9b9dfdfc3285dccae86a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "1",
+        "Full Address": "via P. Togliatti, 20/2 Quattro Castella (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via P. Togliatti, 20/2",
+        "SitoScuola": "https://ic4cv.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Quattro Castella",
+        "Meccanografico": "REIC84400Q",
+        "Nomerete": "",
+        "Scuola": "Istuto Comprensivo Quattro Castella-Vezzano sul Crostolo"
+      },
+      "geometry": {
+        "coordinates": [
+          10.47429,
+          44.63496
+        ],
+        "type": "Point"
+      },
+      "id": "b25eacac900c57612223cafecd150704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "2",
+        "Full Address": "via Guglielmo Marconi, 6 Ravenna (RA) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RA)",
+        "Dominio": "https://bibliotecheromagna.medialibrary.it",
+        "Indirizzo": "via Guglielmo Marconi, 6",
+        "SitoScuola": "https://www.itmorigiaperdisa.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Ravenna",
+        "Meccanografico": "RATL02000L",
+        "Nomerete": "",
+        "Scuola": "Istituto Tecnico \"Camillo Morigia-Luigi Perdisa\""
+      },
+      "geometry": {
+        "coordinates": [
+          12.191941,
+          44.405203
+        ],
+        "type": "Point"
+      },
+      "id": "c3a3c362a8a8462cb952b8dcbf3a063c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "2",
+        "Full Address": "via Cittadella, 50 Modena (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Cittadella, 50",
+        "SitoScuola": "https://www.muratorisancarlo.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Modena",
+        "Meccanografico": "MOPC020008",
+        "Nomerete": "",
+        "Scuola": "Liceo Classico e Linguistico \"L.A. Muratori-San Carlo\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.92539,
+          44.64783
+        ],
+        "type": "Point"
+      },
+      "id": "d95c9ee516ab11bcbb4475a64f0b74f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "2",
+        "Full Address": "via Filippo Re, 8 Reggio Emilia (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Filippo Re, 8",
+        "SitoScuola": "https://www.scaruffilevitricolore.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Reggio Emilia",
+        "Meccanografico": "RETD09000V",
+        "Nomerete": "",
+        "Scuola": "Istituto Tecnico \"Scaruffi-Levi-Tricolore\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.634207,
+          44.700566
+        ],
+        "type": "Point"
+      },
+      "id": "fffa01144a1bd3728fe90c5ce722dc70"
+    }
+  ],
+  "type": "FeatureCollection"
+}
