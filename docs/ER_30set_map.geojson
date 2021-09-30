@@ -1,0 +1,2380 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Piersanti Mattarella, 145 Modena (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://mo-mattarella.medialibrary.it/",
+        "Indirizzo": "via Piersanti Mattarella, 145",
+        "SitoScuola": "https://www.ic3modena.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Modena",
+        "Meccanografico": "MOIC840003",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo 3 di Modena"
+      },
+      "geometry": {
+        "coordinates": [
+          10.922624,
+          44.621556
+        ],
+        "type": "Point"
+      },
+      "id": "04dc3de4d11d4e4c417f75a5d8730ab7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Fratelli Cervi, 12 Altedo (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://bo-icmalalbergo.medialibrary.it",
+        "Indirizzo": "via Fratelli Cervi, 12",
+        "SitoScuola": "https://icmalalbergo.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Altedo",
+        "Meccanografico": "BOIC825003",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo di Malalbergo e Baricella a Indirizzo Musicale"
+      },
+      "geometry": {
+        "coordinates": [
+          11.487804,
+          44.662959
+        ],
+        "type": "Point"
+      },
+      "id": "0eb645456152fb5e19170d32c45c4c71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via San Colombano, 190 Cesena (FC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(FC)",
+        "Dominio": "https://fc-resistenza.medialibrary.it",
+        "Indirizzo": "via San Colombano, 190",
+        "SitoScuola": "https://www.smresistenza.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Cesena",
+        "Meccanografico": "FOMM02800V",
+        "Nomerete": "",
+        "Scuola": "Scuola Secondaria di I Grado viale della Resistenza"
+      },
+      "geometry": {
+        "coordinates": [
+          12.225496,
+          44.143952
+        ],
+        "type": "Point"
+      },
+      "id": "1006a01c33e565db6db039b8dba8f19d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Filippo Re, 8 Reggio Emilia (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Filippo Re, 8",
+        "SitoScuola": "https://www.scaruffilevitricolore.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Reggio Emilia",
+        "Meccanografico": "RETD09000V",
+        "Nomerete": "",
+        "Scuola": "Istituto Tecnico \"Scaruffi-Levi-Tricolore\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.634207,
+          44.700566
+        ],
+        "type": "Point"
+      },
+      "id": "1483c0e03467d80ea9bbeb41e4480ca9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Filippo Beroaldo, 34 Bologna (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://lpv.medialibrary.it",
+        "Indirizzo": "via Filippo Beroaldo, 34",
+        "SitoScuola": "http://www.ic11bo.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Bologna",
+        "Meccanografico": "BOIC854003",
+        "Nomerete": "Leggere per vivere",
+        "Scuola": "Istituto Comprensivo Statale 11 Bologna"
+      },
+      "geometry": {
+        "coordinates": [
+          11.372337,
+          44.500428
+        ],
+        "type": "Point"
+      },
+      "id": "18ad05f890cc38d2ddcd91ec86455628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Nosadella, 47 Bologna (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://liceosteamemilia.medialibrary.it",
+        "Indirizzo": "via Nosadella, 47",
+        "SitoScuola": "https://www.liceosteamemilia.com/",
+        "Regione": "Emilia Romagna",
+        "Città": "Bologna",
+        "Meccanografico": "BOPSOI5007",
+        "Nomerete": "",
+        "Scuola": "Liceo Steam International Bologna"
+      },
+      "geometry": {
+        "coordinates": [
+          11.33475,
+          44.491321
+        ],
+        "type": "Point"
+      },
+      "id": "1a4ead7e3c637f08200538022f27552b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Augusto Valli, 40 Modena (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Augusto Valli, 40",
+        "SitoScuola": "https://www.ic6modena.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Modena",
+        "Meccanografico": "MOIC84400A",
+        "Nomerete": "Biblòh!",
+        "Scuola": "Istituto Comprensivo 6 Modena"
+      },
+      "geometry": {
+        "coordinates": [
+          10.912952,
+          44.63159
+        ],
+        "type": "Point"
+      },
+      "id": "1de036f49acf6a0631bafa5e21642e3d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Ferrara, 30 San Giovanni in Marignano (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Ferrara, 30",
+        "SitoScuola": "https://www.icmarignano.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "San Giovanni in Marignano",
+        "Meccanografico": "RNIC80100N",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo San Giovanni in Marignano"
+      },
+      "geometry": {
+        "coordinates": [
+          12.700638,
+          43.934376
+        ],
+        "type": "Point"
+      },
+      "id": "1eded74d9a6a242fd54bb8f668de8520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "strada Contrada, 127 Modena (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://mo-bilingualmiddleschool.medialibrary.it",
+        "Indirizzo": "strada Contrada, 127",
+        "SitoScuola": "",
+        "Regione": "Emilia Romagna",
+        "Città": "Modena",
+        "Meccanografico": "MO1M0B500E",
+        "Nomerete": "",
+        "Scuola": "The Bilingual Middle School S.r.l"
+      },
+      "geometry": {
+        "coordinates": [
+          10.900995,
+          44.619097
+        ],
+        "type": "Point"
+      },
+      "id": "22e20114641d830f963395951b3e7656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "viale Marconi, 123 Castrocaro Terme e Terra del Sole (FC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(FC)",
+        "Dominio": "https://fc-icvalledelmontone.medialibrary.it",
+        "Indirizzo": "viale Marconi, 123",
+        "SitoScuola": "https://www.icsvalledelmontone.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Castrocaro Terme e Terra del Sole",
+        "Meccanografico": "FOIC80800L",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Valle del Montone"
+      },
+      "geometry": {
+        "coordinates": [
+          11.96068,
+          44.18676
+        ],
+        "type": "Point"
+      },
+      "id": "244a6e0e8fc27607985054375df79bd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Caduti per la Libertà, 16 Cervia (RA) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RA)",
+        "Dominio": "https://ra-iccervia2.medialibrary.it",
+        "Indirizzo": "via Caduti per la Libertà, 16",
+        "SitoScuola": "https://www.iccervia2.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Cervia",
+        "Meccanografico": "RAIC829007",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale Cervia 2"
+      },
+      "geometry": {
+        "coordinates": [
+          12.350832,
+          44.257128
+        ],
+        "type": "Point"
+      },
+      "id": "2d2bb9212134ed2b3bf6f1e701379c35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "piazzale Santafiora, 9 Parma (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "piazzale Santafiora, 9",
+        "SitoScuola": "http://www.icparmacentro.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Parma",
+        "Meccanografico": "PRIC82700X",
+        "Nomerete": "Biblòh!",
+        "Scuola": "Istituto Comprensivo Parma Centro"
+      },
+      "geometry": {
+        "coordinates": [
+          10.327248,
+          44.797661
+        ],
+        "type": "Point"
+      },
+      "id": "35ba5123844f9ae4b5affc0bcb1adf5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Tambroni, 24 Rimini (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Tambroni, 24",
+        "SitoScuola": "https://www.albertirimini.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Rimini",
+        "Meccanografico": "RNRI010007",
+        "Nomerete": "",
+        "Scuola": "Istituto Professionale Industria Artigianato \"Leon Battista Alberti\""
+      },
+      "geometry": {
+        "coordinates": [
+          12.56528,
+          44.05755
+        ],
+        "type": "Point"
+      },
+      "id": "377b5a844f1675e517f5fe9c7d2fe681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "viale Storchi, 249 Modena (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "viale Storchi, 249",
+        "SitoScuola": "http://sacrocuore.intertechitalia.it/sacrocuore/Viewer#",
+        "Regione": "Emilia Romagna",
+        "Città": "Modena",
+        "Meccanografico": "MOPS02500E",
+        "Nomerete": "",
+        "Scuola": "Istituto Sacro Cuore"
+      },
+      "geometry": {
+        "coordinates": [
+          10.916301,
+          44.65271
+        ],
+        "type": "Point"
+      },
+      "id": "379a7b25ad0effc18014169065e1a9a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Massumatico, 67 San Pietro in Casale (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://bo-icsanpietroincasale.medialibrary.it",
+        "Indirizzo": "via Massumatico, 67",
+        "SitoScuola": "https://icsanpietroincasale.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "San Pietro in Casale",
+        "Meccanografico": "BOIC80500T",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo di San Pietro in Casale"
+      },
+      "geometry": {
+        "coordinates": [
+          11.400543,
+          44.702558
+        ],
+        "type": "Point"
+      },
+      "id": "38481bc0ecb5e9d841107458ea160e8e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Ungaretti, 7 San Nicolò di Rottofreno (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Ungaretti, 7",
+        "SitoScuola": "https://www.icsannicolo.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "San Nicolò di Rottofreno",
+        "Meccanografico": "PCIC812009",
+        "Nomerete": "Biblòh!",
+        "Scuola": "Istituto Comprensivo \"M.K. Gandhi\""
+      },
+      "geometry": {
+        "coordinates": [
+          9.6054,
+          45.05685
+        ],
+        "type": "Point"
+      },
+      "id": "389ec33a03f40d098eb9b6817d145ce0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "viale I maggio, 5 Budrio (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://bo-iisgiordanobruno.medialibrary.it",
+        "Indirizzo": "viale I maggio, 5",
+        "SitoScuola": "https://www.iisgiordanobruno.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Budrio",
+        "Meccanografico": "BOIS00300A",
+        "Nomerete": "",
+        "Scuola": "Istituto Statale di Istruzione Superiore \"Giordano Bruno\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.53439,
+          44.53745
+        ],
+        "type": "Point"
+      },
+      "id": "3d191595279861183d7d3a1b398b556d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Franchini, 10 Carpaneto Piacentino (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Franchini, 10",
+        "SitoScuola": "https://www.iccarpaneto.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Carpaneto Piacentino",
+        "Meccanografico": "PCIC814001",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Carpaneto Piacentino"
+      },
+      "geometry": {
+        "coordinates": [
+          9.78703,
+          44.91355
+        ],
+        "type": "Point"
+      },
+      "id": "3efbf86f828a7395fb3771f633194dfb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via dalla Volta, 4 Bologna (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://bo-luxemburg.medialibrary.it",
+        "Indirizzo": "via dalla Volta, 4",
+        "SitoScuola": "https://www.luxemburg.bo.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Bologna",
+        "Meccanografico": "BOTD06000Q",
+        "Nomerete": "",
+        "Scuola": "Istituto Tecnico Commerciale Statale \"Rosa Luxemburg\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.311232,
+          44.514497
+        ],
+        "type": "Point"
+      },
+      "id": "428804738993ecfb4ccf77072d63d391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Negri, 45 Piacenza (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Negri, 45",
+        "SitoScuola": "https://www.tramellocassinari.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Piacenza",
+        "Meccanografico": "PCIS007002",
+        "Nomerete": "Biblòh!",
+        "Scuola": "Istituto Statale \"A. Tramello-B. Cassinari\""
+      },
+      "geometry": {
+        "coordinates": [
+          9.70462,
+          45.04202
+        ],
+        "type": "Point"
+      },
+      "id": "44b959c4db3f206b1ec00296f63d0b10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Fuori Ponte, 23 Castellarano (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://re-iccastellarano.medialibrary.it",
+        "Indirizzo": "via Fuori Ponte, 23",
+        "SitoScuola": "https://iccastellarano.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Castellarano",
+        "Meccanografico": "REIC83700L",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Castellarano"
+      },
+      "geometry": {
+        "coordinates": [
+          10.729997,
+          44.515601
+        ],
+        "type": "Point"
+      },
+      "id": "44fb6720849f99aeceb963a3c5a6cc44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Marconi, 61 Porretta Terme (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Marconi, 61",
+        "SitoScuola": "https://www.icporretta.edu.it/aaa/pages/page_blog.php?id=1",
+        "Regione": "Emilia Romagna",
+        "Città": "Porretta Terme",
+        "Meccanografico": "BOIC832006",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale di Porretta Terme"
+      },
+      "geometry": {
+        "coordinates": [
+          10.97432,
+          44.16325
+        ],
+        "type": "Point"
+      },
+      "id": "4596dbd56396e2ab023404fb7a4cffe7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Amundsen, 80 Modena (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Amundsen, 80",
+        "SitoScuola": "https://www.ic1modena.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Modena",
+        "Meccanografico": "MOIC84100V",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo 1 Modena"
+      },
+      "geometry": {
+        "coordinates": [
+          10.92539,
+          44.64783
+        ],
+        "type": "Point"
+      },
+      "id": "479ad8e48c6ad1a8fa5c6c42c0f84b57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "piazzale Genova, 1 Piacenza (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "piazzale Genova, 1",
+        "SitoScuola": "https://www.liceorespighi.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Piacenza",
+        "Meccanografico": "PCPS02000T",
+        "Nomerete": "Biblòh!",
+        "Scuola": "Liceo Scientifico Statale \"Lorenzo Respighi\""
+      },
+      "geometry": {
+        "coordinates": [
+          9.686541,
+          45.046934
+        ],
+        "type": "Point"
+      },
+      "id": "4970e051b370687adad1d7fe4bc01533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Pelicelli, 8/A Parma (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Pelicelli, 8/A",
+        "SitoScuola": "https://icsalvodacquistoparma.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Parma",
+        "Meccanografico": "PRIC82900G",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale \"Salvo d'Acquisto\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.32618,
+          44.79935
+        ],
+        "type": "Point"
+      },
+      "id": "4e7547084a05786d85cfbe730f7d4510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "viale Leopoldo Nobili, 1 Reggio Emilia (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://re-chierici.medialibrary.it",
+        "Indirizzo": "viale Leopoldo Nobili, 1",
+        "SitoScuola": "https://www.liceochierici-re.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Reggio Emilia",
+        "Meccanografico": "RESD01000L",
+        "Nomerete": "",
+        "Scuola": "Liceo Artistico Statale \"Gaetano Chierici\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.632567,
+          44.701531
+        ],
+        "type": "Point"
+      },
+      "id": "558c9537c50790fb73ad2e6366946e2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Forlivese, 7 Faenza (RA) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RA)",
+        "Dominio": "https://ra-carchidiostrocchi.medialibrary.it",
+        "Indirizzo": "via Forlivese, 7",
+        "SitoScuola": "https://www.iccarchidiostrocchi.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Faenza",
+        "Meccanografico": "RAIC817001",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale \"Carchidio-Strocchi\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.894693,
+          44.280616
+        ],
+        "type": "Point"
+      },
+      "id": "566317c21ebf26acbc558960100daaa9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Luigi Longo, 4 Bologna (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://bo-ic9.medialibrary.it",
+        "Indirizzo": "via Luigi Longo, 4",
+        "SitoScuola": "https://www.ic9bo.edu.it/wordpress/",
+        "Regione": "Emilia Romagna",
+        "Città": "Bologna",
+        "Meccanografico": "BOIC85200B",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo 9 Bologna"
+      },
+      "geometry": {
+        "coordinates": [
+          11.385681,
+          44.467692
+        ],
+        "type": "Point"
+      },
+      "id": "58d230c1f913c0beba2eaf98c0c5896b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Fonte Leali, 392 Mondaino (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://rn-mondaino.medialibrary.it",
+        "Indirizzo": "via Fonte Leali, 392",
+        "SitoScuola": "https://www.icmondaino.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Mondaino",
+        "Meccanografico": "RNIC80200D",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale Mondaino"
+      },
+      "geometry": {
+        "coordinates": [
+          12.670203,
+          43.85688
+        ],
+        "type": "Point"
+      },
+      "id": "5c6d1fa2926e93f54e4a7f19717903a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Antonio Gramsci, 21 Casalgrande (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://re-iccasalgrande.medialibrary.it",
+        "Indirizzo": "via Antonio Gramsci, 21",
+        "SitoScuola": "https://iccasalgrande.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Casalgrande",
+        "Meccanografico": "REIC833009",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Casalgrande"
+      },
+      "geometry": {
+        "coordinates": [
+          10.737312,
+          44.585492
+        ],
+        "type": "Point"
+      },
+      "id": "5c9e3c8e9c77d97b7462ee0c3919d961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Manzoni, 6 Fidenza (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Manzoni, 6",
+        "SitoScuola": "https://www.paciolo-dannunzio.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Fidenza",
+        "Meccanografico": "PRIS00300G",
+        "Nomerete": "",
+        "Scuola": "Istituto di Istruzione Secondaria Superiore \"Paciolo-D'Annunzio\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.06546,
+          44.86223
+        ],
+        "type": "Point"
+      },
+      "id": "64804e96bbd9a70949ab958ad501e016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Roma, 129 Ravarino (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://mo-ic2ravarino.medialibrary.it",
+        "Indirizzo": "via Roma, 129",
+        "SitoScuola": "https://www.ic2ravarino.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Ravarino",
+        "Meccanografico": "MOIC84900D",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo 2 Ravarino"
+      },
+      "geometry": {
+        "coordinates": [
+          11.097732,
+          44.724329
+        ],
+        "type": "Point"
+      },
+      "id": "658b623475ea55de0974c48f6e9ee145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "Via Langhirano 177/A Parma (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://pr-scuolaeuropa.medialibrary.it",
+        "Indirizzo": "Via Langhirano 177/A",
+        "SitoScuola": "https://www.scuolaperleuropa.eu/",
+        "Regione": "Emilia Romagna",
+        "Città": "Parma",
+        "Meccanografico": "PRIC83700E",
+        "Nomerete": "",
+        "Scuola": "Scuola per L'Europa"
+      },
+      "geometry": {
+        "coordinates": [
+          10.319592,
+          44.768943
+        ],
+        "type": "Point"
+      },
+      "id": "66f7095535d966fb3fc9a72b984b4833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Lazio, 3 Parma (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Lazio, 3",
+        "SitoScuola": "https://giordaniparma.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Parma",
+        "Meccanografico": "PRIS00400B",
+        "Nomerete": "",
+        "Scuola": "Istituto Statale di Istruzione Secondaria Superiore \"Pietro Giordani\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.345086,
+          44.802673
+        ],
+        "type": "Point"
+      },
+      "id": "67fd24f76844ca0be032342634eb3b14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Giorgina Saffi, 12 Forlì (FC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(FC)",
+        "Dominio": "https://fc-ic1.medialibrary.it",
+        "Indirizzo": "via Giorgina Saffi, 12",
+        "SitoScuola": "https://www.ic1forli.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Forlì",
+        "Meccanografico": "FOIC826006",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo 1 Forlì"
+      },
+      "geometry": {
+        "coordinates": [
+          12.038318,
+          44.221867
+        ],
+        "type": "Point"
+      },
+      "id": "6a0bffddca563c6cb293d23265bf8d33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "viale Monte San Michele ,12 Reggio Emilia (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://re-icdavinci.medialibrary.it",
+        "Indirizzo": "viale Monte San Michele ,12",
+        "SitoScuola": "https://icdavincireggioemilia.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Reggio Emilia",
+        "Meccanografico": "REIC847007",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo \"Leonardo da Vinci\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.638688,
+          44.697523
+        ],
+        "type": "Point"
+      },
+      "id": "6b339bdc74cfb4bbaf4217540e93fad9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Piave, 24 Podenzano (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Piave, 24",
+        "SitoScuola": "https://www.icparinipodenzano.edu.it/aaa/pages/page_details.php?page_id=1",
+        "Regione": "Emilia Romagna",
+        "Città": "Podenzano",
+        "Meccanografico": "PCIC81000N",
+        "Nomerete": "Biblòh!",
+        "Scuola": "Istituto Comprensivo \"G. Parini\""
+      },
+      "geometry": {
+        "coordinates": [
+          9.684404,
+          44.952822
+        ],
+        "type": "Point"
+      },
+      "id": "6ba1c77f80d8186a2e2238db4b9f708a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Morandi, 4 Castelnovo ne' Monti (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Morandi, 4",
+        "SitoScuola": "https://iiscastelnovonemonti.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Castelnovo ne' Monti",
+        "Meccanografico": "REIS014004",
+        "Nomerete": "",
+        "Scuola": "Istituto di Istruzione Superiore \"Nelson Mandela\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.40329,
+          44.43556
+        ],
+        "type": "Point"
+      },
+      "id": "6d0b3943a5f4694d3d0c656e2a9178fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Mazzini, 62 Sassuolo (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://mo-icsassuolo1ce.medialibrary.it",
+        "Indirizzo": "via Mazzini, 62",
+        "SitoScuola": "https://www.icsassuolo1centroest.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Sassuolo",
+        "Meccanografico": "MOIC83000C",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Sassuolo I Centro Est"
+      },
+      "geometry": {
+        "coordinates": [
+          10.78962,
+          44.54826
+        ],
+        "type": "Point"
+      },
+      "id": "702d5de29509b98f2498a1dd5b5bb634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "viale Peruzzi, 7 Carpi (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://mo-fanti.medialibrary.it",
+        "Indirizzo": "viale Peruzzi, 7",
+        "SitoScuola": "https://www.liceofanti.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Carpi",
+        "Meccanografico": "MOPS030002",
+        "Nomerete": "",
+        "Scuola": "Liceo \"Manfredo Fanti\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.8777,
+          44.78237
+        ],
+        "type": "Point"
+      },
+      "id": "716c48eecab5f5d56844bedda4406713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Maria Luigia, 3 Parma (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Maria Luigia, 3",
+        "SitoScuola": "https://www.liceoulivi.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Parma",
+        "Meccanografico": "PRPS04000X",
+        "Nomerete": "",
+        "Scuola": "Liceo Scientifico Statale \"Giacomo Ulivi\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.322237,
+          44.796786
+        ],
+        "type": "Point"
+      },
+      "id": "742b2e98b9c7850dfa528a59e895aa3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Vittorio Veneto, 36 Fusignano (RA) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RA)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Vittorio Veneto, 36",
+        "SitoScuola": "https://www.icbattaglia.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Fusignano",
+        "Meccanografico": "RAIC82100L",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo \"Luigi Battaglia\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.960591,
+          44.468687
+        ],
+        "type": "Point"
+      },
+      "id": "75216ad687fbccd8047a6264fc66b10d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Resistenza, 700 Vignola (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Resistenza, 700",
+        "SitoScuola": "https://www.scuolaparadisi.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Vignola",
+        "Meccanografico": "MOIS00700G",
+        "Nomerete": "",
+        "Scuola": "Istituto di Istruzione Superiore \"Agostino Paradisi\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.0058,
+          44.48758
+        ],
+        "type": "Point"
+      },
+      "id": "79eff7dfa192f29626a593953a3c0931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Bassanelli, 9/11 Bologna (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://bo-avs.medialibrary.it",
+        "Indirizzo": "via Bassanelli, 9/11",
+        "SitoScuola": "http://www.iav.it/home",
+        "Regione": "Emilia Romagna",
+        "Città": "Bologna",
+        "Meccanografico": "BOIS01900X",
+        "Nomerete": "",
+        "Scuola": "Istituto di Istruzione Superiore \"Aldini Valeriani Sirani\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.33875,
+          44.49381
+        ],
+        "type": "Point"
+      },
+      "id": "7bbda3a2ee3a66e20311605a16a116bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Puccini, 29 Pianello Val Tidone (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Puccini, 29",
+        "SitoScuola": "https://icpianellovt.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Pianello Val Tidone",
+        "Meccanografico": "PCIC81100D",
+        "Nomerete": "Biblòh!",
+        "Scuola": "Istituto Comprensivo di Pianello Val Tidone"
+      },
+      "geometry": {
+        "coordinates": [
+          9.404744,
+          44.946511
+        ],
+        "type": "Point"
+      },
+      "id": "7f1597bc31e39b6fa6aa847707a996bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Baldassarre Peruzzi, 9 Carpi (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://mo-davinci.medialibrary.it",
+        "Indirizzo": "via Baldassarre Peruzzi, 9",
+        "SitoScuola": "https://www.itivinci.mo.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Carpi",
+        "Meccanografico": "MOTF030004",
+        "Nomerete": "",
+        "Scuola": "Istituto Tecnico Industriale Statale \"Leonardo Da Vinci\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.871169,
+          44.782871
+        ],
+        "type": "Point"
+      },
+      "id": "80177be5fccd1425596e0f950ec8620b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "strada Albareto, 93 Modena (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "strada Albareto, 93",
+        "SitoScuola": "https://www.ic10modena.edu.it/index.php",
+        "Regione": "Emilia Romagna",
+        "Città": "Modena",
+        "Meccanografico": "MOIC84800N",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale Modena 10"
+      },
+      "geometry": {
+        "coordinates": [
+          10.945663,
+          44.659617
+        ],
+        "type": "Point"
+      },
+      "id": "8242d98a72601481be12e338c949654c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Acerbi, 61 Ponte dell'Olio (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Acerbi, 61",
+        "SitoScuola": "https://icdellavalnure.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Ponte dell'Olio",
+        "Meccanografico": "PCIC80700T",
+        "Nomerete": "Biblòh!",
+        "Scuola": "Istituto Comprensivo della Val Nure"
+      },
+      "geometry": {
+        "coordinates": [
+          9.64433,
+          44.86762
+        ],
+        "type": "Point"
+      },
+      "id": "84827f2d8afba3af935db7ca0bdc4808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Michele dei Ramazzotti, 24 Monghidoro (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Michele dei Ramazzotti, 24",
+        "SitoScuola": "https://icloianomonghidoro.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Monghidoro",
+        "Meccanografico": "BOIC88400V",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo di Loiano Monghidoro"
+      },
+      "geometry": {
+        "coordinates": [
+          11.321016,
+          44.220867
+        ],
+        "type": "Point"
+      },
+      "id": "8561832d11d5228240eb8f3207b1e72e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Marconi, 15 Ravenna (RA) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RA)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Marconi, 15",
+        "SitoScuola": "https://www.icrandi.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Ravenna",
+        "Meccanografico": "RAIC82600Q",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo \"Randi\""
+      },
+      "geometry": {
+        "coordinates": [
+          12.20121,
+          44.41344
+        ],
+        "type": "Point"
+      },
+      "id": "8726df67b7e5ae354d25160aca8edd15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via San Bernardo da Chiaravalle, 10 Fiorenzuola d'Arda (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via San Bernardo da Chiaravalle, 10",
+        "SitoScuola": "https://www.istitutocomprensivofiorenzuola.edu.it/index.php",
+        "Regione": "Emilia Romagna",
+        "Città": "Fiorenzuola d'Arda",
+        "Meccanografico": "PCIC818008",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale di Fiorenzuola d'Arda"
+      },
+      "geometry": {
+        "coordinates": [
+          9.911712,
+          44.924728
+        ],
+        "type": "Point"
+      },
+      "id": "928ad08eac5f72d30037fa272334ec23"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Laura Bassi Veratti, 20 Bologna (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://bo-ic21.medialibrary.it",
+        "Indirizzo": "via Laura Bassi Veratti, 20",
+        "SitoScuola": "https://www.istitutocomprensivo21bologna.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Bologna",
+        "Meccanografico": "BOIC88000G",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo 21 Bologna"
+      },
+      "geometry": {
+        "coordinates": [
+          11.368151,
+          44.482894
+        ],
+        "type": "Point"
+      },
+      "id": "93b3dd0d4dcce050ef61bf5eac7478d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Giovanni Domenico Cassini, 3 Bologna (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://lpv.medialibrary.it",
+        "Indirizzo": "via Giovanni Domenico Cassini, 3",
+        "SitoScuola": "https://www.belluzzifioravanti.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Bologna",
+        "Meccanografico": "BOIS02300G",
+        "Nomerete": "Leggere per vivere",
+        "Scuola": "Istituto di Istruzione Superiore \"Belluzzi-Fioravanti\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.285254,
+          44.489774
+        ],
+        "type": "Point"
+      },
+      "id": "99bed35fa6eeb7918377c06026a19bf6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Divisione Acqui, 160 Modena (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://mo-ic4.medialibrary.it",
+        "Indirizzo": "via Divisione Acqui, 160",
+        "SitoScuola": "https://www.ic4modena.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Modena",
+        "Meccanografico": "MOIC85100D",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo 4 Modena"
+      },
+      "geometry": {
+        "coordinates": [
+          10.951149,
+          44.643415
+        ],
+        "type": "Point"
+      },
+      "id": "a333385060ca7d2bcf469a9122e826b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Guglielmo Marconi, 6 Ravenna (RA) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RA)",
+        "Dominio": "https://bibliotecheromagna.medialibrary.it",
+        "Indirizzo": "via Guglielmo Marconi, 6",
+        "SitoScuola": "https://www.itmorigiaperdisa.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Ravenna",
+        "Meccanografico": "RATL02000L",
+        "Nomerete": "",
+        "Scuola": "Istituto Tecnico \"Camillo Morigia-Luigi Perdisa\""
+      },
+      "geometry": {
+        "coordinates": [
+          12.191941,
+          44.405203
+        ],
+        "type": "Point"
+      },
+      "id": "a45b00c6fa5f13198f66e7ca8ac68e26"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via XX Settembre, 5 Reggio Emilia (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://lpv.medialibrary.it",
+        "Indirizzo": "via XX Settembre, 5",
+        "SitoScuola": "https://liceomoro.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Reggio Emilia",
+        "Meccanografico": "REPS03000B",
+        "Nomerete": "Leggere per vivere",
+        "Scuola": "Liceo Scientifico Statale \"Aldo Moro\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.622744,
+          44.709225
+        ],
+        "type": "Point"
+      },
+      "id": "a9f8a0c26e3fbc8efa27ab1ff6847d02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Antonio Vivaldi, 76 Imola (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://bo-orsini.medialibrary.it",
+        "Indirizzo": "via Antonio Vivaldi, 76",
+        "SitoScuola": "https://www.ic7imola.edu.it/default.asp",
+        "Regione": "Emilia Romagna",
+        "Città": "Imola",
+        "Meccanografico": "BOIC85600P",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo 7 \"Luigi Orsini\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.682865,
+          44.345673
+        ],
+        "type": "Point"
+      },
+      "id": "ab230169b7fbccf69a9fad2ec65d4846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Nicolò Zeno, 21 Bellaria Igea Marina (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://rn-icbellaria.medialibrary.it",
+        "Indirizzo": "via Nicolò Zeno, 21",
+        "SitoScuola": "https://icbellaria.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Bellaria Igea Marina",
+        "Meccanografico": "RNIC81000C",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Bellaria"
+      },
+      "geometry": {
+        "coordinates": [
+          12.455029,
+          44.151751
+        ],
+        "type": "Point"
+      },
+      "id": "ab8a7b1389282b6b7a903d28b0106d37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Cittadella, 50 Modena (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Cittadella, 50",
+        "SitoScuola": "https://www.muratorisancarlo.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Modena",
+        "Meccanografico": "MOPC020008",
+        "Nomerete": "",
+        "Scuola": "Liceo Classico e Linguistico \"L.A. Muratori-San Carlo\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.92539,
+          44.64783
+        ],
+        "type": "Point"
+      },
+      "id": "abe181b6c39cbf3a93a5bec21688b687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Fassi, 1 Carpi (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Fassi, 1",
+        "SitoScuola": "https://www.comprensivocarpicentro.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Carpi",
+        "Meccanografico": "MOIC823009",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Carpi Zona Centro"
+      },
+      "geometry": {
+        "coordinates": [
+          10.8777,
+          44.78237
+        ],
+        "type": "Point"
+      },
+      "id": "ad452d40f44af26ef0b1b00d1a3ff8d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Jacopo Barozzi, 4 Mirandola (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://mo-galilei.medialibrary.it",
+        "Indirizzo": "via Jacopo Barozzi, 4",
+        "SitoScuola": "https://www.galileimirandola.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Mirandola",
+        "Meccanografico": "MOIS00800B",
+        "Nomerete": "",
+        "Scuola": "Istituto Statale di Istruzione Superiore \"Galileo Galilei\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.07142,
+          44.881646
+        ],
+        "type": "Point"
+      },
+      "id": "add78dc68d510ffe86d765a136627d04"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Pier Giacinto Terrachini, 20 Reggio Emilia (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://re-pertini1.medialibrary.it",
+        "Indirizzo": "via Pier Giacinto Terrachini, 20",
+        "SitoScuola": "https://icpertini1.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Reggio Emilia",
+        "Meccanografico": "REIC850003",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo \"Sandro Pertini\" 1"
+      },
+      "geometry": {
+        "coordinates": [
+          10.641389,
+          44.689807
+        ],
+        "type": "Point"
+      },
+      "id": "ae042c893026509c058c4267982fc22f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Nazario Sauro, 18 Bologna (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Nazario Sauro, 18",
+        "SitoScuola": "https://www.liceominghetti.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Bologna",
+        "Meccanografico": "BOPC030001",
+        "Nomerete": "",
+        "Scuola": "Liceo Classico Statale \"Marco Minghetti\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.339348,
+          44.4969
+        ],
+        "type": "Point"
+      },
+      "id": "b008e5b2b49e4e4bfa83b88de56b5204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via P. Togliatti, 20/2 Quattro Castella (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via P. Togliatti, 20/2",
+        "SitoScuola": "https://ic4cv.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Quattro Castella",
+        "Meccanografico": "REIC84400Q",
+        "Nomerete": "",
+        "Scuola": "Istuto Comprensivo Quattro Castella-Vezzano sul Crostolo"
+      },
+      "geometry": {
+        "coordinates": [
+          10.47429,
+          44.63496
+        ],
+        "type": "Point"
+      },
+      "id": "b13b3516c05f9cf068784f249cb7a3d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "piazza XX settembre, 17 Portomaggiore (FE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(FE)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "piazza XX settembre, 17",
+        "SitoScuola": "https://www.icportomaggiore.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Portomaggiore",
+        "Meccanografico": "FEIC824002",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo di Portomaggiore"
+      },
+      "geometry": {
+        "coordinates": [
+          11.808352,
+          44.697891
+        ],
+        "type": "Point"
+      },
+      "id": "b41c36024189b252b24b2b4f1db178a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Boito, 27 Maranello (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://mo-icstradi.medialibrary.it",
+        "Indirizzo": "via Boito, 27",
+        "SitoScuola": "https://www.icstradi.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Maranello",
+        "Meccanografico": "MOIC83400Q",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo \"Ing. Carlo Stradi\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.86888,
+          44.53101
+        ],
+        "type": "Point"
+      },
+      "id": "bf6ef880c4c6504fd333b6acdafafbe2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Pirandello, 12 Imola (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Pirandello, 12",
+        "SitoScuola": "https://ic5imola.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Imola",
+        "Meccanografico": "BOIC84200R",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo 5 Imola"
+      },
+      "geometry": {
+        "coordinates": [
+          11.7132,
+          44.35916
+        ],
+        "type": "Point"
+      },
+      "id": "c1b4efdfc5a6221dd0087b11513571f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "piazza XXIV maggio, 13 Rubiera (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://re-icrubiera.medialibrary.it",
+        "Indirizzo": "piazza XXIV maggio, 13",
+        "SitoScuola": "https://www.icrubiera.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Rubiera",
+        "Meccanografico": "REIC83600R",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo di Rubiera"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7794,
+          44.65158
+        ],
+        "type": "Point"
+      },
+      "id": "c4d12d00b6c27d7e61426d607e9fbe02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Chiesa, 2 Neviano degli Arduini (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Chiesa, 2",
+        "SitoScuola": "https://icnevianoarduini.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Neviano degli Arduini",
+        "Meccanografico": "PRIC81500N",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo di Neviano Arduini e Lesignano de' Bagni"
+      },
+      "geometry": {
+        "coordinates": [
+          10.315255,
+          44.582272
+        ],
+        "type": "Point"
+      },
+      "id": "c85db7950b956f6194268fc528de0eba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Verdi, 6 Castel San Giovanni (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Verdi, 6",
+        "SitoScuola": "https://www.comprensivo-csg.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Castel San Giovanni",
+        "Meccanografico": "PCIC81700C",
+        "Nomerete": "Biblòh!",
+        "Scuola": "Istituto Comprensivo \"Card. Agostino Casaroli\""
+      },
+      "geometry": {
+        "coordinates": [
+          9.43784,
+          45.06014
+        ],
+        "type": "Point"
+      },
+      "id": "ca9ea777caad4aa17c187bdcbbf92707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Villa Clelia, 18 Imola (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://bo-ic6imola.medialibrary.it",
+        "Indirizzo": "via Villa Clelia, 18",
+        "SitoScuola": "https://www.ic6imola.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Imola",
+        "Meccanografico": "BOIC84700X",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo 6 Imola"
+      },
+      "geometry": {
+        "coordinates": [
+          11.699303,
+          44.355136
+        ],
+        "type": "Point"
+      },
+      "id": "cbade76b30350254a1705e853810240c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Piacenza, 28 Riccione (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://rn-volta.medialibrary.it",
+        "Indirizzo": "via Piacenza, 28",
+        "SitoScuola": "https://www.liceovoltafellini.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Riccione",
+        "Meccanografico": "RNPS060003",
+        "Nomerete": "",
+        "Scuola": "Liceo \"A. Volta-F. Fellini\""
+      },
+      "geometry": {
+        "coordinates": [
+          12.647228,
+          44.002571
+        ],
+        "type": "Point"
+      },
+      "id": "cc7a1845d1702ebd861f708c2e8171c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Giovanni Battista Casti, 13 Rimini (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://rn-cd6.medialibrary.it",
+        "Indirizzo": "via Giovanni Battista Casti, 13",
+        "SitoScuola": "http://scuole.rimini.com/cd6rimini.gov.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Rimini",
+        "Meccanografico": "RNEE01500N",
+        "Nomerete": "",
+        "Scuola": "Circolo Didattico 6 Rimini"
+      },
+      "geometry": {
+        "coordinates": [
+          12.574019,
+          44.046892
+        ],
+        "type": "Point"
+      },
+      "id": "d1aacb57fc41ab858277292388190a0a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Mattei, 22 Poviglio (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://re-icpovigliobrescello.medialibrary.it",
+        "Indirizzo": "via Mattei, 22",
+        "SitoScuola": "https://www.icpovigliobrescello.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Poviglio",
+        "Meccanografico": "REIC82800T",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo di Poviglio e Brescello"
+      },
+      "geometry": {
+        "coordinates": [
+          10.542437,
+          44.840312
+        ],
+        "type": "Point"
+      },
+      "id": "d410100ad62a8183bbe75925655baad7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Gramsci, 18 Riolo Terme (RA) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RA)",
+        "Dominio": "https://bibliotecheromagna.medialibrary.it",
+        "Indirizzo": "via Gramsci, 18",
+        "SitoScuola": "https://www.icpascoliriolo.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Riolo Terme",
+        "Meccanografico": "RAIC816005",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale \"G. Pascoli\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.72722,
+          44.27609
+        ],
+        "type": "Point"
+      },
+      "id": "d430d01efa035b02b477072189fe9231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Petrarca, 1 San Polo d'Enza (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Petrarca, 1",
+        "SitoScuola": "https://icsanpolodenza.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "San Polo d'Enza",
+        "Meccanografico": "REIC821003",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo  \"Francesco Petrarca\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.42667,
+          44.6269
+        ],
+        "type": "Point"
+      },
+      "id": "d4d68297fc1c32dc01dce41f4733bf27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Crocette, 34 Forlimpopoli (FC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(FC)",
+        "Dominio": "https://fc-rosetti.medialibrary.it",
+        "Indirizzo": "via Crocette, 34",
+        "SitoScuola": "https://www.icrosetti.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Forlimpopoli",
+        "Meccanografico": "FOIC805005",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale \"Emilio Rosetti\""
+      },
+      "geometry": {
+        "coordinates": [
+          12.12873,
+          44.19107
+        ],
+        "type": "Point"
+      },
+      "id": "d5706b822538c2311a6d5aa637af5270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via XXV Aprile, 14 Montecchio Emilia (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://re-montecchio.medialibrary.it",
+        "Indirizzo": "via XXV Aprile, 14",
+        "SitoScuola": "https://www.icmontecchio.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Montecchio Emilia",
+        "Meccanografico": "REIC835001",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Montecchio"
+      },
+      "geometry": {
+        "coordinates": [
+          10.451191,
+          44.698932
+        ],
+        "type": "Point"
+      },
+      "id": "d77a970a1aad6f6309bc4e1109245718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "viale Romagnosi, 7 Salsomaggiore Terme (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "viale Romagnosi, 7",
+        "SitoScuola": "https://www.magnaghisolari.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Salsomaggiore Terme",
+        "Meccanografico": "PRIS006003",
+        "Nomerete": "",
+        "Scuola": "Istituto Statale DI Istruzione Secondaria Superiore \"Magnaghi-Solari\""
+      },
+      "geometry": {
+        "coordinates": [
+          9.985103,
+          44.812598
+        ],
+        "type": "Point"
+      },
+      "id": "dbc65464e7c7260f71d889293ad4a94a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Manzoni, 13 Modigliana (FC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(FC)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Manzoni, 13",
+        "SitoScuola": "https://www.icmodigliana.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Modigliana",
+        "Meccanografico": "FOIC81400X",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo di Modigliana"
+      },
+      "geometry": {
+        "coordinates": [
+          11.79286,
+          44.15954
+        ],
+        "type": "Point"
+      },
+      "id": "dfc7355b3874c266b0d8a18aa20220e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Castiglione, 38 Bologna (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://lpv.medialibrary.it",
+        "Indirizzo": "via Castiglione, 38",
+        "SitoScuola": "https://www.liceogalvani.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Bologna",
+        "Meccanografico": "BOPC02000A",
+        "Nomerete": "Leggere per vivere",
+        "Scuola": "Liceo Ginnasio \"Luigi Galvani\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.347504,
+          44.489235
+        ],
+        "type": "Point"
+      },
+      "id": "dfeff3c6392a5a24a3afc53c88a51b5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "viale Carlo Pepoli, 3 Bologna (BO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(BO)",
+        "Dominio": "https://bo-righi.medialibrary.it",
+        "Indirizzo": "viale Carlo Pepoli, 3",
+        "SitoScuola": "https://www.liceorighibologna.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Bologna",
+        "Meccanografico": "BOPS01000V",
+        "Nomerete": "",
+        "Scuola": "Liceo Scientifico Statale \"Augusto Righi\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.330468,
+          44.491544
+        ],
+        "type": "Point"
+      },
+      "id": "e2dee5694f750b2a86ca35907dd9f198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Gardenghi Monsignor Ulisse, 5 Bondeno (FE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(FE)",
+        "Dominio": "https://fe-bonati.medialibrary.it",
+        "Indirizzo": "via Gardenghi Monsignor Ulisse, 5",
+        "SitoScuola": "http://www.icbonatibondeno.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Bondeno",
+        "Meccanografico": "FEIC802005",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo \"Teodoro Bonati\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.41542,
+          44.88944
+        ],
+        "type": "Point"
+      },
+      "id": "e5a0fa5f329999400241037c94083f9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via 29 maggio, 12-14 Mirandola (MO) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(MO)",
+        "Dominio": "https://mo-luosi.medialibrary.it",
+        "Indirizzo": "via 29 maggio, 12-14",
+        "SitoScuola": "https://www.iisgluosi.com/",
+        "Regione": "Emilia Romagna",
+        "Città": "Mirandola",
+        "Meccanografico": "MOIS00600Q",
+        "Nomerete": "",
+        "Scuola": "Istituto Statale di Istruzione Superiore \"Giuseppe Luosi\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.078829,
+          44.878812
+        ],
+        "type": "Point"
+      },
+      "id": "e77b72757c8b64a7d5561fae7594a055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "viale Alfonso Pallavicino, 2 Busseto (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "viale Alfonso Pallavicino, 2",
+        "SitoScuola": "https://www.icbusseto.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Busseto",
+        "Meccanografico": "PRIC82200R",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale di Bussetto"
+      },
+      "geometry": {
+        "coordinates": [
+          10.040423,
+          44.977499
+        ],
+        "type": "Point"
+      },
+      "id": "e7e2eae22f9754931277d5e5f0462764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "strada Sant'Ilario, 28/C Montecchio Emilia (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://re-darzo.medialibrary.it",
+        "Indirizzo": "strada Sant'Ilario, 28/C",
+        "SitoScuola": "https://www.istitutodarzo.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Montecchio Emilia",
+        "Meccanografico": "REIS00400D",
+        "Nomerete": "",
+        "Scuola": "Istituto di Istruzione Superiore \"Silvio d'Arzo\""
+      },
+      "geometry": {
+        "coordinates": [
+          10.446652,
+          44.729095
+        ],
+        "type": "Point"
+      },
+      "id": "ec325fda544cc600ab5a7deea9858cea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "piazza San Colombano, 5 Bobbio (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "piazza San Colombano, 5",
+        "SitoScuola": "https://www.icbobbio.edu.it/aaa/pages/page_blog.php?id=1",
+        "Regione": "Emilia Romagna",
+        "Città": "Bobbio",
+        "Meccanografico": "PCIC819004",
+        "Nomerete": "Biblòh!",
+        "Scuola": "Istituto OmniComprensivo di Bobbio"
+      },
+      "geometry": {
+        "coordinates": [
+          9.385054,
+          44.767745
+        ],
+        "type": "Point"
+      },
+      "id": "ec87ff6a969f08fb21c3cf6c320f08d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Carducci, 2 Morciano di Romagna (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Carducci, 2",
+        "SitoScuola": "https://www.icvalledelconca.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Morciano di Romagna",
+        "Meccanografico": "RNIC80800C",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Statale Valle del Conca"
+      },
+      "geometry": {
+        "coordinates": [
+          12.65104,
+          43.9144
+        ],
+        "type": "Point"
+      },
+      "id": "ee9f7b42f1c4bdaf6dfec62b0029892a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "piazza Aldo Moro, 76 Cesena (FC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(FC)",
+        "Dominio": "https://fo-liceoalpi.medialibrary.it",
+        "Indirizzo": "piazza Aldo Moro, 76",
+        "SitoScuola": "https://www.liceoalpi.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Cesena",
+        "Meccanografico": "FOPM05000N",
+        "Nomerete": "",
+        "Scuola": "Liceo Linguistico Statale \"Ilaria Alpi\""
+      },
+      "geometry": {
+        "coordinates": [
+          12.247819,
+          44.144438
+        ],
+        "type": "Point"
+      },
+      "id": "efec539ec88b5c698aea5350f1c17893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Fortezza, 20 Ferrara (FE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(FE)",
+        "Dominio": "https://fe-icgovoni.medialibrary.it",
+        "Indirizzo": "via Fortezza, 20",
+        "SitoScuola": "https://icgovoniferrara.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Ferrara",
+        "Meccanografico": "FEIC81100X",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo \"C. Govoni\""
+      },
+      "geometry": {
+        "coordinates": [
+          11.607097,
+          44.838364
+        ],
+        "type": "Point"
+      },
+      "id": "f0497e4ba93afe7f692858abd73f4dcb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "largo Antonio Gramsci, 3/4 Rimini (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://rn-centrostorico.medialibrary.it",
+        "Indirizzo": "largo Antonio Gramsci, 3/4",
+        "SitoScuola": "http://www.centrostorico.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Rimini",
+        "Meccanografico": "RNIC817007",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Centro Storico Rimini"
+      },
+      "geometry": {
+        "coordinates": [
+          12.573353,
+          44.059236
+        ],
+        "type": "Point"
+      },
+      "id": "f1c5b2d0c556a16985ee6caf857f56d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "S",
+        "Full Address": "via Boiardi, 5 Fiorenzuola d'Arda (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://emilib.medialibrary.it",
+        "Indirizzo": "via Boiardi, 5",
+        "SitoScuola": "https://www.istitutomatteifiorenzuola.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Fiorenzuola d'Arda",
+        "Meccanografico": "PCIS00400E",
+        "Nomerete": "",
+        "Scuola": "Istituto Statale di Istruzione Superiore \"Enrico Mattei\""
+      },
+      "geometry": {
+        "coordinates": [
+          9.91329,
+          44.92435
+        ],
+        "type": "Point"
+      },
+      "id": "f22c03e2f978bf4d77222c3332db9bcd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Covignano, 238 Rimini (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://rn-icmarvelli.medialibrary.it",
+        "Indirizzo": "via Covignano, 238",
+        "SitoScuola": "https://www.icmarvelli.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Rimini",
+        "Meccanografico": "RNIC80600R",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo \"Alberto Marvelli\""
+      },
+      "geometry": {
+        "coordinates": [
+          12.551364,
+          44.042391
+        ],
+        "type": "Point"
+      },
+      "id": "f592a7e649e35b35b263c61b43e62ff9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Dante Alighieri, 10 Gualtieri (RE) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RE)",
+        "Dominio": "https://re-icgualtieri.medialibrary.it",
+        "Indirizzo": "via Dante Alighieri, 10",
+        "SitoScuola": "https://www.icgualtieri.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Gualtieri",
+        "Meccanografico": "REIC83800C",
+        "Nomerete": "",
+        "Scuola": "Istituto Comprensivo Gualtieri"
+      },
+      "geometry": {
+        "coordinates": [
+          10.632307,
+          44.904055
+        ],
+        "type": "Point"
+      },
+      "id": "fbc8e051acf18f91be324c98879d2487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grado": "IC",
+        "Full Address": "via Piatti, 9 Piacenza (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Piatti, 9",
+        "SitoScuola": "https://www.dante-carducci.edu.it/",
+        "Regione": "Emilia Romagna",
+        "Città": "Piacenza",
+        "Meccanografico": "PCMM00200Q",
+        "Nomerete": "Biblòh!",
+        "Scuola": "Scuola Statale Secondaria di Primo Grado \"Dante Alighieri-Giosuè Carducci\""
+      },
+      "geometry": {
+        "coordinates": [
+          9.70462,
+          45.04202
+        ],
+        "type": "Point"
+      },
+      "id": "fe301b9b3295ecbfa70f03d18fd90dad"
+    }
+  ],
+  "type": "FeatureCollection"
+}
