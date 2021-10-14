@@ -48,7 +48,7 @@ form {
   margin-top: 1%;
   padding: 2px;
   max-height: 8vh;
-  width: 92vw;
+  width: 91.5vw;
 }
 
 .ui-autocomplete {
@@ -123,10 +123,8 @@ var returnMember = [];
 var map = L.map('map', {
   center: [41.8, 11.5],
   zoom: 7.2,
-  zoomControl: false,
 });
 
-new L.Control.Zoom({ position: 'bottomleft' }).addTo(map);
 // Open Street Map base map
 var osm = L.tileLayer('https://api.mapbox.com/styles/v1/isabellamanchia/ckui4dfql0muy17mnpbfhjr7f/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiaXNhYmVsbGFtYW5jaGlhIiwiYSI6ImNrcjBkNGg5MjBwNHYyb21udnNrdm5kcW4ifQ.nzfUmZTvIHjHcbD8EaTpLg', {
   attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
