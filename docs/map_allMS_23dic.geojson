@@ -6236,9 +6236,9 @@
         "IDPortale": "1752"
       },
       "geometry": {
-        "coordinates": [
-          11.004848,
-          45.27009
+        "coordinates": [	
+          11.004472342231814,
+          45.26859844903074
         ],
         "type": "Point"
       },
@@ -7608,9 +7608,9 @@
         "IDPortale": "1453"
       },
       "geometry": {
-        "coordinates": [
-          11.004848,
-          45.27009
+        "coordinates": [ 	
+          11.004460726888672,
+          45.269091196648226
         ],
         "type": "Point"
       },
