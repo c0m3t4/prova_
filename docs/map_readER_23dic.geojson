@@ -1018,9 +1018,9 @@
         "Scuola": "Istituto Comprensivo Castelnovo ne' Monti"
       },
       "geometry": {
-        "coordinates": [
-          10.394374,
-          44.432341
+        "coordinates": [	
+          10.39437447092165,
+          44.43234193435659
         ],
         "type": "Point"
       },
@@ -2314,9 +2314,9 @@
         "Scuola": "Istituto di Istruzione Superiore \"Cattaneo-Dall'Aglio\""
       },
       "geometry": {
-        "coordinates": [
-          10.405633,
-          44.430959
+        "coordinates": [	
+          10.405633969074975,
+          44.43095928377401
         ],
         "type": "Point"
       },
@@ -8092,9 +8092,9 @@
         "Scuola": "Istituto di Istruzione Superiore \"Nelson Mandela\""
       },
       "geometry": {
-        "coordinates": [
-          10.401389,
-          44.431823
+        "coordinates": [	
+          10.401389469075026,
+          44.43182391968348
         ],
         "type": "Point"
       },
