@@ -5152,34 +5152,7 @@
       },
       "id": "314eb4bdcdf153f3c2c6640c10915621"
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "NomePortale": "Liceo Ginnasio Statale Orazio - Roma",
-        "Grado": "ISMS",
-        "Full Address": "via Alberto Savinio, 40 Roma (RM) Lazio Italia ",
-        "Paese": "Italia",
-        "Prov": "(RM)",
-        "Dominio": "https://scuola.medialibrary.it",
-        "Indirizzo": "via Alberto Savinio, 40",
-        "Regione": "Lazio",
-        "Tipo": "Scuola",
-        "NomeScuola": "Liceo Ginnasio Statale \"Orazio\"",
-        "Città": "Roma",
-        "Meccanografico": "RMPC150008",
-        "Url sito scuola": "https://www.liceo-orazio.edu.it/",
-        "NomeRete": "",
-        "IDPortale": "1589"
-      },
-      "geometry": {
-        "coordinates": [
-          12.54565,
-          41.942366
-        ],
-        "type": "Point"
-      },
-      "id": "319c6bd2f0239ff2f2f7b2f7851b54d2"
-    },
+    
     {
       "type": "Feature",
       "properties": {
