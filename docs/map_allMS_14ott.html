@@ -130,37 +130,52 @@ var osm = L.tileLayer('https://api.mapbox.com/styles/v1/isabellamanchia/ckzfduzl
   attribution: '© <a href="https://apps.mapbox.com/feedback/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
 }).addTo(map);
 
-var blueIcon = new L.Icon({
-  iconUrl: 'https://raw.githubusercontent.com/c0m3t4/prova_/main/docs/map-pin_colora2.svg',
+var pin_IC = new L.Icon({
+  iconUrl: 'https://raw.githubusercontent.com/c0m3t4/prova_/main/docs/pin_ICER.svg',
   shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-  iconSize: [15, 31],
-  iconAnchor: [12, 21],
-  popupAnchor: [1, -24],
-  shadowSize: [31, 31]
+  iconSize: [20, 36],
+ iconAnchor: [12, 21],
+ popupAnchor: [4, -12],
+ shadowSize: [31, 31]
 });
 
-var violetIcon = new L.Icon({
-  iconUrl: 'https://raw.githubusercontent.com/c0m3t4/prova_/main/docs/map-pin_colora2.svg',
+var pin_IS = new L.Icon({
+  iconUrl: 'https://raw.githubusercontent.com/c0m3t4/prova_/main/docs/pin_ISER.svg',
   shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-  iconSize: [15, 31],
-  iconAnchor: [12, 21],
-  popupAnchor: [1, -24],
-  shadowSize: [31, 31]
+  iconSize: [20, 36],
+ iconAnchor: [12, 21],
+ popupAnchor: [4, -12],
+ shadowSize: [31, 31]
 });
-
+	
+var pin_MS = new L.Icon({
+  iconUrl: 'https://raw.githubusercontent.com/c0m3t4/prova_/main/docs/MS_pin.svg',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [20, 36],
+ iconAnchor: [12, 21],
+ popupAnchor: [4, -12],
+ shadowSize: [31, 31]
+});
+	
 // URL to GeoJSON data for members
-var geojsonData = 'https://c0m3t4.github.io/prova_/map_allMS_18gen.geojson';
+var geojsonData = 'https://c0m3t4.github.io/prova_/map_allMSandER_16feb22.geojson';
 
 
 // create members layer from GeoJSON and add to map
 var pmgMembers = new L.GeoJSON.AJAX(geojsonData, { //options object for GeoJSON
   pointToLayer: function(feature, latlng) {
-    if (feature.properties.Tipo === "Scuola") {
-      return L.marker(latlng, { icon: blueIcon });
+    if (feature.properties.Grado === "IC") {
+      return L.marker(latlng, { icon: pin_IC });
 
-    } else if (feature.properties.Tipo === "Rete Scuole") {
-      return L.marker(latlng, { icon: violetIcon });
-    }
+    } else if (feature.properties.Grado === "IS") {
+      return L.marker(latlng, { icon: pin_IS });
+     
+    } else if (feature.properties.Grado === "ICMS") {
+            return L.marker(latlng, { icon: pin_MS });
+
+          } else if (feature.properties.Grado === "ISMS") {
+                  return L.marker(latlng, { icon: pin_MS });
+ }
   },
     // A Function that will be called once for each created Feature, after it has been created and styled
     // see http://leafletjs.com/reference.html#geojson
