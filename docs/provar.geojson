@@ -1,0 +1,1475 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ICMS",
+        "Full Address": "via Carlo Cencio, 14 Alba (CN) Piemonte Italia ",
+        "Paese": "Italia",
+        "Prov": "(CN)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Carlo Cencio, 14",
+        "Regione": "Piemonte",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Alba Quartiere Moretta",
+        "Città": "Alba",
+        "Meccanografico": "CNIC855003",
+        "Url sito scuola": "https://icquartieremoretta.edu.it/",
+        "NomeRete": "Biblòh!",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          8.0347,
+          44.6999
+        ],
+        "type": "Point"
+      },
+      "id": "093dcccdff47f602b1bb8dccc577880b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC Petrassi e Liceo Farnesina - Roma",
+        "Grado": "ISMS",
+        "Full Address": "via dei Giuochi Istmici, 64 Roma (RM) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(RM)",
+        "Dominio": "https://rm-petrassifarnesina.medialibrary.it",
+        "Indirizzo": "via dei Giuochi Istmici, 64",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Statale Farnesina",
+        "Città": "Roma",
+        "Meccanografico": "RMPS49000C",
+        "Url sito scuola": "https://www.liceofarnesina.edu.it/",
+        "NomeRete": "IC Petrassi e Liceo Farnesina - Roma",
+        "IDPortale": "1180",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.462454,
+          41.946135
+        ],
+        "type": "Point"
+      },
+      "id": "0df8a9b119f73ee8191a8d4346f3b530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ICMS",
+        "Full Address": "via Cesare Pavese, 5 Neive (CN) Piemonte Italia ",
+        "Paese": "Italia",
+        "Prov": "(CN)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Cesare Pavese, 5",
+        "Regione": "Piemonte",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Beppe Fenoglio\"",
+        "Città": "Neive",
+        "Meccanografico": "CNIC83700D",
+        "Url sito scuola": "https://istitutocomprensivofenoglio.edu.it/",
+        "NomeRete": "Biblòh!",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          8.11939,
+          44.721551
+        ],
+        "type": "Point"
+      },
+      "id": "0e55fe164b9b59ea2e34e841b690551c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ISMS",
+        "Full Address": "piazzale Genova, 1 Piacenza (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "piazzale Genova, 1",
+        "Regione": "Emilia Romagna",
+        "Note": "MS + readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Scientifico Statale \"Lorenzo Respighi\"",
+        "Città": "Piacenza",
+        "Meccanografico": "PCPS02000T",
+        "Url sito scuola": "https://www.liceorespighi.edu.it/",
+        "NomeRete": "Biblòh! e readER",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.686541,
+          45.046934
+        ],
+        "type": "Point"
+      },
+      "id": "0f67792ba5044bf14783a5994f252bd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "B.L.A. Biblioteche Luoghi Aperti",
+        "Grado": "ISMS",
+        "Full Address": "via Tommaso Salvini, 20/24 Roma (RM) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(RM)",
+        "Dominio": "https://bla.medialibrary.it",
+        "Indirizzo": "via Tommaso Salvini, 20/24",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Tommaso Salvini\"",
+        "Città": "Roma",
+        "Meccanografico": "RMIS03200G",
+        "Url sito scuola": "https://www.iistommasosalvini.edu.it/",
+        "NomeRete": "B.L.A. Biblioteche Luoghi Aperti",
+        "IDPortale": "1473",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.492001,
+          41.930461
+        ],
+        "type": "Point"
+      },
+      "id": "1dfb409754ba25ebcb0031e951caf82b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "B.L.A. Biblioteche Luoghi Aperti",
+        "Grado": "ICMS",
+        "Full Address": "via Belforte del Chienti, 24 Roma (RM) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(RM)",
+        "Dominio": "https://bla.medialibrary.it",
+        "Indirizzo": "via Belforte del Chienti, 24",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo via Belforte Del Chienti",
+        "Città": "Roma",
+        "Meccanografico": "RMIC8EQ00G",
+        "Url sito scuola": "http://www.icbelfortedelchienti.edu.it/wordpress/",
+        "NomeRete": "B.L.A. Biblioteche Luoghi Aperti",
+        "IDPortale": "1473",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.57524,
+          41.943682
+        ],
+        "type": "Point"
+      },
+      "id": "29e2c5d12f67d7cc5917c3415caaee0c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "ISMS",
+        "Full Address": "via San Michele, 2 Trapani (TP) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(TP)",
+        "Dominio": "https://tp-piratidellalettura.medialibrary.it",
+        "Indirizzo": "via San Michele, 2",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"S. Calvino-G.B. Amico\"",
+        "Città": "Trapani",
+        "Meccanografico": "TPIS028009",
+        "Url sito scuola": "https://www.iscalvinoamico.edu.it/",
+        "NomeRete": "Pirati della Lettura",
+        "IDPortale": "1730",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.436876,
+          37.8007
+        ],
+        "type": "Point"
+      },
+      "id": "32818a600a6e77bc835e0d68c94dec93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioteca digitale Koiné - \"Scuole di Giovinazzo\"",
+        "Grado": "ICMS",
+        "Full Address": "piazza Giuseppe Garibaldi, 36 Giovinazzo (BA) Puglia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BA)",
+        "Dominio": "https://ba-scuolegiovinazzo.medialibrary.it/",
+        "Indirizzo": "piazza Giuseppe Garibaldi, 36",
+        "Regione": "Puglia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"San Giovanni Bosco-Buonarroti\"  ",
+        "Città": "Giovinazzo",
+        "Meccanografico": "BAIC890007",
+        "Url sito scuola": "https://icsgboscobuonarrotigiovinazzo.edu.it/",
+        "NomeRete": "Biblioteca digitale Koiné - \"Scuole di Giovinazzo\"",
+        "IDPortale": "1006",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          16.669431,
+          41.185252
+        ],
+        "type": "Point"
+      },
+      "id": "3ed6bcfb948c3ea4f6dc12a2dc655e29"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via del Partigiano, 10 Cattolica (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://reader-ic.medialibrary.it",
+        "Indirizzo": "via del Partigiano, 10",
+        "Regione": "Emilia Romagna",
+        "Note": "readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Statale Cattolica",
+        "Città": "Cattolica",
+        "Meccanografico": "RNIC804005",
+        "Url sito scuola": "https://www.iccattolica.edu.it/",
+        "NomeRete": "readER",
+        "IDPortale": "1712",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          12.736813,
+          43.954917
+        ],
+        "type": "Point"
+      },
+      "id": "400c6f6d384860be2c274db9f2a93e0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "B.L.A. Biblioteche Luoghi Aperti",
+        "Grado": "ICMS",
+        "Full Address": "viale Fernando Santi, 65 Roma (RM) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(RM)",
+        "Dominio": "https://bla.medialibrary.it",
+        "Indirizzo": "viale Fernando Santi, 65",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Tullio De Mauro\"",
+        "Città": "Roma",
+        "Meccanografico": "RMIC8B5008",
+        "Url sito scuola": "http://www.ictulliodemauro.edu.it/",
+        "NomeRete": "B.L.A. Biblioteche Luoghi Aperti",
+        "IDPortale": "1473",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.567894,
+          41.912657
+        ],
+        "type": "Point"
+      },
+      "id": "48754e83d3e4791a3e49484db1cfc5d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ICMS",
+        "Full Address": "via Piave, 24 Podenzano (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Piave, 24",
+        "Regione": "Emilia Romagna",
+        "Note": "MS + readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"G. Parini\"",
+        "Città": "Podenzano",
+        "Meccanografico": "PCIC81000N",
+        "Url sito scuola": "https://www.icparinipodenzano.edu.it/aaa/pages/page_details.php?page_id=1",
+        "NomeRete": "Biblòh! e readER",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.684404,
+          44.952822
+        ],
+        "type": "Point"
+      },
+      "id": "4f0cf178b150356a61775910570f87b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "ISMS",
+        "Full Address": "viale dei Templi, 115  Castelvetrano (TP) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(TP)",
+        "Dominio": "https://tp-piratidellalettura.medialibrary.it",
+        "Indirizzo": "viale dei Templi, 115 ",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Professionale di Stato per l’Enogastronomia e l’Ospitalità Alberghiera \"Virgilio Titone\"",
+        "Città": "Castelvetrano",
+        "Meccanografico": "TPRH040003",
+        "Url sito scuola": "https://www.ipseoatitone.edu.it/",
+        "NomeRete": "Pirati della Lettura",
+        "IDPortale": "1730",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.810543,
+          37.661305
+        ],
+        "type": "Point"
+      },
+      "id": "5055bc005597b65b9424eb2a6c6aa751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibliorete",
+        "Grado": "ICMS",
+        "Full Address": "via dell’Oleandro, 4/6 Latina (LT) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(LT)",
+        "Dominio": "https://bibliorete.medialibrary.it",
+        "Indirizzo": "via dell’Oleandro, 4/6",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Statale \"Aldo Manuzio\"",
+        "Città": "Latina",
+        "Meccanografico": "LTIC804004",
+        "Url sito scuola": "https://www.icmanuzio.edu.it/",
+        "NomeRete": "Bibliorete",
+        "IDPortale": "1694",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.945693,
+          41.530065
+        ],
+        "type": "Point"
+      },
+      "id": "531fbe8d1ffe6ccc5f415a0e3271d6fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibliorete",
+        "Grado": "ISMS",
+        "Full Address": "viale Le Corbusier, snc Latina (LT) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(LT)",
+        "Dominio": "https://bibliorete.medialibrary.it",
+        "Indirizzo": "viale Le Corbusier, snc",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Statale \"Alessandro Manzoni\"",
+        "Città": "Latina",
+        "Meccanografico": "LTPM030007",
+        "Url sito scuola": "https://www.manzonilatina.edu.it/it/",
+        "NomeRete": "Bibliorete",
+        "IDPortale": "1694",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.88292,
+          41.454388
+        ],
+        "type": "Point"
+      },
+      "id": "5eb4d89c311175bf50eaa263ebe5e7ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ISMS",
+        "Full Address": "via IV Novembre, 122 Piacenza (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via IV Novembre, 122",
+        "Regione": "Emilia Romagna",
+        "Note": "MS + readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Marconi-da Vinci\"",
+        "Città": "Piacenza",
+        "Meccanografico": "PCIS006006",
+        "Url sito scuola": "https://www.isii.it/",
+        "NomeRete": "Biblòh! e readER",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.689082,
+          45.044864
+        ],
+        "type": "Point"
+      },
+      "id": "60d5659339b9e1339ec7d9ada167d53c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "DigitalBiblioAgorà",
+        "Grado": "ICMS",
+        "Full Address": "via Campolungo, snc Nizza Monferrato (AT) Piemonte Italia ",
+        "Paese": "Italia",
+        "Prov": "(AT)",
+        "Dominio": "https://dba.medialibrary.it",
+        "Indirizzo": "via Campolungo, snc",
+        "Regione": "Piemonte",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Statale “Carlo Alberto Dalla Chiesa”",
+        "Città": "Nizza Monferrato",
+        "Meccanografico": "ATIC816005",
+        "Url sito scuola": "https://icnizzamonferrato.edu.it/",
+        "NomeRete": "DigitalBiblioAgorà",
+        "IDPortale": "1613",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          8.352045,
+          44.777334
+        ],
+        "type": "Point"
+      },
+      "id": "6131af28a6d3732b8a09f91b4d08eff5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC Petrassi e Liceo Farnesina - Roma",
+        "Grado": "ICMS",
+        "Full Address": "via della Maratona, 23 Roma (RM) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(RM)",
+        "Dominio": "https://rm-petrassifarnesina.medialibrary.it",
+        "Indirizzo": "via della Maratona, 23",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Goffredo Petrassi\"",
+        "Città": "Roma",
+        "Meccanografico": "RMIC8F400V",
+        "Url sito scuola": "http://www.icgoffredopetrassi.edu.it/",
+        "NomeRete": "IC Petrassi e Liceo Farnesina - Roma",
+        "IDPortale": "1180",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.459458,
+          41.944551
+        ],
+        "type": "Point"
+      },
+      "id": "65c5961cc4130e4642dc416653e265c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ICMS",
+        "Full Address": "piazza Roma, 1 Govone (CN) Piemonte Italia ",
+        "Paese": "Italia",
+        "Prov": "(CN)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "piazza Roma, 1",
+        "Regione": "Piemonte",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo di Govone",
+        "Città": "Govone",
+        "Meccanografico": "CNIC82300G",
+        "Url sito scuola": "https://icgovone.edu.it/",
+        "NomeRete": "Biblòh!",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          8.099869,
+          44.804612
+        ],
+        "type": "Point"
+      },
+      "id": "66d1e45383d37dd0a60e0f76f221951a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "B.L.A. Biblioteche Luoghi Aperti",
+        "Grado": "ICMS",
+        "Full Address": "via Ramiro Fabiani, 45 Roma (RM) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(RM)",
+        "Dominio": "https://bla.medialibrary.it",
+        "Indirizzo": "via Ramiro Fabiani, 45",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Statale \"Giorgio Perlasca\"",
+        "Città": "Roma",
+        "Meccanografico": "RMIC81000E",
+        "Url sito scuola": "https://www.ic-perlasca.edu.it/",
+        "NomeRete": "B.L.A. Biblioteche Luoghi Aperti",
+        "IDPortale": "1473",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.551925,
+          41.922889
+        ],
+        "type": "Point"
+      },
+      "id": "6e5f2eb500fb8875a7e58818edc9792f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "DigitalBiblioAgorà",
+        "Grado": "ICMS",
+        "Full Address": "piazza della Repubblica, 3 Canelli (AT) Piemonte Italia ",
+        "Paese": "Italia",
+        "Prov": "(AT)",
+        "Dominio": "https://dba.medialibrary.it",
+        "Indirizzo": "piazza della Repubblica, 3",
+        "Regione": "Piemonte",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Canelli",
+        "Città": "Canelli",
+        "Meccanografico": "ATIC81300N ",
+        "Url sito scuola": "https://www.istitutocomprensivodicanelli.edu.it/",
+        "NomeRete": "DigitalBiblioAgorà",
+        "IDPortale": "1613",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          8.285933,
+          44.717947
+        ],
+        "type": "Point"
+      },
+      "id": "7128b666f6a9895b945fef08aa310f53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "B.L.A. Biblioteche Luoghi Aperti",
+        "Grado": "ICMS",
+        "Full Address": "via Sebastiano Satta, 84 Roma (RM) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(RM)",
+        "Dominio": "https://bla.medialibrary.it",
+        "Indirizzo": "via Sebastiano Satta, 84",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Piersanti Mattarella\"",
+        "Città": "Roma",
+        "Meccanografico": "RMIC8EM008",
+        "Url sito scuola": "https://www.icpiersantimattarella.edu.it/",
+        "NomeRete": "B.L.A. Biblioteche Luoghi Aperti",
+        "IDPortale": "1473",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.55104,
+          41.904233
+        ],
+        "type": "Point"
+      },
+      "id": "728836d5ad37560fe979656ccc184ff9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibliorete",
+        "Grado": "ICMS",
+        "Full Address": "via Sandro Botticelli, 33 Latina (LT) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(LT)",
+        "Dominio": "https://bibliorete.medialibrary.it",
+        "Indirizzo": "via Sandro Botticelli, 33",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Alessandro Volta\"",
+        "Città": "Latina",
+        "Meccanografico": "LTIC84500A",
+        "Url sito scuola": "https://www.icvoltalatina.edu.it/sito/",
+        "NomeRete": "Bibliorete",
+        "IDPortale": "1694",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.91301,
+          41.461488
+        ],
+        "type": "Point"
+      },
+      "id": "73069f23596c867dca4fa284bbfc9a50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "DigitalBiblioAgorà",
+        "Grado": "ICMS",
+        "Full Address": "via Re Umberto, 29 Montegrosso d'Asti (AT) Piemonte Italia ",
+        "Paese": "Italia",
+        "Prov": "(AT)",
+        "Dominio": "https://dba.medialibrary.it",
+        "Indirizzo": "via Re Umberto, 29",
+        "Regione": "Piemonte",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo di Montegrosso d'Asti",
+        "Città": "Montegrosso d'Asti",
+        "Meccanografico": "ATIC808006 ",
+        "Url sito scuola": "http://www.scuolevaltiglione.it/",
+        "NomeRete": "DigitalBiblioAgorà",
+        "IDPortale": "1613",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          8.234546,
+          44.821169
+        ],
+        "type": "Point"
+      },
+      "id": "73cc63a2311f1174870ab9d55e06cecc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "viale Matteotti, 73 Mercato Saraceno (FC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(FC)",
+        "Dominio": "https://reader-ic.medialibrary.it",
+        "Indirizzo": "viale Matteotti, 73",
+        "Regione": "Emilia Romagna",
+        "Note": "readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Valle Savio - Mercato Saraceno e Sarsina",
+        "Città": "Mercato Saraceno",
+        "Meccanografico": "FOIC80300D",
+        "Url sito scuola": "https://www.icvallesavio.edu.it/",
+        "NomeRete": "readER",
+        "IDPortale": "1712",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          12.19638,
+          43.96274
+        ],
+        "type": "Point"
+      },
+      "id": "7445e6c81820b475394c047a703b4179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "ISMS",
+        "Full Address": "piazza San Francesco d'Assisi, 1 Alba (CN) Piemonte Italia ",
+        "Paese": "Italia",
+        "Prov": "(CN)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "piazza San Francesco d'Assisi, 1",
+        "Regione": "Piemonte",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Magistrale Statale \"Leonardo da Vinci\"",
+        "Città": "Alba",
+        "Meccanografico": "CNPM04000X",
+        "Url sito scuola": "https://www.davincialba.edu.it/",
+        "NomeRete": "Biblòh!",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          8.033868,
+          44.702211
+        ],
+        "type": "Point"
+      },
+      "id": "7a45713951dcce1c884b6945822e3e03"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "B.L.A. Biblioteche Luoghi Aperti",
+        "Grado": "ICMS",
+        "Full Address": "via Achille Tedeschi, 85 Roma (RM) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(RM)",
+        "Dominio": "https://bla.medialibrary.it",
+        "Indirizzo": "via Achille Tedeschi, 85",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo via Tedeschi",
+        "Città": "Roma",
+        "Meccanografico": "RMIC8EL00C",
+        "Url sito scuola": "https://www.197circolodidattico.it/",
+        "NomeRete": "B.L.A. Biblioteche Luoghi Aperti",
+        "IDPortale": "1473",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.53459,
+          41.912064
+        ],
+        "type": "Point"
+      },
+      "id": "7d022f55c05517513598964a5707e329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibliorete",
+        "Grado": "ISMS",
+        "Full Address": "via Sant'Agostino, 8 Latina (LT) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(LT)",
+        "Dominio": "https://bibliorete.medialibrary.it",
+        "Indirizzo": "via Sant'Agostino, 8",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Scientifico Statale \"G.B. Grassi\"",
+        "Città": "Latina",
+        "Meccanografico": "LTPS02000G",
+        "Url sito scuola": "https://www.liceograssilatina.org/",
+        "NomeRete": "Bibliorete",
+        "IDPortale": "1694",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.894532,
+          41.456729
+        ],
+        "type": "Point"
+      },
+      "id": "7e54c9c051bc476aa71971c2974a07a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ICMS",
+        "Full Address": "viale del pesco, 6 Canale (CN) Piemonte Italia ",
+        "Paese": "Italia",
+        "Prov": "(CN)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "viale del pesco, 6",
+        "Regione": "Piemonte",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo di Canale",
+        "Città": "Canale",
+        "Meccanografico": "CNIC82200Q",
+        "Url sito scuola": "https://iccanale.edu.it/",
+        "NomeRete": "Biblòh!",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          7.994374,
+          44.794794
+        ],
+        "type": "Point"
+      },
+      "id": "81492a1fea7207202f58cbd0377c9f4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibliorete",
+        "Grado": "ISMS",
+        "Full Address": "viale Mazzini, 4 Latina (LT) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(LT)",
+        "Dominio": "https://bibliorete.medialibrary.it",
+        "Indirizzo": "viale Mazzini, 4",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Tecnico Statale \"Vittorio Veneto-Salvemini\"",
+        "Città": "Latina",
+        "Meccanografico": "LTTD02000B",
+        "Url sito scuola": "https://itcvittoriovenetosalvemini.edu.it/index.php/it/",
+        "NomeRete": "Bibliorete",
+        "IDPortale": "1694",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.908485,
+          41.467627
+        ],
+        "type": "Point"
+      },
+      "id": "823c81a39ab62bcd5db49166ae0bd3f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ICMS",
+        "Full Address": "via Firenze, snc Acireale (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Firenze, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Statale \"Giovanni XXIII\"",
+        "Città": "Acireale",
+        "Meccanografico": "CTIC81900A",
+        "Url sito scuola": "https://www.icgiovanni23acireale.edu.it/",
+        "NomeRete": "Biblòh!",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.154617,
+          37.603553
+        ],
+        "type": "Point"
+      },
+      "id": "83f7e2f5d5d97566c75d36ac7117c272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via della Maternità, 46  Novafeltria (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://reader-ic.medialibrary.it",
+        "Indirizzo": "via della Maternità, 46 ",
+        "Regione": "Emilia Romagna",
+        "Note": "readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Angelo Battelli\"",
+        "Città": "Novafeltria",
+        "Meccanografico": "RNIC811008",
+        "Url sito scuola": "https://www.icbattelli.edu.it/",
+        "NomeRete": "readER",
+        "IDPortale": "1712",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          12.288163,
+          43.898208
+        ],
+        "type": "Point"
+      },
+      "id": "8533586992db8cb3ab31e0804b9ac45f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "ISMS",
+        "Full Address": "piazzale Placido Rizzotto, snc Castelvetrano (TP) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(TP)",
+        "Dominio": "https://tp-piratidellalettura.medialibrary.it",
+        "Indirizzo": "piazzale Placido Rizzotto, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Secondaria Superiore \"Cipolla-Pantaleo-Gentile\"",
+        "Città": "Castelvetrano",
+        "Meccanografico": "TPIS032001",
+        "Url sito scuola": "https://liceicastelvetrano.edu.it/",
+        "NomeRete": "Pirati della Lettura",
+        "IDPortale": "1730",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.804129,
+          37.699068
+        ],
+        "type": "Point"
+      },
+      "id": "85d8390e9a40803b5fedb4813e303396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ISMS",
+        "Full Address": "via Negri, 45 Piacenza (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Negri, 45",
+        "Regione": "Emilia Romagna",
+        "Note": "MS + readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale \"A. Tramello-B. Cassinari\"",
+        "Città": "Piacenza",
+        "Meccanografico": "PCIS007002",
+        "Url sito scuola": "https://www.tramellocassinari.edu.it/",
+        "NomeRete": "Biblòh! e readER",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.690627,
+          45.043675
+        ],
+        "type": "Point"
+      },
+      "id": "86dfc5705567ae4514f1775e4843c485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "B.L.A. Biblioteche Luoghi Aperti",
+        "Grado": "ICMS",
+        "Full Address": "via Filippo Fiorentini, 48 Roma (RM) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(RM)",
+        "Dominio": "https://bla.medialibrary.it",
+        "Indirizzo": "via Filippo Fiorentini, 48",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Anna Fraentzel Celli\"",
+        "Città": "Roma",
+        "Meccanografico": "RMIC8EK00L",
+        "Url sito scuola": "https://www.icannacelli.edu.it/",
+        "NomeRete": "B.L.A. Biblioteche Luoghi Aperti",
+        "IDPortale": "1473",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.554772,
+          41.909173
+        ],
+        "type": "Point"
+      },
+      "id": "97086d123fa74e61775b0ddf74d80b30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "ISMS",
+        "Full Address": "via Giovanni Gentile, snc Castelvetrano (TP) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(TP)",
+        "Dominio": "https://tp-piratidellalettura.medialibrary.it",
+        "Indirizzo": "via Giovanni Gentile, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Superiore Statale di Istruzione Tecnica e Professionale \"G.B. Ferrigno-V. Accardi\"",
+        "Città": "Castelvetrano",
+        "Meccanografico": "TPIS02100E",
+        "Url sito scuola": "https://www.gbferrigno.edu.it/",
+        "NomeRete": "Pirati della Lettura",
+        "IDPortale": "1730",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.803513,
+          37.697826
+        ],
+        "type": "Point"
+      },
+      "id": "a67583000a0ea6df94efb87b06cbcce0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "B.L.A. Biblioteche Luoghi Aperti",
+        "Grado": "ISMS",
+        "Full Address": "viale Battista Bardanzellu, 7 Roma (RM) Lazio Italia ",
+        "Paese": "Italia",
+        "Prov": "(RM)",
+        "Dominio": "https://bla.medialibrary.it",
+        "Indirizzo": "viale Battista Bardanzellu, 7",
+        "Regione": "Lazio",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Croce-Aleramo\"",
+        "Città": "Roma",
+        "Meccanografico": "RMIS113003",
+        "Url sito scuola": "https://crocealeramo.edu.it/",
+        "NomeRete": "B.L.A. Biblioteche Luoghi Aperti",
+        "IDPortale": "1473",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.571137,
+          41.915538
+        ],
+        "type": "Point"
+      },
+      "id": "aa5afd42f7323faa31105946caef95c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ICMS",
+        "Full Address": "via Piatti, 9 Piacenza (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Piatti, 9",
+        "Regione": "Emilia Romagna",
+        "Note": "MS + readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Scuola Statale Secondaria di Primo Grado \"Dante Alighieri-Giosuè Carducci\"",
+        "Città": "Piacenza",
+        "Meccanografico": "PCMM00200Q",
+        "Url sito scuola": "https://www.dante-carducci.edu.it/",
+        "NomeRete": "Biblòh! e readER",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.688955,
+          45.043507
+        ],
+        "type": "Point"
+      },
+      "id": "ae69ef9cba525e0d2435d4cab57cedd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ICMS",
+        "Full Address": "via Ungaretti, 7 San Nicolò di Rottofreno (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Ungaretti, 7",
+        "Regione": "Emilia Romagna",
+        "Note": "MS + readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"M.K. Gandhi\"",
+        "Città": "San Nicolò di Rottofreno",
+        "Meccanografico": "PCIC812009",
+        "Url sito scuola": "https://www.icsannicolo.edu.it/",
+        "NomeRete": "Biblòh! e readER",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.6054,
+          45.05685
+        ],
+        "type": "Point"
+      },
+      "id": "b6aa561261c46adc863186bc0f4c615f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ICMS",
+        "Full Address": "via Verdi, 6 Castel San Giovanni (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Verdi, 6",
+        "Regione": "Emilia Romagna",
+        "Note": "MS + readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Card. Agostino Casaroli\"",
+        "Città": "Castel San Giovanni",
+        "Meccanografico": "PCIC81700C",
+        "Url sito scuola": "https://www.comprensivo-csg.edu.it/",
+        "NomeRete": "Biblòh! e readER",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.435346,
+          45.058243
+        ],
+        "type": "Point"
+      },
+      "id": "b8b5e274f095735daaa8e3ab2143a6af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via F. Arcangeli, 1 Santa Sofia (FC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(FC)",
+        "Dominio": "https://reader-ic.medialibrary.it",
+        "Indirizzo": "via F. Arcangeli, 1",
+        "Regione": "Emilia Romagna",
+        "Note": "readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Santa Sofia",
+        "Città": "Santa Sofia",
+        "Meccanografico": "FOIC812008",
+        "Url sito scuola": "https://www.icsantasofia.edu.it/",
+        "NomeRete": "readER",
+        "IDPortale": "1712",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          11.90808,
+          43.941576
+        ],
+        "type": "Point"
+      },
+      "id": "ba6edfd59a82c55cafebfef2b02f1e5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ISMS",
+        "Full Address": "via Martiri di Cefalonia, 14 San Secondo Parmense (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Martiri di Cefalonia, 14",
+        "Regione": "Emilia Romagna",
+        "Note": "MS + readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Secondaria \"Galilei-Bocchialini\"",
+        "Città": "San Secondo Parmense",
+        "Meccanografico": "PRIS00200Q",
+        "Url sito scuola": "http://www.poloagroindustriale.edu.it/",
+        "NomeRete": "Biblòh! e readER",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          10.230287,
+          44.916831
+        ],
+        "type": "Point"
+      },
+      "id": "d4d912d3cd168467e47f0ad2dab06bf0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "DigitalBiblioAgorà",
+        "Grado": "ISMS",
+        "Full Address": "corso IV Novembre, 40 Nizza Monferrato (AT) Piemonte Italia ",
+        "Paese": "Italia",
+        "Prov": "(AT)",
+        "Dominio": "https://dba.medialibrary.it",
+        "Indirizzo": "corso IV Novembre, 40",
+        "Regione": "Piemonte",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Nicola Pellati\"",
+        "Città": "Nizza Monferrato",
+        "Meccanografico": "ATIS00200B ",
+        "Url sito scuola": "https://www.pellatinizza.edu.it/",
+        "NomeRete": "DigitalBiblioAgorà",
+        "IDPortale": "1613",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          8.356797,
+          44.772525
+        ],
+        "type": "Point"
+      },
+      "id": "d81babcdf177f782570da9d5581b152c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ICMS",
+        "Full Address": "via Dante, 2 Favignana (TP) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(TP)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Dante, 2",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Antonino Rallo\"",
+        "Città": "Favignana",
+        "Meccanografico": "TPIC80500C",
+        "Url sito scuola": "http://icrallo.edu.it/",
+        "NomeRete": "Biblòh!",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          12.32958,
+          37.92951
+        ],
+        "type": "Point"
+      },
+      "id": "db45592c70ad66cfa582c3bb43819e08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "piazza Montefeltro, 6 Pennabilli (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://reader-ic.medialibrary.it",
+        "Indirizzo": "piazza Montefeltro, 6",
+        "Regione": "Emilia Romagna",
+        "Note": "readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"P. Olivieri\"",
+        "Città": "Pennabilli",
+        "Meccanografico": "RNIC812004",
+        "Url sito scuola": "https://www.icpennabilli.edu.it/",
+        "NomeRete": "readER",
+        "IDPortale": "1712",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          12.265031,
+          43.818068
+        ],
+        "type": "Point"
+      },
+      "id": "e000528f0ed3b5533804bd6232bc0f1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Istituto comprensivo di Busseto",
+        "Grado": "ICMS",
+        "Full Address": "viale Alfonso Pallavicino, 2 Busseto (PR) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PR)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "viale Alfonso Pallavicino, 2",
+        "Regione": "Emilia Romagna",
+        "Note": "MS + readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Statale di Bussetto",
+        "Città": "Busseto",
+        "Meccanografico": "PRIC82200R",
+        "Url sito scuola": "https://www.icbusseto.edu.it/",
+        "NomeRete": "readER",
+        "IDPortale": "1175",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          10.040423,
+          44.977499
+        ],
+        "type": "Point"
+      },
+      "id": "e637f235437b95314047359e77d2a6be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "DigitalBiblioAgorà",
+        "Grado": "ICMS",
+        "Full Address": "Via Montegrappa, 6 Santo Stefano Belbo (CN) Piemonte Italia ",
+        "Paese": "Italia",
+        "Prov": "(CN)",
+        "Dominio": "https://dba.medialibrary.it",
+        "Indirizzo": "Via Montegrappa, 6",
+        "Regione": "Piemonte",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Cesare Pavese\"",
+        "Città": "Santo Stefano Belbo",
+        "Meccanografico": "CNIC82400B ",
+        "Url sito scuola": "https://sites.google.com/icsantostefanobelbo.edu.it/scuolasantostefanobelbo/home",
+        "NomeRete": "DigitalBiblioAgorà",
+        "IDPortale": "1613",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          8.229382,
+          44.708504
+        ],
+        "type": "Point"
+      },
+      "id": "e895be29ed2401fe94e1d51522dd1329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioteca digitale Koiné - \"Scuole di Giovinazzo\"",
+        "Grado": "ICMS",
+        "Full Address": "viale Aldo Moro, 4 Giovinazzo (BA) Puglia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BA)",
+        "Dominio": "https://ba-scuolegiovinazzo.medialibrary.it/",
+        "Indirizzo": "viale Aldo Moro, 4",
+        "Regione": "Puglia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Don S. Bavaro-Marconi\"",
+        "Città": "Giovinazzo",
+        "Meccanografico": "BAIC891003",
+        "Url sito scuola": "https://icdonbavaromarconi.edu.it/w19/",
+        "NomeRete": "Biblioteca digitale Koiné - \"Scuole di Giovinazzo\"",
+        "IDPortale": "1006",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          16.663289,
+          41.187161
+        ],
+        "type": "Point"
+      },
+      "id": "f00c058bf5b827ef722171318d87545b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Santi, 3  Coriano (RN) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(RN)",
+        "Dominio": "https://reader-ic.medialibrary.it",
+        "Indirizzo": "via Santi, 3 ",
+        "Regione": "Emilia Romagna",
+        "Note": "readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Statale Coriano",
+        "Città": "Coriano",
+        "Meccanografico": "RNIC809008",
+        "Url sito scuola": "https://www.iccoriano.edu.it/",
+        "NomeRete": "readER",
+        "IDPortale": "1712",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          12.602568,
+          43.966498
+        ],
+        "type": "Point"
+      },
+      "id": "f02bbe60abd1f820a262d2c98d65ed5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblòh!",
+        "Grado": "ICMS",
+        "Full Address": "via Puccini, 29 Pianello Val Tidone (PC) Emilia Romagna Italia ",
+        "Paese": "Italia",
+        "Prov": "(PC)",
+        "Dominio": "https://bibloh.medialibrary.it",
+        "Indirizzo": "via Puccini, 29",
+        "Regione": "Emilia Romagna",
+        "Note": "MS + readER",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo di Pianello Val Tidone",
+        "Città": "Pianello Val Tidone",
+        "Meccanografico": "PCIC81100D",
+        "Url sito scuola": "https://icpianellovt.edu.it/",
+        "NomeRete": "Biblòh! e readER",
+        "IDPortale": "1069",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.404744,
+          44.946511
+        ],
+        "type": "Point"
+      },
+      "id": "fdb06b5ac14d175389250e91fb8399e2"
+    }
+  ],
+  "type": "FeatureCollection"
+}
