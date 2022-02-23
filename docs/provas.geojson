@@ -1,0 +1,1504 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Liceo Scientifico \"E. Fermi\" - Ragusa",
+        "Grado": "ISMS",
+        "Full Address": "viale Europa, snc Ragusa (RG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(RG)",
+        "Dominio": "https://rg-fermi.medialibrary.it",
+        "Indirizzo": "viale Europa, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Liceo Scientifico Statale \"Enrico Fermi\"",
+        "Città": "Ragusa",
+        "Meccanografico": "RGPS01000R",
+        "Url sito scuola": "https://www.liceofermirg.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1433",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.707566,
+          36.927216
+        ],
+        "type": "Point"
+      },
+      "id": "07be408638bd455c0d906dd6dca31a3e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IIS Mario Rapisardi",
+        "Grado": "ISMS",
+        "Full Address": "via degli Studi, 1 Paternò (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-rapisardi.medialibrary.it",
+        "Indirizzo": "via degli Studi, 1",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Mario Rapisardi\"",
+        "Città": "Paternò",
+        "Meccanografico": "CTIS01200Q",
+        "Url sito scuola": "https://www.istitutorapisardi.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1133",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.902905,
+          37.570032
+        ],
+        "type": "Point"
+      },
+      "id": "0f84c1e02c6d6b67fa221c5836e5f977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Scuola Secondaria di primo grado Dante Alighieri Catania",
+        "Grado": "ISMS",
+        "Full Address": "via Cagliari, 59 Catania (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-smsalighieri.medialibrary.it",
+        "Indirizzo": "via Cagliari, 59",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Scuola Secondaria di I grado \"Dante Alighieri\"",
+        "Città": "Catania",
+        "Meccanografico": "CTMM029002",
+        "Url sito scuola": "http://www.dantect.it/",
+        "NomeRete": "",
+        "IDPortale": "1295",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.0934,
+          37.521124
+        ],
+        "type": "Point"
+      },
+      "id": "10216137ac1c489710072d8f9bf4fbcc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Istituto Comprensivo \" Mario Rapisardi\" Catania",
+        "Grado": "ICMS",
+        "Full Address": "viale Trieste, snc Canicattì (AG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(AG)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "viale Trieste, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo ad Indirizzo Musicale \"Mario Rapisardi\"",
+        "Città": "Canicattì",
+        "Meccanografico": "AGIC82900G",
+        "Url sito scuola": "https://www.icrapisardi.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1076",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.84786,
+          37.35842
+        ],
+        "type": "Point"
+      },
+      "id": "1e7486e0ce0c3ec02ff92258b79cf79a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Liceo scientifico statale Enrico Boggio Lera",
+        "Grado": "ISMS",
+        "Full Address": "via Vittorio Emanuele II, 346 Catania (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-boggiolera.medialibrary.it",
+        "Indirizzo": "via Vittorio Emanuele II, 346",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Liceo Scientifico Statale \"Enrico Boggio Lera\"",
+        "Città": "Catania",
+        "Meccanografico": "CTPS020004",
+        "Url sito scuola": "https://www.liceoboggiolera.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1178",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.080679,
+          37.502109
+        ],
+        "type": "Point"
+      },
+      "id": "2258c70badd6c3c280a37e3c081cbf35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC \"S.G. Bosco\" - Naro",
+        "Grado": "ICMS",
+        "Full Address": "via Dante, 18 Naro (AG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(AG)",
+        "Dominio": "https://ag-sgbosco.medialibrary.it",
+        "Indirizzo": "via Dante, 18",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo Statale \"San Giovanni Bosco\"",
+        "Città": "Naro",
+        "Meccanografico": "AGIC85300C",
+        "Url sito scuola": "https://www.icnaro.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1518",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.792166,
+          37.297234
+        ],
+        "type": "Point"
+      },
+      "id": "304a5b720d8a43487c2abf39d7249799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC \"Angelo Musco\" - Catania",
+        "Grado": "ICMS",
+        "Full Address": "viale Giovanni da Verrazzano, 101 Catania (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-icmusco.medialibrary.it",
+        "Indirizzo": "viale Giovanni da Verrazzano, 101",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Omnicomprensivo Statale \"Angelo Musco\"",
+        "Città": "Catania",
+        "Meccanografico": "CTIC881002",
+        "Url sito scuola": "https://www.musco.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1557",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.055556,
+          37.491695
+        ],
+        "type": "Point"
+      },
+      "id": "33d2a2174f851f67e2e7eed8bdf0d4e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Istituto \" Gonzaga\" - International School Palermo",
+        "Grado": "ICMS",
+        "Full Address": "via Piersanti Mattarella, 38/42 Palermo (PA) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(PA)",
+        "Dominio": "https://pa-gonzaga.medialibrary.it",
+        "Indirizzo": "via Piersanti Mattarella, 38/42",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Gonzaga - International School Palermo",
+        "Città": "Palermo",
+        "Meccanografico": "",
+        "Url sito scuola": "https://gonzagaisp.it/",
+        "NomeRete": "",
+        "IDPortale": "1517",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.439485,
+          37.721195
+        ],
+        "type": "Point"
+      },
+      "id": "3b0cab99db78178301c240316b3593ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IPS \"Federico II\"",
+        "Grado": "ISMS",
+        "Full Address": "via Nicosia, 2 Enna (EN) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(EN)",
+        "Dominio": "https://en-iisenna.medialibrary.it",
+        "Indirizzo": "via Nicosia, 2",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Professionale Statale \"Federico II\"",
+        "Città": "Enna",
+        "Meccanografico": "ENIS004004",
+        "Url sito scuola": "https://www.iisenna.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1356",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.269091,
+          37.566139
+        ],
+        "type": "Point"
+      },
+      "id": "3fcb68027651dd5ac04ffa0f0b9f8e56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IISS Don Calogero di Vincenti Bisaquino",
+        "Grado": "ISMS",
+        "Full Address": "via Salerno, 12 Bisacquino (PA) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(PA)",
+        "Dominio": "https://pa-divincenti.medialibrary.it",
+        "Indirizzo": "via Salerno, 12",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Secondaria Superiore \"Don Calogero Di Vincenti\"",
+        "Città": "Bisacquino",
+        "Meccanografico": "PAIS01400X",
+        "Url sito scuola": "https://www.istitutosuperiorebisacquino.edu.it/default_2.aspx",
+        "NomeRete": "",
+        "IDPortale": "1138",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.259035,
+          37.707537
+        ],
+        "type": "Point"
+      },
+      "id": "424bb3db276bac23c52014a5a0c173aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Liceo classico statale \"N. Spedaleri\" CATANIA",
+        "Grado": "ISMS",
+        "Full Address": "piazza Annibale Riccò, snc Catania (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-liceospedalieri.medialibrary.it",
+        "Indirizzo": "piazza Annibale Riccò, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Lieco Classico Statale \"Nicola Spedalieri\"",
+        "Città": "Catania",
+        "Meccanografico": "CTPC070002",
+        "Url sito scuola": "http://www.liceospedalieri.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1348",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.079985,
+          37.505354
+        ],
+        "type": "Point"
+      },
+      "id": "466928e3c56f4a26ff4d98cd7bb4e34e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Circolo Didattico Zafferana Etnea",
+        "Grado": "ICMS",
+        "Full Address": "via Federico De Roberto, 113 Zafferana Etnea (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-cdzafferana.medialibrary.it",
+        "Indirizzo": "via Federico De Roberto, 113",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Circolo Didattico Zafferana Etnea",
+        "Città": "Zafferana Etnea",
+        "Meccanografico": "CTEE08300Q",
+        "Url sito scuola": "https://www.circolodidatticozafferana.it/",
+        "NomeRete": "",
+        "IDPortale": "1469",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.105383,
+          37.693973
+        ],
+        "type": "Point"
+      },
+      "id": "46abd7a2ddb4e5174dc37a222f01828c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Benjamin Franklin Magnet School - California",
+        "Grado": "ICMS",
+        "Full Address": "1610 Lake Street Glendale  California Stati Uniti ",
+        "Paese": "Stati Uniti",
+        "Prov": "",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "1610 Lake Street",
+        "Regione": "California",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Benjamin Franklin Magnet School",
+        "Città": "Glendale",
+        "Meccanografico": "",
+        "Url sito scuola": "https://www.gusd.net/franklin",
+        "NomeRete": "",
+        "IDPortale": "1594",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.296747,
+          34.162623
+        ],
+        "type": "Point"
+      },
+      "id": "486a52b1f3a33558c688e29381fc588e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IS Filippo Brunelleschi",
+        "Grado": "ISMS",
+        "Full Address": "via Guicciardini, snc Acireale (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-iisbrunelleschi.medialibrary.it",
+        "Indirizzo": "via Guicciardini, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Filippo Brunelleschi\"",
+        "Città": "Acireale",
+        "Meccanografico": "CTIS008004",
+        "Url sito scuola": "https://www.iis-brunelleschi.edu.it/index.php",
+        "NomeRete": "",
+        "IDPortale": "1357",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.16325,
+          37.62606
+        ],
+        "type": "Point"
+      },
+      "id": "4994661394baa9da14b73d20fccde909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "II IC \"S.G.Bosco\" GIARRE",
+        "Grado": "ICMS",
+        "Full Address": "piazza San Giovanni Bosco, 1 Giarre (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-secondoicgiarre.medialibrary.it",
+        "Indirizzo": "piazza San Giovanni Bosco, 1",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "II Istituto Comprensivo \"San Giovanni Bosco\"",
+        "Città": "Giarre",
+        "Meccanografico": "CTIC8AZ00A",
+        "Url sito scuola": "https://secondoicgiarre.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1351",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.17584,
+          37.72
+        ],
+        "type": "Point"
+      },
+      "id": "4a060133dfa56535492a102701817b68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC Livatino - Porto Empedocle",
+        "Grado": "ICMS",
+        "Full Address": "via dello Sport, snc Porto Empedocle (AG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(AG)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via dello Sport, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo \"Rosario Livatino\"",
+        "Città": "Porto Empedocle",
+        "Meccanografico": "AGIC86400V",
+        "Url sito scuola": "https://www.icrosariolivatinoportoempedocle.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1303",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.526613,
+          37.297384
+        ],
+        "type": "Point"
+      },
+      "id": "4a2a536f6cea7aced7aedd11e835a1b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "2 Circolo Didattico di Niscemi",
+        "Grado": "ICMS",
+        "Full Address": "via Calatafimi, 12 Niscemi (CL) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CL)",
+        "Dominio": "https://cl-secondocircoloniscemi.medialibrary.it",
+        "Indirizzo": "via Calatafimi, 12",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Direzione Didattica II Circolo Niscemi",
+        "Città": "Niscemi",
+        "Meccanografico": "CLEE02100B",
+        "Url sito scuola": "",
+        "NomeRete": "",
+        "IDPortale": "1166",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.388683,
+          37.150492
+        ],
+        "type": "Point"
+      },
+      "id": "4d26fc19d56aa44cd50150285cf08faf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC G. Tomasi di Lampedusa - S. Margherita di Belice",
+        "Grado": "ICMS",
+        "Full Address": "via Pordenone, snc Santa Margherita di Belice (AG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(AG)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Pordenone, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo Statale \"Giuseppe Tomasi di Lampedusa\"",
+        "Città": "Santa Margherita di Belice",
+        "Meccanografico": "AGIC80800E",
+        "Url sito scuola": "https://www.ictlampedusa.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1461",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.01584,
+          37.69281
+        ],
+        "type": "Point"
+      },
+      "id": "513e09a19af5bb94e0e23f030730d54a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Istituto di Cultura Italica (Paritaria) La Plata",
+        "Grado": "ICMS",
+        "Full Address": "avenida 44, 1123 La Plata  Buenos Aires Argentina ",
+        "Paese": "Argentina",
+        "Prov": "",
+        "Dominio": "https://ra-escuelaitaliana.medialibrary.it",
+        "Indirizzo": "avenida 44, 1123",
+        "Regione": "Buenos Aires",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Instituto de Cultura Italica La Plata",
+        "Città": "La Plata",
+        "Meccanografico": "",
+        "Url sito scuola": "https://www.escuelaitaliana.com/",
+        "NomeRete": "",
+        "IDPortale": "1286",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.966129,
+          -34.920367
+        ],
+        "type": "Point"
+      },
+      "id": "53d240b45874a9b71e5246fa5ecff0d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Liceo Scientifico e Linguistico \"Elio Vittorini\" Gela",
+        "Grado": "ISMS",
+        "Full Address": "via Pitagora, snc Gela (CL) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CL)",
+        "Dominio": "https://cl-vittorini.medialibrary.it",
+        "Indirizzo": "via Pitagora, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Liceo Scientifico e Linguistico \"Elio Vittorini\"",
+        "Città": "Gela",
+        "Meccanografico": "CLPS03000N",
+        "Url sito scuola": "https://www.liceovittorinigela.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1123",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.224901,
+          37.07751
+        ],
+        "type": "Point"
+      },
+      "id": "577a81585aeaeb8b5c05fb52186d2aeb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC \"G. Verga\" - Viagrande",
+        "Grado": "ICMS",
+        "Full Address": "via Giovanni Pacini, 62 Viagrande (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-icverga.medialibrary.it",
+        "Indirizzo": "via Giovanni Pacini, 62",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo \"Giovanni Verga\"",
+        "Città": "Viagrande",
+        "Meccanografico": "CTIC856009",
+        "Url sito scuola": "https://www.vergaviagrande.edu.it/homepage",
+        "NomeRete": "",
+        "IDPortale": "1366",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.097327,
+          37.612839
+        ],
+        "type": "Point"
+      },
+      "id": "64ff0c8710bdddc8ffb3d3a308719997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IIS M. Amari Giarre",
+        "Grado": "ISMS",
+        "Full Address": "via Padre Ambrogio, 1 Giarre (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-iisamari.medialibrary.it",
+        "Indirizzo": "via Padre Ambrogio, 1",
+        "Regione": "Sicilia",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Michele Amari\"",
+        "Città": "Giarre",
+        "Meccanografico": "CTIS001009",
+        "Url sito scuola": "https://www.iisamari.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1253",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.189194,
+          37.729483
+        ],
+        "type": "Point"
+      },
+      "id": "68dc54e94b02224d8cc16c1c8b71563e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "ICS \"G. Falcone - P. Borsellino\" Cassibile",
+        "Grado": "ICMS",
+        "Full Address": "via della Madonna, 51 Cassibile (SR) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(SR)",
+        "Dominio": "https://sr-falconeborsellino.medialibrary.it",
+        "Indirizzo": "via della Madonna, 51",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "II Istituto Comprensivo di base \"Giovanni Falcone-Paolo Borsellino\"",
+        "Città": "Cassibile",
+        "Meccanografico": "SRIC801009",
+        "Url sito scuola": "http://www.scuolecassibile.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1073",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.202055,
+          36.972574
+        ],
+        "type": "Point"
+      },
+      "id": "6ceac6838e4ae26cda89577a1cad2bc0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC \"Federico II Di Svevia\" - Mascalucia",
+        "Grado": "ICMS",
+        "Full Address": "via Del Sole, snc Mascalucia (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-fsvevia.medialibrary.it",
+        "Indirizzo": "via Del Sole, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo \"Federico II Di Svevia\"",
+        "Città": "Mascalucia",
+        "Meccanografico": "CTIC83400C",
+        "Url sito scuola": "https://www.fsveviamascalucia.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1482",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.032881,
+          37.596457
+        ],
+        "type": "Point"
+      },
+      "id": "7a268e541c3fc5835c45d9ec35227212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "ICS Filippo Traina Vittoria",
+        "Grado": "ICMS",
+        "Full Address": "via Cacciatori delle Alpi, 401 Vittoria (RG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(RG)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Cacciatori delle Alpi, 401",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo \"Filippo Traina\"",
+        "Città": "Vittoria",
+        "Meccanografico": "RGIC82800C",
+        "Url sito scuola": "https://www.icstraina.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1143",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.529251,
+          36.948105
+        ],
+        "type": "Point"
+      },
+      "id": "7f6e5531e21928e18ef668932c9661e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Istituto superiore \"Archimede\" Rosolini",
+        "Grado": "ISMS",
+        "Full Address": "via Sipione, 147 Rosolini (SR) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(SR)",
+        "Dominio": "https://sr-archimederosolini.medialibrary.it",
+        "Indirizzo": "via Sipione, 147",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Secondaria Superiore \"Archimede\"",
+        "Città": "Rosolini",
+        "Meccanografico": "SRIS017003",
+        "Url sito scuola": "https://www.istitutosuperiorearchimede.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1075",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.945243,
+          36.822297
+        ],
+        "type": "Point"
+      },
+      "id": "800322b93f6cc7678e5995263138fc62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IIS - TOMMASO FAZELLO",
+        "Grado": "ISMS",
+        "Full Address": "via Alcide De Gasperi, 10 Sciacca (AG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(AG)",
+        "Dominio": "https://ag-iissfazello.medialibrary.it",
+        "Indirizzo": "via Alcide De Gasperi, 10",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Secondaria Superiore \"Tommaso Fazello\"",
+        "Città": "Sciacca",
+        "Meccanografico": "AGIS00800P",
+        "Url sito scuola": "https://www.iissfazello.it/",
+        "NomeRete": "",
+        "IDPortale": "1700",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.079883,
+          37.513815
+        ],
+        "type": "Point"
+      },
+      "id": "824c8cb954165a5594d3d94a72c8b9cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IPSSEOA \"Karol Wojtyla\" - Catania",
+        "Grado": "ISMS",
+        "Full Address": "via Giovanni Battista de La Salle, 12 Catania (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-wojtyla.medialibrary.it",
+        "Indirizzo": "via Giovanni Battista de La Salle, 12",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Professionale di Stato per i Servizi Enogastronomici e dell'Ospitalità Alberghiera \"Karol Wojtyla\"",
+        "Città": "Catania",
+        "Meccanografico": "CTRH03000C",
+        "Url sito scuola": "https://www.alberghierowojtyla.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1459",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.091669,
+          37.533344
+        ],
+        "type": "Point"
+      },
+      "id": "82cfbc15b4d064c8c60d05948762fb8e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IIS \"Concetto Marchesi\" - Mascalucia",
+        "Grado": "ISMS",
+        "Full Address": "via Case Nuove, 37 Mascalucia (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-marchesi.medialibrary.it",
+        "Indirizzo": "via Case Nuove, 37",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Concetto Marchesi\"",
+        "Città": "Mascalucia",
+        "Meccanografico": "CTIS02600N",
+        "Url sito scuola": "https://www.iismarchesimascalucia.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1481",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.053526,
+          37.576398
+        ],
+        "type": "Point"
+      },
+      "id": "88d92b3e080469feeffb8db7302dfe75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "\"A.Volta\" - Caltanissetta",
+        "Grado": "ISMS",
+        "Full Address": "via Nino Martoglio, 1 Caltanissetta (CL) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CL)",
+        "Dominio": "https://cl-volta.medialibrary.it",
+        "Indirizzo": "via Nino Martoglio, 1",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Superiore \"A. Volta\"",
+        "Città": "Caltanissetta",
+        "Meccanografico": "CLIS01900D",
+        "Url sito scuola": "https://www.liceoscientificovolta.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1408",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.049157,
+          37.495767
+        ],
+        "type": "Point"
+      },
+      "id": "94099f6e8dc02ee6a198180b48733531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "ITCG \"Rapisardi - Da Vinci\" - Caltanissetta",
+        "Grado": "ISMS",
+        "Full Address": "viale Regina Margherita, 27 Caltanissetta (CL) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CL)",
+        "Dominio": "https://cl-rapisardidavinci.medialibrary.it",
+        "Indirizzo": "viale Regina Margherita, 27",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Tecnico Economico e Tecnologico \"M. Rapisardi-L. Da Vinci\"",
+        "Città": "Caltanissetta",
+        "Meccanografico": "CLTD090005",
+        "Url sito scuola": "https://www.rapisardidavinci.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1528",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.060094,
+          37.484459
+        ],
+        "type": "Point"
+      },
+      "id": "a42af07eb8adb8815fa02297fa386ab2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC \"G. Philippone\" - San Giovanni Gemini",
+        "Grado": "ICMS",
+        "Full Address": "via Sacramento, 106 San Giovanni Gemini (AG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(AG)",
+        "Dominio": "https://ag-philippone.medialibrary.it",
+        "Indirizzo": "via Sacramento, 106",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo \"G. Philippone\"",
+        "Città": "San Giovanni Gemini",
+        "Meccanografico": "AGIC818005",
+        "Url sito scuola": "https://ic-philippone.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1484",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.643017,
+          37.627077
+        ],
+        "type": "Point"
+      },
+      "id": "ac166d9e7c257c8f38da4acb7bb122c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Circolo Didattico - Palazzello - Ragusa",
+        "Grado": "ICMS",
+        "Full Address": "via Monte Cervino, 3 Ragusa (RG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(RG)",
+        "Dominio": "https://rg-palazzello.medialibrary.it",
+        "Indirizzo": "via Monte Cervino, 3",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Circolo Didattico Statale Palazzello",
+        "Città": "Ragusa",
+        "Meccanografico": "RGEE004002",
+        "Url sito scuola": "https://www.palazzello.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1246",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.714556,
+          36.920075
+        ],
+        "type": "Point"
+      },
+      "id": "ae4f2084f2e7906b467aba31406edd87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IIS \"G. Mazzini\" - Vittoria",
+        "Grado": "ISMS",
+        "Full Address": "via Curtatone, snc Vittoria (RG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(RG)",
+        "Dominio": "https://rg-mazzini.medialibrary.it",
+        "Indirizzo": "via Curtatone, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Superiore \"G. Mazzini\"",
+        "Città": "Vittoria",
+        "Meccanografico": "RGIS01400P",
+        "Url sito scuola": "https://www.iismazzinivittoria.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1681",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.531607,
+          36.94731
+        ],
+        "type": "Point"
+      },
+      "id": "b456ff795d1f5d6816b56e6d0fa2d829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC1 \"De Amicis\" - Floridia",
+        "Grado": "ICMS",
+        "Full Address": "via Edmondo de Amicis, 1 Floridia (SR) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(SR)",
+        "Dominio": "https://sr-deamicis.medialibrary.it",
+        "Indirizzo": "via Edmondo de Amicis, 1",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "1° Istituto Comprensivo Statale \"E. De Amicis\"",
+        "Città": "Floridia",
+        "Meccanografico": "SRIC82100E",
+        "Url sito scuola": "http://www.istitutodeamicisfloridia.it/",
+        "NomeRete": "",
+        "IDPortale": "1418",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.146661,
+          37.085269
+        ],
+        "type": "Point"
+      },
+      "id": "b4672c90a66b97eefdc4843d59d4a5c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IV Istituto Scolastico Comprensivo \"S. Quasimodo\"",
+        "Grado": "ICMS",
+        "Full Address": "viale Vittorio Veneto, 92 Floridia (SR) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(SR)",
+        "Dominio": "https://sr-icquasimodo.medialibrary.it",
+        "Indirizzo": "viale Vittorio Veneto, 92",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "IV Istituto Comprensivo \"Salvatore Quasimodo\"",
+        "Città": "Floridia",
+        "Meccanografico": "SRIC824002",
+        "Url sito scuola": "http://www.quasimodofloridia.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1170",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.160584,
+          37.085162
+        ],
+        "type": "Point"
+      },
+      "id": "b6d4fb2c81b249c87bc43d213069fb57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IIS Galilei-Campailla Modica",
+        "Grado": "ISMS",
+        "Full Address": "piazzale Baden Powell, 10 Modica (RG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(RG)",
+        "Dominio": "https://rg-galilei.medialibrary.it",
+        "Indirizzo": "piazzale Baden Powell, 10",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Superiore \"G. Galilei-T. Campailla\"",
+        "Città": "Modica",
+        "Meccanografico": "RGIS01600A",
+        "Url sito scuola": "https://www.galileicampailla.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1005",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.76976,
+          36.8499
+        ],
+        "type": "Point"
+      },
+      "id": "b8d0a1b9279b06fa5f8ba161a2525fd4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "ICS Alessio Narbone Caltagirone",
+        "Grado": "ICMS",
+        "Full Address": "via degli Studi, 8 Caltagirone (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-narbone.medialibrary.it",
+        "Indirizzo": "via degli Studi, 8",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo Statale \"Alessio Narbone\"",
+        "Città": "Caltagirone",
+        "Meccanografico": "CTIC82500N",
+        "Url sito scuola": "https://www.alessionarbone.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1106",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.51762,
+          37.21609
+        ],
+        "type": "Point"
+      },
+      "id": "c0c91d7f2653029445a62c137c3f5443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IIS Fortunato Fedele Agira",
+        "Grado": "ISMS",
+        "Full Address": "piazza Europa, 6 Agira (EN) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(EN)",
+        "Dominio": "https://en-fortunatofedele.medialibrary.it",
+        "Indirizzo": "piazza Europa, 6",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Fortunato Fedele\"",
+        "Città": "Agira",
+        "Meccanografico": "ENIS00800B",
+        "Url sito scuola": "https://www.fortunatofedele.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1095",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.518332,
+          37.657806
+        ],
+        "type": "Point"
+      },
+      "id": "c5a528b709e3c4fc38eab5a83e1c8015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IPSSAT Rocco Chinnici Nicolosi",
+        "Grado": "ISMS",
+        "Full Address": "via Fratelli Gemmellaro, 86 Nicolosi (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-chinnici.medialibrary.it",
+        "Indirizzo": "via Fratelli Gemmellaro, 86",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Professionale di Stato per i Servizi Alberghieri e Turistici \"Rocco Chinnici\"",
+        "Città": "Nicolosi",
+        "Meccanografico": "CTRH05000N",
+        "Url sito scuola": "http://www.ipssatchinnicinicolosi.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1134",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.028359,
+          37.613731
+        ],
+        "type": "Point"
+      },
+      "id": "c9f955a6a6b1e807e15a85bb78118f17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IISS \"Virgilio\" - Mussomeli",
+        "Grado": "ISMS",
+        "Full Address": "contrada Prato, snc Mussomeli (CL) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CL)",
+        "Dominio": "https://cl-virgilio.medialibrary.it",
+        "Indirizzo": "contrada Prato, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Secondaria Superiore \"Virgilio\"",
+        "Città": "Mussomeli",
+        "Meccanografico": "CLIS008003",
+        "Url sito scuola": "https://www.virgiliomussomeli.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1620",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.75214,
+          37.58067
+        ],
+        "type": "Point"
+      },
+      "id": "ccbac1c3e632eed6f68d655afae4f7cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Liceo Scientifico Statale \"E. Fermi\" - Sciacca",
+        "Grado": "ISMS",
+        "Full Address": "via Parma, 1 Sciacca (AG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(AG)",
+        "Dominio": "https://ag-fermi.medialibrary.it",
+        "Indirizzo": "via Parma, 1",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Liceo Scientifico Statale \"Enrico Fermi\"",
+        "Città": "Sciacca",
+        "Meccanografico": "AGPS02000P",
+        "Url sito scuola": "https://www.liceofermisciacca.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1514",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.067001,
+          37.513245
+        ],
+        "type": "Point"
+      },
+      "id": "d47ba615de8c417ac5605e22f4f544fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "ISMS",
+        "Full Address": "via Carlo Alberto Dalla Chiesa, snc Niscemi (CL) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CL)",
+        "Dominio": "https://cl-iisdavinci.medialibrary.it/",
+        "Indirizzo": "via Carlo Alberto Dalla Chiesa, snc",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Leonardo da Vinci\"",
+        "Città": "Niscemi",
+        "Meccanografico": "CLIS002004",
+        "Url sito scuola": "https://www.leonardoniscemi.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1759",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          14.39381,
+          37.14649
+        ],
+        "type": "Point"
+      },
+      "id": "d7fcecfee1b71ab783ab937d9de16e11"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC Esseneto Agrigento",
+        "Grado": "ICMS",
+        "Full Address": "via Manzoni, 219 Agrigento (AG) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(AG)",
+        "Dominio": "https://ag-icesseneto.medialibrary.it",
+        "Indirizzo": "via Manzoni, 219",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo Statale \"Esseneto\"",
+        "Città": "Agrigento",
+        "Meccanografico": "AGIC82200R",
+        "Url sito scuola": "https://www.scuolaicesseneto.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1215",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.760536,
+          37.191209
+        ],
+        "type": "Point"
+      },
+      "id": "d901ca331379077dc2cde316314c1b53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC2 \"A. Volta\" - Floridia",
+        "Grado": "ICMS",
+        "Full Address": "via Colombo, 30 Floridia (SR) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(SR)",
+        "Dominio": "https://sr-volta.medialibrary.it",
+        "Indirizzo": "via Colombo, 30",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "2° Istituto Comprensivo \"A. Volta\"",
+        "Città": "Floridia",
+        "Meccanografico": "SRIC82500T",
+        "Url sito scuola": "https://www.istitutocomprensivovoltafloridia.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1417",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.156596,
+          37.083369
+        ],
+        "type": "Point"
+      },
+      "id": "dc4fb9eaf246182cc6c79c5a0571e4b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC4 \"G. Galilei\" - Acireale",
+        "Grado": "ICMS",
+        "Full Address": "via Mario Arcidiacono, 2 Acireale (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "scuola.medialibrary.it",
+        "Indirizzo": "via Mario Arcidiacono, 2",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "IV Istituto Comprensivo  \"Galileo Galilei\"",
+        "Città": "Acireale",
+        "Meccanografico": "CTIC8AV003",
+        "Url sito scuola": "http://www.icgalileiacireale.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1290",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.15505,
+          37.617804
+        ],
+        "type": "Point"
+      },
+      "id": "e6e825962432bc9a0c475abc9d5b6ccf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC \"Leonardo Da Vinci\" - Mascalucia",
+        "Grado": "ICMS",
+        "Full Address": "via Regione Siciliana, 12 Mascalucia (CT) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CT)",
+        "Dominio": "https://ct-davinci.medialibrary.it",
+        "Indirizzo": "via Regione Siciliana, 12",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo Statale \"Leonardo da Vinci\"",
+        "Città": "Mascalucia",
+        "Meccanografico": "CTIC8A300B",
+        "Url sito scuola": "http://www.vincimascalucia.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1483",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.046116,
+          37.576495
+        ],
+        "type": "Point"
+      },
+      "id": "e805885bd40a43760d256b9d42616314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Istituto Comprensivo di Prizzi",
+        "Grado": "ICMS",
+        "Full Address": "contrada Pizzo Bianco Prizzi (PA) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(PA)",
+        "Dominio": "https://pa-prizzi.medialibrary.it",
+        "Indirizzo": "contrada Pizzo Bianco",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo di Prizzi",
+        "Città": "Prizzi",
+        "Meccanografico": "PAIC88200A",
+        "Url sito scuola": "nessuno",
+        "NomeRete": "",
+        "IDPortale": "1065",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.43435,
+          37.72088
+        ],
+        "type": "Point"
+      },
+      "id": "f5874f3c87d75663f9ed895dcde9f626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC “Carlo V” - Carlentini",
+        "Grado": "ICMS",
+        "Full Address": "via dello Stadio, 32 Carlentini (SR) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(SR)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via dello Stadio, 32",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Istituto Comprensivo \"Carlo V\"",
+        "Città": "Carlentini",
+        "Meccanografico": "SRIC81900E",
+        "Url sito scuola": "https://istitutocarlov.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1491",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.010118,
+          37.266749
+        ],
+        "type": "Point"
+      },
+      "id": "f6e99fe9831965e9fd705661896817c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Scuola secondaria di I grado \"G. Carducci\" San Cataldo",
+        "Grado": "ICMS",
+        "Full Address": "viale indipendenza, 24 San Cataldo (CL) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CL)",
+        "Dominio": "https://cl-carducci.medialibrary.it",
+        "Indirizzo": "viale indipendenza, 24",
+        "Regione": "Sicilia",
+        "Note": "",
+        "Tipo": "Scuola",
+        "NomeScuola": "Scuola Secondaria di primo grado \"Giosuè Carducci\"",
+        "Città": "San Cataldo",
+        "Meccanografico": "CLMM029001",
+        "Url sito scuola": "https://www.carduccisancataldo.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1319",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.990252,
+          37.488814
+        ],
+        "type": "Point"
+      },
+      "id": "facda353224728f870f8e8934f7b02f9"
+    }
+  ],
+  "type": "FeatureCollection"
+}
