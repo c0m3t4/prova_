@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel='stylesheet' href='https://unpkg.com/leaflet@1.2.0/dist/leaflet.css'>
+<link rel='stylesheet' href='https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css'><link rel="stylesheet" href="./style.css">
+<link rel='stylesheet' href='https://unpkg.com/leaflet@1.0.3/dist/leaflet.css'>
+<style>
+
+*, *:before, *:after {
+  box-sizing: 0;
+}
+
+html, body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+}
+
+#map {
+    position: relative;
+    margin: 0 auto;
+    width: 92vw;
+    height: 80vh;
+}
+
+/* form controls */
+form {
+  position: relative;
+  z-index: 1500;
+  top: 2px;
+  padding: 2px;
+  margin: 0 auto;
+  width: 92vw;
+}
+
+#userSearch {
+  position: relative;
+  margin-left: 4%;
+  margin-bottom: 1%;
+  margin-top: 1%;
+  padding: 2px;
+  max-height: 8vh;
+  width: 91.5vw;
+}
+
+.ui-autocomplete {
+    z-index: 2000;
+}
+
+.leaflet-popup-content-wrapper {
+   background: #FFFFFF;
+   border: solid 1px #1EA6CD;
+   font-size: 12;
+}
+
+.leaflet-popup-tip-container {
+  width:auto;
+  height:auto;
+  }
+
+.leaflet-popup-tip {
+  border-left:0.5px solid #1EA6CD;
+  border-right:0.5px solid #1EA6CD;
+  border-top:0.5px solid #1EA6CD;
+  }
+
+  .leaflet-popup-content {
+      max-width: 50vw;
+      max-height: 40vh;
+      overflow-y: auto;
+      margin: 5px;
+  }
+
+  .leaflet-control-container {
+   width: 15vw;
+  }
+
+.leaflet-control-layers {
+   width: 15vw;
+}
+
+
+@media screen and (min-width: 601px) {
+  .leaflet-control-layers {
+    width: 18vw;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .leaflet-control-layers {
+   width: 35%;
+  }
+}
+</style>
+</head>
+
+<body>
+<!-- partial:index.partial.html -->
+<div><input id="userSearch" type="text" color="#1EA6CD" placeholder="Cerca la tua scuola per nome, meccanografico, città o rete" />
+</div>
+<!-- container for Leaflet map -->
+<div id="map">
+</div>
+
+
+<script src='https://unpkg.com/leaflet@1.0.3/dist/leaflet.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+<!-- partial -->
+<script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+<script src='https://code.jquery.com/ui/1.12.1/jquery-ui.min.js'></script>
+<script src='https://unpkg.com/leaflet@1.2.0/dist/leaflet.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.js'></script>
+<script  src="./script.js"></script>
+
+</body>
+
+<script>
+
+"use strict";
+
+// array to hold member name and coordinates
+var memberSearch = [];
+// array used as source for autocomplete search
+var returnMember = [];
+
+// initialize map
+var map = L.map('map', {
+  center: [41.8, 11.5],
+  zoom: 6,
+  zoomControl: false,
+});
+
+// Open Street Map base map
+var osm = L.tileLayer('https://api.mapbox.com/styles/v1/isabellamanchia/ckzfduzlo005x15lpaw4cvw1x/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiaXNhYmVsbGFtYW5jaGlhIiwiYSI6ImNrcjBkNGg5MjBwNHYyb21udnNrdm5kcW4ifQ.nzfUmZTvIHjHcbD8EaTpLg', {
+  attribution: '© <a href="https://apps.mapbox.com/feedback/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+}).addTo(map);
+
+L.control.zoom({
+    position: 'bottomright'
+}).addTo(map);
+
+var pin_IC = new L.Icon({
+  iconUrl: 'https://raw.githubusercontent.com/c0m3t4/prova_/main/docs/pin_ICER.svg',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [20, 36],
+ iconAnchor: [12, 21],
+ popupAnchor: [4, -12],
+ shadowSize: [31, 31]
+});
+
+var pin_IS = new L.Icon({
+  iconUrl: 'https://raw.githubusercontent.com/c0m3t4/prova_/main/docs/pin_reti.svg',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [20, 36],
+ iconAnchor: [12, 21],
+ popupAnchor: [4, -12],
+ shadowSize: [31, 31]
+});
+
+var pin_MS = new L.Icon({
+  iconUrl: 'https://raw.githubusercontent.com/c0m3t4/prova_/main/docs/MS_pin.svg',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [20, 36],
+ iconAnchor: [12, 21],
+ popupAnchor: [4, -12],
+ shadowSize: [31, 31]
+});
+
+// URL to GeoJSON data for members
+var geojsonData = 'https://c0m3t4.github.io/prova_/map_MS_8mar22.geojson';
+
+
+// create members layer from GeoJSON and add to map
+var pmgMembers = new L.GeoJSON.AJAX(geojsonData, { //options object for GeoJSON
+  pointToLayer: function(feature, latlng) {
+    if (feature.properties.Tipo === "Scuola") {
+      return L.marker(latlng, { icon: pin_MS });
+
+    } else if (feature.properties.Tipo === "Rete Scuole") {
+      return L.marker(latlng, { icon: pin_IS });
+
+    }
+  },
+    // A Function that will be called once for each created Feature, after it has been created and styled
+    // see http://leafletjs.com/reference.html#geojson
+
+        onEachFeature: function(feature, layer) {
+
+    if(feature.properties.Tipo == "Scuola") {
+        // add only 'red' markers to Layer Group
+        scuoleLayer.addLayer(layer);
+    } else if (feature.properties.Tipo === "Rete Scuole") {
+        // add only 'blue' markers to Layer Group (assuming just red/blue markers)
+        retescuoleLayer.addLayer(layer);
+    }
+
+        // add data about each member to an array
+        memberSearch.push({
+            // fullName will be used in the autocomplete search
+            fullName: layer.feature.properties.NomeScuola + " " + layer.feature.properties.Meccanografico + " " + layer.feature.properties.Città + " " + layer.feature.properties.NomeRete,
+            // coords will be used to zoom to each member when they are selected from search
+            coords: L.latLng(layer.feature.geometry.coordinates[1], layer.feature.geometry.coordinates[0])
+        });
+      var popupContent = '<h3><b>' + feature.properties.NomeScuola + ' – ' + feature.properties.Meccanografico + '</b></h3>'
+    + '<p>' +
+    feature.properties.Indirizzo + ' '+
+    feature.properties.Città + ' ' + feature.properties.Prov +
+    '</p>'
+    +
+    '<p color:#1EA6CD><b><a href="' + feature.properties.Dominio + '" target="_blank">' + feature.properties.Dominio + '</a></b></p>'
+    + '<p>' +
+    feature.properties.NomeRete +
+    '</p>';
+		layer.bindPopup(popupContent);
+    }
+}).addTo(map);
+
+
+// LAYERGROUP WITH ADD TO MAP
+
+// LAYERGROUP WITHOUT ADD TO MAP
+var scuoleLayer = new L.LayerGroup().addTo(map);
+var retescuoleLayer = new L.LayerGroup().addTo(map);
+
+var overlays = {
+  "<img src='https://raw.githubusercontent.com/c0m3t4/prova_/main/docs/MS_pin.svg' height=20>Scuole": scuoleLayer,
+  "<img src='https://raw.githubusercontent.com/c0m3t4/prova_/main/docs/pin_reti.svg' height=20>Reti scolastiche" : retescuoleLayer
+};
+L.control.layers(null,overlays,{collapsed:false, position: 'topleft'}).addTo(map);
+
+// create source (array) for autocomplete search
+// wrap array.push() within timeout function to compensate for time to load GeoJSON?
+var createMembersList = setTimeout(function() {
+    for (var i=0; i < memberSearch.length; i++) {
+        returnMember.push(memberSearch[i]["fullName"]);
+    }
+    return returnMember;
+}, 5000);
+
+// initialize jQuery UI autocomplete
+// target #userSearch input element
+// see https://api.jqueryui.com/autocomplete/
+$("#userSearch").autocomplete({
+  autoFocus:true,
+  minLength:2,
+  disabled: false,
+  delay:300, // how long after a user types until text appears
+  source: returnMember, // source for autocomplete (an array)
+  select: function(event, ui) {
+    // get member and zoom to selected member
+    new function() {
+      for (var i=0; i < memberSearch.length; i++) {
+        if (ui.item.value === memberSearch[i]["fullName"]) {
+            // store L.latLng object for selected member
+            var coords = memberSearch[i]["coords"];
+            // change map view to zoom to member if they are selected
+            map.setView(coords, 15);
+        } // end if
+      } // end for loop
+    }; // end new function
+  } // end select
+});
+
+/* Prevent hitting enter from refreshing the page */
+$("#userSearch").keypress(function (e) {
+  if (e.which == 13) {
+    e.preventDefault();
+  }
+});
+
+</script>
+
+</html>
