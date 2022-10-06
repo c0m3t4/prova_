@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "ITTL Nautico San Giorgio Genova",
+        "Grado": "ISMS",
+        "Full Address": "Calata Darsena Genova (GE) Liguria Italia ",
+        "Paese": "Italia",
+        "Prov": "(GE)",
+        "m": "Scuola",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "Calata Darsena",
+        "Regione": "Liguria",
+        "Note": "",
+        "NomeScuola": "Istituto Tecnico dei Trasporti e Logistica Nautico San Giorgio",
+        "Città": "Genova",
+        "Meccanografico": "GETH020013",
+        "Url sito scuola": "https://www.itnautico.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1015",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          8.924367,
+          44.412331
+        ],
+        "type": "Point"
+      },
+      "id": "0689b2b89ab3ac1e16e4578284897f00"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Istituto Comprensivo di Prizzi",
+        "Grado": "ICMS",
+        "Full Address": "contrada Pizzo Bianco Prizzi (PA) Sicilia Italia ",
+        "Paese": "Italia",
+        "Prov": "(PA)",
+        "m": "Scuola",
+        "Dominio": "https://pa-prizzi.medialibrary.it",
+        "Indirizzo": "contrada Pizzo Bianco",
+        "Regione": "Sicilia",
+        "Note": "",
+        "NomeScuola": "Istituto Comprensivo di Prizzi",
+        "Città": "Prizzi",
+        "Meccanografico": "PAIC88200A",
+        "Url sito scuola": "nessuno",
+        "NomeRete": "",
+        "IDPortale": "1065",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          13.43435,
+          37.72088
+        ],
+        "type": "Point"
+      },
+      "id": "4337bc05392dcbe291bf61299c153a9e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Scuole Piaggine",
+        "Grado": "ICMS",
+        "Full Address": "Corso Sayalonga Piaggine (SA) Campania Italia ",
+        "Paese": "Italia",
+        "Prov": "(SA)",
+        "m": "Scuola",
+        "Dominio": "https://sa-scuolepiaggine.medialibrary.it",
+        "Indirizzo": "Corso Sayalonga",
+        "Regione": "Campania",
+        "Note": "",
+        "NomeScuola": "Istituto Omnicomprensivo di Piaggine",
+        "Città": "Piaggine",
+        "Meccanografico": "SAPM11000D",
+        "Url sito scuola": "http://www.scuolepiaggine.edu.it/",
+        "NomeRete": "",
+        "IDPortale": "1037",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          15.37777,
+          40.34498
+        ],
+        "type": "Point"
+      },
+      "id": "574cce3b3d2bad01f23b474dc38fb7b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "CPIA 1 Karalis - Cagliari",
+        "Grado": "ISMS",
+        "Full Address": "via Trincea delle Frasche/P.zza Padre Abbo Cagliari (CA) Sardegna Italia ",
+        "Paese": "Italia",
+        "Prov": "(CA)",
+        "m": "Scuola",
+        "Dominio": "https://ca-cpiakaralis.medialibrary.it",
+        "Indirizzo": "via Trincea delle Frasche/P.zza Padre Abbo",
+        "Regione": "Sardegna",
+        "Note": "",
+        "NomeScuola": "Centro Provinciale Istruzione Adulti 1 Karalis",
+        "Città": "Cagliari",
+        "Meccanografico": "CAMM202003",
+        "Url sito scuola": "https://cpia1karalis.edu.it/index.php",
+        "NomeRete": "",
+        "IDPortale": "1584",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.11917,
+          39.23054
+        ],
+        "type": "Point"
+      },
+      "id": "6fa3957cedc245fd2dd8bd6367c9ed22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Lycée International de Saint Germain en Laye",
+        "Grado": "ISMS",
+        "Full Address": "2 Rue du Fer à Cheval Saint-Germain-en-Laye   Francia ",
+        "Paese": "Francia",
+        "Prov": "",
+        "m": "Scuola",
+        "Dominio": "https://fr-apesi.medialibrary.it",
+        "Indirizzo": "2 Rue du Fer à Cheval",
+        "Regione": "",
+        "Note": "",
+        "NomeScuola": "Lycée International de Saint-Germain-en-Laye",
+        "Città": "Saint-Germain-en-Laye",
+        "Meccanografico": "",
+        "Url sito scuola": "http://www.sectionitalienne.org/",
+        "NomeRete": "",
+        "IDPortale": "1066",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          1.860813,
+          48.880961
+        ],
+        "type": "Point"
+      },
+      "id": "a53fdd5dc6448f0dc23f792c335c33b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Benjamin Franklin Magnet School - California",
+        "Grado": "ICMS",
+        "Full Address": "1610 Lake Street Glendale  California Stati Uniti ",
+        "Paese": "Stati Uniti",
+        "Prov": "",
+        "m": "Scuola",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "1610 Lake Street",
+        "Regione": "California",
+        "Note": "",
+        "NomeScuola": "Benjamin Franklin Magnet School",
+        "Città": "Glendale",
+        "Meccanografico": "",
+        "Url sito scuola": "https://www.gusd.net/franklin",
+        "NomeRete": "",
+        "IDPortale": "1594",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.296747,
+          34.162623
+        ],
+        "type": "Point"
+      },
+      "id": "d8897903a884127cabbebf766dc6a06a"
+    }
+  ],
+  "type": "FeatureCollection"
+}
