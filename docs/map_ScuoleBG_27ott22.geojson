@@ -1,0 +1,544 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Borgo Palazzo, 128 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Borgo Palazzo, 128",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Mario Rigoni Stern\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGIS03100L",
+        "Url sito scuola": "https://www.iisrigonistern.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.696023,
+          45.693931
+        ],
+        "type": "Point"
+      },
+      "id": "0a1d7e9c8a86beb0c81062c3d1ca7176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Caravaggio, 52 Treviglio (BG) Lombardia\tItalia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Caravaggio, 52",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Secondaria Superiore \"Archimede\"\r",
+        "Città": "Treviglio ",
+        "Meccanografico": "BGIS004008",
+        "Url sito scuola": "https://www.isarchimede.edu.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.616854,
+          45.508835
+        ],
+        "type": "Point"
+      },
+      "id": "1af7608bd4080238be5d1f6d272956fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Monte Gleno, 54 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Monte Gleno, 54",
+        "Regione": "Lombardia",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "International School of Bergamo",
+        "Città": "Bergamo",
+        "Meccanografico": "non presente",
+        "Url sito scuola": "https://www.isbergamo.com/it",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.706833,
+          45.694812
+        ],
+        "type": "Point"
+      },
+      "id": "2a928b2284a73279bde7f59f66dae147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Gianbattista Moroni, 255 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": " (BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Gianbattista Moroni, 255",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Scuola Paritaria \"Leonardo da Vinci\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGPS0D500U \nBGPSRR5006\nBGPL055009\nBGPMVO500T\nBGTD085006\nBGTL025001\nBGTFUM500Z\nBGTF015006\nBGRF2Q5004",
+        "Url sito scuola": "https://www.centrostudi.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.659951,
+          45.686992
+        ],
+        "type": "Point"
+      },
+      "id": "36910d88447245114bc0972b696d9d5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Verdi, 48 Dalmine (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Verdi, 48 ",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Superiore \"Luigi Einaudi\"",
+        "Città": "Dalmine",
+        "Meccanografico": "BGIS01100B",
+        "Url sito scuola": "https://www.isiseinaudi.edu.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.597263,
+          45.65051
+        ],
+        "type": "Point"
+      },
+      "id": "3db42c5a089d9e85f8460cd93466e6fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "ISIS \"Zenale e Butinone\" Treviglio",
+        "Grado": "ISMS",
+        "Full Address": "via Galvani, 7 Treviglio (BG) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bg-zenale.medialibrary.it",
+        "Indirizzo": "via Galvani, 7",
+        "Regione": "Lombardia",
+        "Note": "MS + RBBG",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Superiore Zenale e Butinone",
+        "Città": "Treviglio",
+        "Meccanografico": "BGIS033008",
+        "Url sito scuola": "https://www.zenale.edu.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.584714,
+          45.520017
+        ],
+        "type": "Point"
+      },
+      "id": "439db15bf425ba05d744b01660d09b8d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Giuseppe Verdi, 60 Dalmine (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Giuseppe Verdi, 60",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Tecnico Industriale \"Guglielmo Marconi\"",
+        "Città": "Dalmine",
+        "Meccanografico": "BGTF160001",
+        "Url sito scuola": "https://itisdalmine.edu.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.594258,
+          45.650597
+        ],
+        "type": "Point"
+      },
+      "id": "52f8f114d62453077224764dc61aeacc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Zanovello, 1A Treviglio (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Zanovello, 1A",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Centro Salesiano \"Don Bosco\"",
+        "Città": "Treviglio ",
+        "Meccanografico": "BGPC05500B\nBGPS505007\nBGPSH85002\nBGTF9O500Q",
+        "Url sito scuola": "https://www.salesianitreviglio.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.592065,
+          45.524455
+        ],
+        "type": "Point"
+      },
+      "id": "5ce4ea8d23369303e93334fa92be4028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via C. Berizzi, 1 Presezzo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via C. Berizzi, 1",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Superiore \"Betty Ambiveri”\n",
+        "Città": "Presezzo",
+        "Meccanografico": "BGIS00300C",
+        "Url sito scuola": "https://www.bettyambiveri.edu.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.577382,
+          45.69633
+        ],
+        "type": "Point"
+      },
+      "id": "75d19302394c3fd36373a0f8c866471d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Angelo Maj, 1 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Angelo Maj, 1",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Scientifico Statale \"Filippo Lussana\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGPS02000G",
+        "Url sito scuola": "https://www.liceolussana.edu.it/new/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.675675,
+          45.693335
+        ],
+        "type": "Point"
+      },
+      "id": "761e18f7dee7b9ce82c0a8c878a383a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "viale Aldo Moro, 51 Albino (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "viale Aldo Moro, 51",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Superiore \"Oscar Romero\"",
+        "Città": "Albino",
+        "Meccanografico": "BGIS00900B",
+        "Url sito scuola": "https://www.isisromero.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.794202,
+          45.767796
+        ],
+        "type": "Point"
+      },
+      "id": "90432e4f654d6ebb3733b66e01d799a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Bellini, 54 Nembro (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Bellini, 54",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Professionale di Stato per i Servizi Alberghieri e della Ristorazione \"Alfredo Sonzogni\"",
+        "Città": "Nembro",
+        "Meccanografico": "BGRH020009",
+        "Url sito scuola": "https://www.alberghierosonzogni.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.743115,
+          45.742167
+        ],
+        "type": "Point"
+      },
+      "id": "9749caa4f40c0a223cba2605d42dbfe4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via del Polaresco, 19 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via del Polaresco, 19",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Caterina Caniana\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGIS02900L",
+        "Url sito scuola": "https://istitutocaniana.edu.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.633434,
+          45.691518
+        ],
+        "type": "Point"
+      },
+      "id": "a741e7ab9f85aa65a20e8f88d30efda0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Partigiani, 1 Seriate (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Partigiani, 1",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Secondaria Superiore \"Ettore Majorana\"",
+        "Città": "Seriate",
+        "Meccanografico": "BGIS01700A",
+        "Url sito scuola": "https://www.ettoremajorana.edu.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.716123,
+          45.683659
+        ],
+        "type": "Point"
+      },
+      "id": "ae32d4d57aecc1602dae17d6284693c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "piazza Rosate, 4 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "piazza Rosate, 4",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Classico Statale \"Paolo Sarpi\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGPC02000C",
+        "Url sito scuola": "https://www.liceosarpi.bg.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.662241,
+          45.702317
+        ],
+        "type": "Point"
+      },
+      "id": "b1a21cac61dd23e27389c204195e5551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "viale Michelangelo Merisio, 14 Treviglio (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "viale Michelangelo Merisio, 14",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Secondaria Superiore \"Guglielmo Oberdan\"",
+        "Città": "Treviglio",
+        "Meccanografico": "BGIS03700G",
+        "Url sito scuola": "https://oberdan.edu.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.603557,
+          45.518309
+        ],
+        "type": "Point"
+      },
+      "id": "b6ebdf1b704577b41377ca72dc1541a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Locatelli, 16 Alzano Lombardo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Locatelli, 16",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Scientifico Statale \"Edoardo Amaldi\"",
+        "Città": "Alzano Lombardo",
+        "Meccanografico": "BGPS17000D",
+        "Url sito scuola": "https://www.liceoamaldi.edu.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.728557,
+          45.732529
+        ],
+        "type": "Point"
+      },
+      "id": "e30e321099c387b2878ae31159ef8971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "RBBG Scuola",
+        "Grado": "IS",
+        "Full Address": "via Mauro Gavazzeni, 29 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it/",
+        "Indirizzo": "via Mauro Gavazzeni, 29",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Tecnico Industriale Statale \"Pietro Paleocapa\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGTF010003",
+        "Url sito scuola": "https://www.itispaleocapa.edu.it/",
+        "NomeRete": "RBBG Scuola",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.682364,
+          45.690192
+        ],
+        "type": "Point"
+      },
+      "id": "ec2217f9426efe700455e52d291126be"
+    }
+  ],
+  "type": "FeatureCollection"
+}
