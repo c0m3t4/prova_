@@ -1,0 +1,634 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Caravaggio, 52 Treviglio (BG) Lombardia\tItalia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Caravaggio, 52",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Secondaria Superiore \"Archimede\"\r",
+        "Città": "Treviglio ",
+        "Meccanografico": "BGIS004008",
+        "Url sito scuola": "https://www.isarchimede.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.616854,
+          45.508835
+        ],
+        "type": "Point"
+      },
+      "id": "00d60a813dd7c5091ad741886fa532f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Verdi, 48 Dalmine (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Verdi, 48 ",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Superiore \"Luigi Einaudi\"",
+        "Città": "Dalmine",
+        "Meccanografico": "BGIS01100B",
+        "Url sito scuola": "https://www.isiseinaudi.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.597263,
+          45.65051
+        ],
+        "type": "Point"
+      },
+      "id": "370cb5dfa39d735c5cb20aa513ecfd26"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Bellini, 54 Nembro (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Bellini, 54",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Professionale di Stato per i Servizi Alberghieri e della Ristorazione \"Alfredo Sonzogni\"",
+        "Città": "Nembro",
+        "Meccanografico": "BGRH020009",
+        "Url sito scuola": "https://www.alberghierosonzogni.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.743115,
+          45.742167
+        ],
+        "type": "Point"
+      },
+      "id": "3ddd4c6c10355deb7fb9646e0fbb316c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Gianbattista Moroni, 255 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": " (BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Gianbattista Moroni, 255",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Scuola Paritaria \"Leonardo da Vinci\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGPS0D500U \nBGPSRR5006\nBGPL055009\nBGPMVO500T\nBGTD085006\nBGTL025001\nBGTFUM500Z\nBGTF015006\nBGRF2Q5004",
+        "Url sito scuola": "https://www.centrostudi.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.659951,
+          45.686992
+        ],
+        "type": "Point"
+      },
+      "id": "43487239aa50fd2e5485ba9000a7435e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Dunant, 1 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Dunant, 1",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Linguistico \"Giovanni Falcone\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGPM02000L",
+        "Url sito scuola": "https://www.liceofalconebg.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.644819,
+          45.692758
+        ],
+        "type": "Point"
+      },
+      "id": "5605798207f9956d136f6ece07b69bef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Galvani, 7 Treviglio (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Galvani, 7",
+        "Regione": "Lombardia",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore Statale \"Simone Weil\"",
+        "Città": "Treviglio",
+        "Meccanografico": "BGIS00200L",
+        "Url sito scuola": "https://isweil.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.585024,
+          45.519658
+        ],
+        "type": "Point"
+      },
+      "id": "656508366b90588f4f0c58f34e03f431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Locatelli, 16 Alzano Lombardo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Locatelli, 16",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Scientifico Statale \"Edoardo Amaldi\"",
+        "Città": "Alzano Lombardo",
+        "Meccanografico": "BGPS17000D",
+        "Url sito scuola": "https://www.liceoamaldi.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.728557,
+          45.732529
+        ],
+        "type": "Point"
+      },
+      "id": "6dec5c603e8d90f6fc3b1913fb956820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via del Polaresco, 19 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via del Polaresco, 19",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Caterina Caniana\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGIS02900L",
+        "Url sito scuola": "https://istitutocaniana.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.633434,
+          45.691518
+        ],
+        "type": "Point"
+      },
+      "id": "81c8662959b59ff2d578391aadb89cc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Zanovello, 1A Treviglio (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Zanovello, 1A",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Centro Salesiano \"Don Bosco\"",
+        "Città": "Treviglio ",
+        "Meccanografico": "BGPC05500B\nBGPS505007\nBGPSH85002\nBGTF9O500Q",
+        "Url sito scuola": "https://www.salesianitreviglio.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.592065,
+          45.524455
+        ],
+        "type": "Point"
+      },
+      "id": "9db81fc977e0ce00a3e0b2a2d0670d9e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Borgo Palazzo, 128 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Borgo Palazzo, 128",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Mario Rigoni Stern\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGIS03100L",
+        "Url sito scuola": "https://www.iisrigonistern.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.696023,
+          45.693931
+        ],
+        "type": "Point"
+      },
+      "id": "a5b6a594561a4fd317453138b4e3bc26"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Partigiani, 1 Seriate (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Partigiani, 1",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Secondaria Superiore \"Ettore Majorana\"",
+        "Città": "Seriate",
+        "Meccanografico": "BGIS01700A",
+        "Url sito scuola": "https://www.ettoremajorana.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.716123,
+          45.683659
+        ],
+        "type": "Point"
+      },
+      "id": "a5d10c993c1d2a44dbd4ad7acead4d4d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Mauro Gavazzeni, 29 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Mauro Gavazzeni, 29",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Tecnico Industriale Statale \"Pietro Paleocapa\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGTF010003",
+        "Url sito scuola": "https://www.itispaleocapa.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.682364,
+          45.690192
+        ],
+        "type": "Point"
+      },
+      "id": "a76578f613f32862023b3e96f444b1f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Giuseppe Verdi, 60 Dalmine (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Giuseppe Verdi, 60",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Tecnico Industriale \"Guglielmo Marconi\"",
+        "Città": "Dalmine",
+        "Meccanografico": "BGTF160001",
+        "Url sito scuola": "https://itisdalmine.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.594258,
+          45.650597
+        ],
+        "type": "Point"
+      },
+      "id": "b5d4ecf779ec705a50fde5cb7544d4d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "viale Aldo Moro, 51 Albino (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "viale Aldo Moro, 51",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Superiore \"Oscar Romero\"",
+        "Città": "Albino",
+        "Meccanografico": "BGIS00900B",
+        "Url sito scuola": "https://www.isisromero.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.794202,
+          45.767796
+        ],
+        "type": "Point"
+      },
+      "id": "cee5815dc6804894232a239c80c11c5f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Monte Gleno, 54 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Monte Gleno, 54",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "International School of Bergamo",
+        "Città": "Bergamo",
+        "Meccanografico": "",
+        "Url sito scuola": "https://www.isbergamo.com/it",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.706833,
+          45.694812
+        ],
+        "type": "Point"
+      },
+      "id": "df0baf71c1e2ab182bea5dc7e611476d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "viale Michelangelo Merisio, 14 Treviglio (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "viale Michelangelo Merisio, 14",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Secondaria Superiore \"Guglielmo Oberdan\"",
+        "Città": "Treviglio",
+        "Meccanografico": "BGIS03700G",
+        "Url sito scuola": "https://oberdan.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.603557,
+          45.518309
+        ],
+        "type": "Point"
+      },
+      "id": "df37b781b4acd9f10df119a5852cb7ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via C. Berizzi, 1 Presezzo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via C. Berizzi, 1",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Superiore \"Betty Ambiveri”\n",
+        "Città": "Presezzo",
+        "Meccanografico": "BGIS00300C",
+        "Url sito scuola": "https://www.bettyambiveri.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.577382,
+          45.69633
+        ],
+        "type": "Point"
+      },
+      "id": "e50a9626c4bf07f486ab0e2626e073f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "via Angelo Maj, 1 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "via Angelo Maj, 1",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Scientifico Statale \"Filippo Lussana\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGPS02000G",
+        "Url sito scuola": "https://www.liceolussana.edu.it/new/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.675675,
+          45.693335
+        ],
+        "type": "Point"
+      },
+      "id": "eca6a9866821532d1f4c022e73b60f4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "ISMS",
+        "Full Address": "via Cortivo, 30 Sarnico (BG) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bg-istitutoriva.medialibrary.it",
+        "Indirizzo": "via Cortivo, 30",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Secondaria Superiore \"Serafino Riva\"",
+        "Città": "Sarnico",
+        "Meccanografico": "BGIS02300N",
+        "Url sito scuola": "https://www.istitutoriva.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1727",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.951064,
+          45.668889
+        ],
+        "type": "Point"
+      },
+      "id": "f3f211792991c177da4452189556ad22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "MLOL Scuola Bergamo",
+        "Grado": "IS",
+        "Full Address": "piazza Rosate, 4 Bergamo (BG) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bergamoscuola.medialibrary.it",
+        "Indirizzo": "piazza Rosate, 4",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Classico Statale \"Paolo Sarpi\"",
+        "Città": "Bergamo",
+        "Meccanografico": "BGPC02000C",
+        "Url sito scuola": "https://www.liceosarpi.bg.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1793",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.662241,
+          45.702317
+        ],
+        "type": "Point"
+      },
+      "id": "f6d7b243a04333370641d8a1d114df5a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "ISIS \"Zenale e Butinone\" Treviglio",
+        "Grado": "ISMS",
+        "Full Address": "via Galvani, 7 Treviglio (BG) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BG)",
+        "Dominio": "https://bg-zenale.medialibrary.it",
+        "Indirizzo": "via Galvani, 7",
+        "Regione": "Lombardia",
+        "Note": "MS + ScuoleBG",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Statale di Istruzione Superiore \"Zenale e Butinone\"",
+        "Città": "Treviglio",
+        "Meccanografico": "BGIS033008",
+        "Url sito scuola": "https://www.zenale.edu.it/",
+        "NomeRete": "MLOL Scuola Bergamo",
+        "IDPortale": "1320",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          9.584714,
+          45.520017
+        ],
+        "type": "Point"
+      },
+      "id": "ff2755bb2fa1f8286140d4343135424c"
+    }
+  ],
+  "type": "FeatureCollection"
+}
