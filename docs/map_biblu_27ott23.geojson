@@ -1,0 +1,244 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "Grado": "IS",
+        "Full Address": "Via Levadello, 24/26 Palazzolo sull’Oglio (BS) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BS)",
+        "Dominio": "https://biblu.medialibrary.it",
+        "Indirizzo": "Via Levadello, 24/26",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Superiore \"Giovanni Falcone\"",
+        "Città": "Palazzolo sull’Oglio",
+        "Meccanografico": "BSIS03400L",
+        "Url sito scuola": "https://falconeiis.edu.it/",
+        "NomeRete": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "PNRR": "PNRR",
+        "IDPortale": "1837"
+      },
+      "geometry": {
+        "coordinates": [
+          9.89411,
+          45.598172
+        ],
+        "type": "Point"
+      },
+      "id": "2b0c8f9e3df41d4205ea4fe490973fa6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "Grado": "IS",
+        "Full Address": "via Levadello, 26/B Palazzolo sull’Oglio (BS) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BS)",
+        "Dominio": "https://biblu.medialibrary.it",
+        "Indirizzo": "via Levadello, 26/B",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Cristoforo Marzoli\"",
+        "Città": "Palazzolo sull’Oglio",
+        "Meccanografico": "BSIS01800P",
+        "Url sito scuola": "https://www.istitutomarzoli.edu.it/",
+        "NomeRete": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "PNRR": "PNRR",
+        "IDPortale": "1837"
+      },
+      "geometry": {
+        "coordinates": [
+          9.892769,
+          45.598013
+        ],
+        "type": "Point"
+      },
+      "id": "57b69ff8dcf40b011f6c18d018066d82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "Grado": "IS",
+        "Full Address": "via G. Matteotti, 299 Gardone Val Trompia (BS) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BS)",
+        "Dominio": "https://biblu.medialibrary.it",
+        "Indirizzo": "via G. Matteotti, 299",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore “Carlo Beretta”",
+        "Città": "Gardone Val Trompia",
+        "Meccanografico": "BSIS00600C",
+        "Url sito scuola": "https://www.iiscberetta.edu.it/",
+        "NomeRete": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "PNRR": "PNRR",
+        "IDPortale": "1837"
+      },
+      "geometry": {
+        "coordinates": [
+          10.18635,
+          45.69137
+        ],
+        "type": "Point"
+      },
+      "id": "713536b7ce639c739ba6e366ae7de1da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "Grado": "IC",
+        "Full Address": "via Caduti della Resistenza, 24 Nuvolento (BS) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BS)",
+        "Dominio": "https://biblu.medialibrary.it",
+        "Indirizzo": "via Caduti della Resistenza, 24",
+        "Regione": "Lombardia",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Statale di Nuvolento",
+        "Città": "Nuvolento",
+        "Meccanografico": "BSIC851006",
+        "Url sito scuola": "https://www.icnuvolento.edu.it/",
+        "NomeRete": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "PNRR": "PNRR",
+        "IDPortale": "1837"
+      },
+      "geometry": {
+        "coordinates": [
+          10.383012,
+          45.539384
+        ],
+        "type": "Point"
+      },
+      "id": "a3e6df72e391771664dab090b4d414bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "Grado": "IS",
+        "Full Address": "viale Europa, 46D Rovato (BS) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BS)",
+        "Dominio": "https://biblu.medialibrary.it",
+        "Indirizzo": "viale Europa, 46D",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Lorenzo Gigli\"",
+        "Città": "Rovato",
+        "Meccanografico": "BSIS01700V",
+        "Url sito scuola": "https://www.istitutogiglirovato.edu.it/",
+        "NomeRete": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "PNRR": "PNRR",
+        "IDPortale": "1837"
+      },
+      "geometry": {
+        "coordinates": [
+          9.996569,
+          45.557196
+        ],
+        "type": "Point"
+      },
+      "id": "dac9ce290f11df870cc9313f8a59f575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "Grado": "IC",
+        "Full Address": "via Matteotti, 22 Mazzano (BS) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BS)",
+        "Dominio": "https://biblu.medialibrary.it",
+        "Indirizzo": "via Matteotti, 22",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Statale di Mazzano",
+        "Città": "Mazzano",
+        "Meccanografico": "BSIC852002",
+        "Url sito scuola": "https://icmazzano.edu.it/",
+        "NomeRete": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "PNRR": "PNRR",
+        "IDPortale": "1837"
+      },
+      "geometry": {
+        "coordinates": [
+          10.35387,
+          45.52008
+        ],
+        "type": "Point"
+      },
+      "id": "ec56ebdfc30909dcb589c03c3c8c83e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "Grado": "IC",
+        "Full Address": "via E. Rinaldini, 5 Marcheno (BS) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BS)",
+        "Dominio": "https://biblu.medialibrary.it",
+        "Indirizzo": "via E. Rinaldini, 5",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo di Marcheno",
+        "Città": "Marcheno",
+        "Meccanografico": "BSIC85400N",
+        "Url sito scuola": "https://www.icmarcheno.edu.it/",
+        "NomeRete": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "PNRR": "PNRR",
+        "IDPortale": "1837"
+      },
+      "geometry": {
+        "coordinates": [
+          10.21449,
+          45.70649
+        ],
+        "type": "Point"
+      },
+      "id": "f10eb916357bf10346e9f9912bac5ebe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "Grado": "IS",
+        "Full Address": "via Paolo VI, 3 Iseo (BS) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(BS)",
+        "Dominio": "https://biblu.medialibrary.it",
+        "Indirizzo": "via Paolo VI, 3",
+        "Regione": "Lombardia",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Giacomo Antonietti\"",
+        "Città": "Iseo",
+        "Meccanografico": "BSIS008004",
+        "Url sito scuola": "https://antoniettiseo.edu.it/",
+        "NomeRete": "Biblù (Rete biblioteche scolastiche bresciane)",
+        "PNRR": "PNRR",
+        "IDPortale": "1837"
+      },
+      "geometry": {
+        "coordinates": [
+          10.045249,
+          45.656824
+        ],
+        "type": "Point"
+      },
+      "id": "fd17c3520f5aed6cf471a504d64848a6"
+    }
+  ],
+  "type": "FeatureCollection"
+}
