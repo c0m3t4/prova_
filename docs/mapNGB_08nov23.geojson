@@ -1,0 +1,1325 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Renzo da Ceri, 2/H Crema (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Renzo da Ceri, 2/H",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Crema 2 \"Margherita Hack\"",
+        "Città": "Crema",
+        "Meccanografico": "CRIC825003",
+        "Url sito scuola": "https://iccremadue.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.649648,
+          45.355703
+        ],
+        "type": "Point"
+      },
+      "id": "00821eb0b942d5a9c58afbc3a2b6a6b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via San Lorenzo, 4 Cremona (CR) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via San Lorenzo, 4",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Cremona Tre",
+        "Città": "Cremona",
+        "Meccanografico": "CRIC82000X",
+        "Url sito scuola": "https://iccremonatre.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.029107,
+          45.134737
+        ],
+        "type": "Point"
+      },
+      "id": "036e9ace164ccf703eeaf93519c6dd9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Milano, 5 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Milano, 5",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Vida Classico",
+        "Città": "Cremona",
+        "Meccanografico": "CRPC035004",
+        "Url sito scuola": "https://liceovida.org/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.001866,
+          45.14286
+        ],
+        "type": "Point"
+      },
+      "id": "089ca321eddae911ca75550a03481b67"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Cavallotti, 2 Cremona (CR) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Cavallotti, 2",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Ginnasio Statale \"Daniele Manin\"",
+        "Città": "Cremona",
+        "Meccanografico": "CRPC02000A",
+        "Url sito scuola": "https://liceomanin-cr.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.021013,
+          45.133944
+        ],
+        "type": "Point"
+      },
+      "id": "08e8bc20296457ef92f7ef37d31e4b66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Gioconda, 1 Cremona (CR) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Gioconda, 1",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Cremona Uno",
+        "Città": "Cremona",
+        "Meccanografico": "CRIC82100Q",
+        "Url sito scuola": "https://www.iccremonauno.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.025646,
+          45.138171
+        ],
+        "type": "Point"
+      },
+      "id": "1f5f41b53a8f3c3e3aeb77f1d3ae363c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Ubaldo Ferrari, 10 Castelverde (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Ubaldo Ferrari, 10",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Ubaldo Ferrari\"",
+        "Città": "Castelverde",
+        "Meccanografico": "CRIC803006",
+        "Url sito scuola": "https://iccastelverde.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.993794,
+          45.188556
+        ],
+        "type": "Point"
+      },
+      "id": "1fe086b19854818e30444f1daa8e7865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Ugo Palmieri, 4 Crema (CR) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Ugo Palmieri, 4",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Racchetti-da Vinci\"",
+        "Città": "Crema",
+        "Meccanografico": "CRIS013001",
+        "Url sito scuola": "https://www.racchettidavinci.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.69483,
+          45.365361
+        ],
+        "type": "Point"
+      },
+      "id": "20abd6fbd87a82fb7be435ce83669dd6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Macello, 26 Crema (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Macello, 26",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "CFP Canossa",
+        "Città": "Crema",
+        "Meccanografico": "CRCF00600C",
+        "Url sito scuola": "https://cfpcanossa.fondazionefidesetratio.it/iscriversi-al-cfp-canossa-sede-di-crema/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.68176,
+          45.36264
+        ],
+        "type": "Point"
+      },
+      "id": "238fb2c3b19d9b21e47a7b6fb9557ba3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Leonardo da Vinci, 5 Soresina (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Leonardo da Vinci, 5",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Scuola primaria \"Immacolata\"",
+        "Città": "Soresina",
+        "Meccanografico": "CR1E00800N",
+        "Url sito scuola": "https://scuolediocesicr.it/scuola-primaria-immacolata/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.858722,
+          45.291456
+        ],
+        "type": "Point"
+      },
+      "id": "29194f5ea5a5ba1f5fb5f79dfc48b9c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Colletta, 5 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Colletta, 5",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Antonio Stradivari\"",
+        "Città": "Cremona",
+        "Meccanografico": "CRIS00800D",
+        "Url sito scuola": "https://www.istitutostradivari.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.018717,
+          45.134725
+        ],
+        "type": "Point"
+      },
+      "id": "2fdaaae81e9850e529a5f566faa05203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via XI Febbraio, 78 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via XI Febbraio, 78",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Scuola Media Sacra Famiglia",
+        "Città": "Cremona",
+        "Meccanografico": "CR1M00500B",
+        "Url sito scuola": "https://scuolasacrafamigliacr.com/scuola-secondaria/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.710851,
+          45.364635
+        ],
+        "type": "Point"
+      },
+      "id": "3553c73ac328822c176a568a56eab29d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Milano, 5 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Milano, 5",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "IFP \"Sant'Antonio Abate\"",
+        "Città": "Cremona",
+        "Meccanografico": "CRCF01100X",
+        "Url sito scuola": "https://scuolediocesicr.it/ifp/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.001981,
+          45.142832
+        ],
+        "type": "Point"
+      },
+      "id": "3d53b91a92f730baee9fd990b92561ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Corridoni, 1 Vescovato (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Corridoni, 1",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Ugo Foscolo\"",
+        "Città": "Vescovato",
+        "Meccanografico": "CRIC809005",
+        "Url sito scuola": "https://www.icugofoscolo.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.16451,
+          45.17419
+        ],
+        "type": "Point"
+      },
+      "id": "410770b9105e2e945b777d21b0f84a7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "viale Santuario 11 Castelleone  (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "viale Santuario 11",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"P. Sentati\"",
+        "Città": "Castelleone ",
+        "Meccanografico": "CRIC804002",
+        "Url sito scuola": "https://iccastelleone.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.75601,
+          45.302444
+        ],
+        "type": "Point"
+      },
+      "id": "4127d64c103881261430b32613ef6834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Milano, 5 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Milano, 5",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Vida Scientifico",
+        "Città": "Cremona",
+        "Meccanografico": "CRPS00500B",
+        "Url sito scuola": "https://liceovida.org/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.001845,
+          45.142858
+        ],
+        "type": "Point"
+      },
+      "id": "4a5987cbdc549c2b90cd177e6265882d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Trento, 15 Casalmaggiore (CR) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Trento, 15",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"G. Romani\"",
+        "Città": "Casalmaggiore",
+        "Meccanografico": "CRIS00100P",
+        "Url sito scuola": "https://www.poloromani.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.419007,
+          44.984463
+        ],
+        "type": "Point"
+      },
+      "id": "4c3560a41aa30ea9e37530c20022fd8b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Palestro, 31 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Palestro, 31",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Scientifico Statale \"Gaspare Aselli\"",
+        "Città": "Cremona",
+        "Meccanografico": "CRPS01000V",
+        "Url sito scuola": "https://www.liceoaselli.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.018527,
+          45.141992
+        ],
+        "type": "Point"
+      },
+      "id": "501a67238f45637c88c0e03e1d66c393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Dante, 121 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Dante, 121",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Innovazione Apprendimento Lavoro Lombardia Srl - Impresa Sociale",
+        "Città": "Cremona",
+        "Meccanografico": "CRCF00500L",
+        "Url sito scuola": "https://www.ialombardia.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.026638,
+          45.139969
+        ],
+        "type": "Point"
+      },
+      "id": "52f48700aa8a26c9613cda11eeba8ba2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "piazza Leonardo Da Vinci, 2 Casalpusterlengo (LO) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(LO)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "piazza Leonardo Da Vinci, 2",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Consorzio per la Formazione Professionale e per l'Educazione Permanente Casalpusterlengo",
+        "Città": "Casalpusterlengo",
+        "Meccanografico": "LOCF00300P",
+        "Url sito scuola": "https://www.cfpcons.lodi.it/sedi-e-contatti",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.64834,
+          45.17921
+        ],
+        "type": "Point"
+      },
+      "id": "57fe4f0993cee2c90d66db02c48ddd3e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "vicolo Clavelli, 28 Bagnolo Cremasco (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "vicolo Clavelli, 28",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Rita Levi-Montalcini\"",
+        "Città": "Bagnolo Cremasco",
+        "Meccanografico": "CRIC82800E",
+        "Url sito scuola": "https://www.icbagnolocr.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.611726,
+          45.361988
+        ],
+        "type": "Point"
+      },
+      "id": "59476adc5095fb629588e3783cf439bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Galantino, 66 Soncino (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Galantino, 66",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Ente di formazione Inchiostro - Soncino",
+        "Città": "Soncino",
+        "Meccanografico": "CRCF008004",
+        "Url sito scuola": "http://www.inchiostrosoncino.it/la-cooperativa.php",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.86845,
+          45.40033
+        ],
+        "type": "Point"
+      },
+      "id": "5c5218e82fba011fd93cf3d6074f9186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Mazzini, 1 Piadena Drizzona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Mazzini, 1",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"G.M. Sacchi\"",
+        "Città": "Piadena Drizzona",
+        "Meccanografico": "CRIC81400L",
+        "Url sito scuola": "https://icpiadena.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.35028,
+          45.14217
+        ],
+        "type": "Point"
+      },
+      "id": "5de6377a672f82c49055a40ae4cb0a95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Palestro, 30 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Palestro, 30",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo delle Scienze Umane \"Sofonisba Anguissola\"",
+        "Città": "Cremona",
+        "Meccanografico": "CRPM02000E",
+        "Url sito scuola": "https://www.liceoanguissola.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.020107,
+          45.138449
+        ],
+        "type": "Point"
+      },
+      "id": "6859c0ec55dfddbd4b7f08927babe744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "piazza Strafurini, 10 Castelleone  (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "piazza Strafurini, 10",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Scuola primaria \"Maddalena di Canossa\" Castelleone ",
+        "Città": "Castelleone ",
+        "Meccanografico": "CR1E00400A",
+        "Url sito scuola": "https://scuolediocesicr.it/scuola-primaria-maddalena-di-canossa/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.76091,
+          45.29579
+        ],
+        "type": "Point"
+      },
+      "id": "702f16c67c724ecfdf0637331e8b8bcd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IC \"G. B. Puerari\" - Sospiro",
+        "Grado": "IC",
+        "Full Address": "via IV novembre, 34 Sospiro (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://cr-icsospiro.medialibrary.it",
+        "Indirizzo": "via IV novembre, 34",
+        "Regione": "Lombardia",
+        "Note": "MS + NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Gian Battista Puerari\"",
+        "Città": "Sospiro",
+        "Meccanografico": "CRIC81500C",
+        "Url sito scuola": "https://www.icsospiro.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1598",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          10.159752,
+          45.10693
+        ],
+        "type": "Point"
+      },
+      "id": "730380719abf037f429578092043bdc9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Trebbia, 1 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Trebbia, 1",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Cremona Due",
+        "Città": "Cremona",
+        "Meccanografico": "CRIC824007",
+        "Url sito scuola": "https://www.iccremona2.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.000394,
+          45.133326
+        ],
+        "type": "Point"
+      },
+      "id": "86966a685bcd19a3aea2f5537ca0129e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "piazza Repubblica, 32 Pizzighettone (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "piazza Repubblica, 32",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Pizzighettone San Bassano",
+        "Città": "Pizzighettone",
+        "Meccanografico": "CRIC808009",
+        "Url sito scuola": "https://icpizzighettonesanbassano.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.788799,
+          45.189602
+        ],
+        "type": "Point"
+      },
+      "id": "97df62e1df4816111129d4c979ba33b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via San Bernardo, 1 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via San Bernardo, 1",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Cremona Cinque",
+        "Città": "Cremona",
+        "Meccanografico": "CRIC82300B",
+        "Url sito scuola": "https://www.cremonacinque.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.02297,
+          45.14047
+        ],
+        "type": "Point"
+      },
+      "id": "98a779e6412d3f8ea2ce39667d8e11f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Dante Alighieri, 9 Montodine (CR) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Dante Alighieri, 9",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Statale \"E. Fermi\"",
+        "Città": "Montodine",
+        "Meccanografico": "CRIC80200A",
+        "Url sito scuola": "https://www.icfermimontodine.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.712373,
+          45.286082
+        ],
+        "type": "Point"
+      },
+      "id": "a4d96f2d275ef990ec90dd44ca85ea89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Dante Alighieri,1 Offanengo (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Dante Alighieri,1",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"G. Falcone-P. Borsellino\"",
+        "Città": "Offanengo",
+        "Meccanografico": "CRIC80500T",
+        "Url sito scuola": "https://icfalbor.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.74236,
+          45.37887
+        ],
+        "type": "Point"
+      },
+      "id": "a7452aca249db9c9dd60916274e1a039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "piazza Domenico Luzzara, 1 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "piazza Domenico Luzzara, 1",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Fondazione Enaip Lombardia - Cremona Luzzara",
+        "Città": "Cremona",
+        "Meccanografico": "CRCF001009",
+        "Url sito scuola": "https://www.enaiplombardia.eu/index.php?option=com_k2&view=item&layout=item&id=221&Itemid=247",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.036237,
+          45.139549
+        ],
+        "type": "Point"
+      },
+      "id": "b7198db79385c888685f1944a5f8b461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Seminario, 19 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Seminario, 19",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Janello Torriani\"",
+        "Città": "Cremona",
+        "Meccanografico": "CRIS004006",
+        "Url sito scuola": "https://www.iistorriani.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.007259,
+          45.151489
+        ],
+        "type": "Point"
+      },
+      "id": "b93b66c7a2312450f0405f7ef1141178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Corte, 1 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Corte, 1",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Cremona Quattro",
+        "Città": "Cremona",
+        "Meccanografico": "CRIC82200G",
+        "Url sito scuola": "https://iccremonaquattro.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.04339,
+          45.137765
+        ],
+        "type": "Point"
+      },
+      "id": "bb8a0f7b481020250272024725d13876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "viale Cadorna, snc Casalpusterlengo (LO) Lombardia Italia",
+        "Paese": "Italia",
+        "Prov": "(LO)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "viale Cadorna, snc",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"A. Cesaris\"",
+        "Città": "Casalpusterlengo",
+        "Meccanografico": "LOIS00300P",
+        "Url sito scuola": "https://www.cesaris.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.645,
+          45.183826
+        ],
+        "type": "Point"
+      },
+      "id": "bbd4a68b1bdc28a9f3111c25edb07514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Milano, 5 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Milano, 5",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Vida Scientifico ad indirizzo sportivo",
+        "Città": "Cremona",
+        "Meccanografico": "CRPSVN500C",
+        "Url sito scuola": "https://liceovida.org/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.001823,
+          45.142867
+        ],
+        "type": "Point"
+      },
+      "id": "bdcfa5e2242128ca31438e288e35e043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via Piacenza, 52/C Crema (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Piacenza, 52/C",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Piero Sraffa\"",
+        "Città": "Crema",
+        "Meccanografico": "CRIS011009",
+        "Url sito scuola": "https://www.sraffacrema.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.688534,
+          45.347791
+        ],
+        "type": "Point"
+      },
+      "id": "ccd25228004750842fe72bb0166c26d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Circonvallazione B, 3 Pandino (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Circonvallazione B, 3",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Visconteo",
+        "Città": "Pandino",
+        "Meccanografico": "CRIC81900Q",
+        "Url sito scuola": "https://icpandino.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.554371,
+          45.406049
+        ],
+        "type": "Point"
+      },
+      "id": "d3f7823453a9944a725116fc2274d81f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Milano, 5 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Milano, 5",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Scuola primaria \"Maddalena di Canossa\" Cremona",
+        "Città": "Cremona",
+        "Meccanografico": "CR1E00200P",
+        "Url sito scuola": "https://scuolediocesicr.it/scuola-primaria-canossa/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.001627,
+          45.1429
+        ],
+        "type": "Point"
+      },
+      "id": "e5bd11923367394f7cbe7f6c63e1cb1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Gramsci, 15 Gussola (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Gramsci, 15",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Dedalo 2000",
+        "Città": "Gussola",
+        "Meccanografico": "CRIC81300R",
+        "Url sito scuola": "https://www.dedalo2000.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          10.34894,
+          45.01165
+        ],
+        "type": "Point"
+      },
+      "id": "e664dbfcb64527357240822c5b8a25c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Dante Alighieri, 24 Crema (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Dante Alighieri, 24",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Scuola secondaria di primo grado \"Dante Alighieri\"",
+        "Città": "Crema",
+        "Meccanografico": "CR1M00200X",
+        "Url sito scuola": "http://fondazionemanziana.it/contatti-secondaria-di-i-grado/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.690426,
+          45.361273
+        ],
+        "type": "Point"
+      },
+      "id": "e6dacb98c6f523b56beb4c12b6f40f5f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IS",
+        "Full Address": "via delle Vigne,184 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via delle Vigne,184",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Ente Scuola Edile Cremonese - CPT",
+        "Città": "Cremona",
+        "Meccanografico": "CRCF00900X",
+        "Url sito scuola": "https://www.scuolaedilecremona.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1766",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.980542,
+          45.163239
+        ],
+        "type": "Point"
+      },
+      "id": "f074462b222d320baf0d5334472291ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "via Borgo S. Pietro, 8 Crema (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "via Borgo S. Pietro, 8",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo Crema Uno",
+        "Città": "Crema",
+        "Meccanografico": "CRIC82700P",
+        "Url sito scuola": "http://www.cremauno.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.6892,
+          45.365041
+        ],
+        "type": "Point"
+      },
+      "id": "fa70bf0bcc57ed3e870e7b4f63c09dbd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "IIS Einaudi Cremona",
+        "Grado": "IS",
+        "Full Address": "via Bissolati, 96 Cremona (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://scuola.medialibrary.it",
+        "Indirizzo": "via Bissolati, 96",
+        "Regione": "Lombardia",
+        "Note": "MS + NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore \"Luigi Einaudi\"",
+        "Città": "Cremona",
+        "Meccanografico": "CRIS00600T",
+        "Url sito scuola": "https://www.einaudicremona.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1047",
+        "già in MS": "SI"
+      },
+      "geometry": {
+        "coordinates": [
+          10.010704,
+          45.13865
+        ],
+        "type": "Point"
+      },
+      "id": "fb1b61b5908e0d00afb14b260f225cab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "",
+        "Grado": "IC",
+        "Full Address": "piazza Italia, 1 Soresina (CR) Lombardia Italia ",
+        "Paese": "Italia",
+        "Prov": "(CR)",
+        "Dominio": "https://rbc-scuole.medialibrary.it/",
+        "Indirizzo": "piazza Italia, 1",
+        "Regione": "Lombardia",
+        "Note": "NGB",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"G. Bertesi\"",
+        "Città": "Soresina",
+        "Meccanografico": "CRIC80000P",
+        "Url sito scuola": "https://www.icbertesi.edu.it/",
+        "NomeRete": "Nuove Generazioni in Biblioteca",
+        "IDPortale": "1765",
+        "già in MS": "NO"
+      },
+      "geometry": {
+        "coordinates": [
+          9.858318,
+          45.285618
+        ],
+        "type": "Point"
+      },
+      "id": "fc9fe275f6fc5faecc6676ed64beeac5"
+    }
+  ],
+  "type": "FeatureCollection"
+}
