@@ -177,7 +177,7 @@ var pmgMembers = new L.GeoJSON.AJAX(geojsonData, { //options object for GeoJSON
     feature.properties.Città + ' ' + feature.properties.Prov +
     '</p>'
     +
-    '<p color:#1EA6CD><b><a href="' + feature.properties.Urlsitoscuola + '" target="_blank">' + feature.properties.Urlsitoscuola + '</a></b></p>';
+    '<p color:#1EA6CD><b><a href="' + feature.properties.UrlSitoScuola + '" target="_blank">' + feature.properties.Urlsitoscuola + '</a></b></p>';
 		layer.bindPopup(popupContent);
     }
 }).addTo(map);
