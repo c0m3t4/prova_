@@ -1,0 +1,294 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioécole",
+        "Grado": "IS",
+        "Full Address": "via Circonvallazione, 110 Courmayeur AO Valle d'Aosta Italia ",
+        "Paese": "Italia",
+        "Prov": "AO",
+        "Dominio": "https://biblioecole.medialibrary.it/",
+        "Indirizzo": "via Circonvallazione, 110",
+        "Regione": "Valle d'Aosta",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo linguistico Courmayeur",
+        "Città": "Courmayeur",
+        "Meccanografico": "",
+        "NomeRete": "Biblioécole",
+        "IDPortale": "2080",
+        "UrlSitoScuola": "https://liceocourmayeur.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          6.971574,
+          45.792563
+        ],
+        "type": "Point"
+      },
+      "id": "1c865dda305385523bc6a6b59a7a856e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioécole",
+        "Grado": "IS",
+        "Full Address": "via Frère Gilles, 33 Verres AO Valle d'Aosta Italia ",
+        "Paese": "Italia",
+        "Prov": "AO",
+        "Dominio": "https://biblioecole.medialibrary.it/",
+        "Indirizzo": "via Frère Gilles, 33",
+        "Regione": "Valle d'Aosta",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituzione Scolastica di Istruzione Liceale, Tecnica e Professionale - Verres",
+        "Città": "Verres",
+        "Meccanografico": "",
+        "NomeRete": "Biblioécole",
+        "IDPortale": "2080",
+        "UrlSitoScuola": "https://www.isiltp.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          7.689643,
+          45.665403
+        ],
+        "type": "Point"
+      },
+      "id": "1f2f130676f399c7d16297e361a290d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioécole",
+        "Grado": "IS",
+        "Full Address": "via Tornafol, 7 Châtillon AO Valle d'Aosta Italia ",
+        "Paese": "Italia",
+        "Prov": "AO",
+        "Dominio": "https://biblioecole.medialibrary.it/",
+        "Indirizzo": "via Tornafol, 7",
+        "Regione": "Valle d'Aosta",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto professionale industria e artigianato \"Don Bosco\" - Châtillon",
+        "Città": "Châtillon",
+        "Meccanografico": "",
+        "NomeRete": "Biblioécole",
+        "IDPortale": "2080",
+        "UrlSitoScuola": "https://salesianichatillon.it/istituto-professionale/"
+      },
+      "geometry": {
+        "coordinates": [
+          7.615168,
+          45.746675
+        ],
+        "type": "Point"
+      },
+      "id": "63e13335f1400a0f745df8a76d897948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioécole",
+        "Grado": "IS",
+        "Full Address": "via Festaz, 27/A Aosta AO Valle d'Aosta Italia ",
+        "Paese": "Italia",
+        "Prov": "AO",
+        "Dominio": "https://biblioecole.medialibrary.it/",
+        "Indirizzo": "via Festaz, 27/A",
+        "Regione": "Valle d'Aosta",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituzione Scolastica di istruzione tecnica e professionale \"Innocent Manzetti\" - Aosta",
+        "Città": "Aosta",
+        "Meccanografico": "",
+        "NomeRete": "Biblioécole",
+        "IDPortale": "2080",
+        "UrlSitoScuola": "https://imanzetti.scuole.vda.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          7.320263,
+          45.73533
+        ],
+        "type": "Point"
+      },
+      "id": "71c9d95da2bfafebfcead0483aa16688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioécole",
+        "Grado": "IS",
+        "Full Address": "strada dei Cappuccini, 2 Aosta AO Valle d'Aosta Italia ",
+        "Paese": "Italia",
+        "Prov": "AO",
+        "Dominio": "https://biblioecole.medialibrary.it/",
+        "Indirizzo": "strada dei Cappuccini, 2",
+        "Regione": "Valle d'Aosta",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo classico, artistico e musicale di Aosta",
+        "Città": "Aosta",
+        "Meccanografico": "",
+        "NomeRete": "Biblioécole",
+        "IDPortale": "2080",
+        "UrlSitoScuola": "https://www.licam.edu.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          7.318099,
+          45.743157
+        ],
+        "type": "Point"
+      },
+      "id": "89e8312bcb173cf21286436f65d3b001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioécole",
+        "Grado": "IS",
+        "Full Address": "reg. La Rochère, 1/A Aosta AO Valle d'Aosta Italia ",
+        "Paese": "Italia",
+        "Prov": "AO",
+        "Dominio": "https://biblioecole.medialibrary.it/",
+        "Indirizzo": "reg. La Rochère, 1/A",
+        "Regione": "Valle d'Aosta",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Tecnico Professionale Agrario \"Institut Agricole Régional\" - Aosta",
+        "Città": "Aosta",
+        "Meccanografico": "",
+        "NomeRete": "Biblioécole",
+        "IDPortale": "2080",
+        "UrlSitoScuola": "https://www.iar.edu.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          7.299866,
+          45.736886
+        ],
+        "type": "Point"
+      },
+      "id": "a4856cdac2efce6069c64b442d3b7a8c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioécole",
+        "Grado": "IS",
+        "Full Address": "viale Federico Chabod, 120 Aosta AO Valle d'Aosta Italia ",
+        "Paese": "Italia",
+        "Prov": "AO",
+        "Dominio": "https://biblioecole.medialibrary.it/",
+        "Indirizzo": "viale Federico Chabod, 120",
+        "Regione": "Valle d'Aosta",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo scientifico e linguistico “Edouard Bérard” - Aosta",
+        "Città": "Aosta",
+        "Meccanografico": "",
+        "NomeRete": "Biblioécole",
+        "IDPortale": "2080",
+        "UrlSitoScuola": "https://www.liceoberard.vda.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          7.325434,
+          45.741591
+        ],
+        "type": "Point"
+      },
+      "id": "bfc8c9a8f409c2a1343752cdf562c4eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioécole",
+        "Grado": "IS",
+        "Full Address": "rue de la Gare, 39 Châtillon AO Valle d'Aosta Italia ",
+        "Paese": "Italia",
+        "Prov": "AO",
+        "Dominio": "https://biblioecole.medialibrary.it/",
+        "Indirizzo": "rue de la Gare, 39",
+        "Regione": "Valle d'Aosta",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Professionale per i Servizi con indirizzo per l'Enogastronomia e l'Ospitalità Alberghiera - Châtillon",
+        "Città": "Châtillon",
+        "Meccanografico": "",
+        "NomeRete": "Biblioécole",
+        "IDPortale": "2080",
+        "UrlSitoScuola": "https://www.fondazioneturistica.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          7.617889,
+          45.746475
+        ],
+        "type": "Point"
+      },
+      "id": "c5b70e2bd7da15e437aadb6e2645942b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioécole",
+        "Grado": "IS",
+        "Full Address": "viale Federico Chabod, 6 Aosta AO Valle d'Aosta Italia ",
+        "Paese": "Italia",
+        "Prov": "AO",
+        "Dominio": "https://biblioecole.medialibrary.it/",
+        "Indirizzo": "viale Federico Chabod, 6",
+        "Regione": "Valle d'Aosta",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto tecnico e professionale regionale “Corrado Gex” - Aosta",
+        "Città": "Aosta",
+        "Meccanografico": "",
+        "NomeRete": "Biblioécole",
+        "IDPortale": "2080",
+        "UrlSitoScuola": "https://www.cgex.edu.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          7.319948,
+          45.740971
+        ],
+        "type": "Point"
+      },
+      "id": "c828afed9008bb804f564ea904ad7704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Biblioécole",
+        "Grado": "IS",
+        "Full Address": "via Chavanne, 23/E Aosta AO Valle d'Aosta Italia ",
+        "Paese": "Italia",
+        "Prov": "AO",
+        "Dominio": "https://biblioecole.medialibrary.it/",
+        "Indirizzo": "via Chavanne, 23/E",
+        "Regione": "Valle d'Aosta",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo delle scienze umane e scientifico “Regina Maria Adelaide” - Aosta",
+        "Città": "Aosta",
+        "Meccanografico": "",
+        "NomeRete": "Biblioécole",
+        "IDPortale": "2080",
+        "UrlSitoScuola": "https://www.rmadelaide.edu.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          7.309853,
+          45.732803
+        ],
+        "type": "Point"
+      },
+      "id": "e84518b04852ddc4c477de1263162427"
+    }
+  ],
+  "type": "FeatureCollection"
+}
