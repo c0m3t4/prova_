@@ -1,0 +1,274 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "Grado": "IS",
+        "Full Address": "via Bellini, 5 Sassari (SS) Sardegna Italia ",
+        "Paese": "Italia",
+        "Prov": "(SS)",
+        "Dominio": "https://bibliajo.medialibrary.it",
+        "Indirizzo": "via Bellini, 5",
+        "Regione": "Sardegna",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Istruzione Superiore \"N. Pellegrini\"",
+        "Città": "Sassari",
+        "Meccanografico": "SSIS00300L",
+        "NomeRete": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "IDPortale": "1821",
+        "già in MS": "NO",
+        "Urlsitoscuola": "https://www.iis-pellegrini.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          8.399303,
+          40.832084
+        ],
+        "type": "Point"
+      },
+      "id": "3ddbae4e543bdbf96a842aba43244a3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "Grado": "IS",
+        "Full Address": "viale Trento, 103 Cagliari (CA) Sardegna Italia",
+        "Paese": "Italia",
+        "Prov": "(CA)",
+        "Dominio": "https://bibliajo.medialibrary.it",
+        "Indirizzo": "viale Trento, 103",
+        "Regione": "Sardegna",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Classico \"G. Siotto Pintor\"",
+        "Città": "Cagliari",
+        "Meccanografico": "CAPC050004",
+        "NomeRete": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "IDPortale": "1821",
+        "già in MS": "NO",
+        "Urlsitoscuola": "https://liceosiotto.edu.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          9.101292,
+          39.22593
+        ],
+        "type": "Point"
+      },
+      "id": "71660dab7c170f1e28682836cfa5b0f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "Grado": "IS",
+        "Full Address": "via Ligas, snc Cagliari (CA) Sardegna Italia ",
+        "Paese": "Italia",
+        "Prov": "(CA)",
+        "Dominio": "https://bibliajo.medialibrary.it",
+        "Indirizzo": "via Ligas, snc",
+        "Regione": "Sardegna",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Classico Scientifico Statale Euclide",
+        "Città": "Cagliari",
+        "Meccanografico": "CAPS13000V",
+        "NomeRete": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "IDPortale": "1821",
+        "già in MS": "NO",
+        "Urlsitoscuola": "https://www.liceoeuclidecagliari.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          9.11917,
+          39.23054
+        ],
+        "type": "Point"
+      },
+      "id": "86ecf343d52cdcca238d9eb1b6aba195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "Grado": "ISMS",
+        "Full Address": "via Liguria, snc Cagliari (CA) Sardegna Italia",
+        "Paese": "Italia",
+        "Prov": "(CA)",
+        "Dominio": "https://bibliajo.medialibrary.it",
+        "Indirizzo": "via Liguria, snc",
+        "Regione": "Sardegna",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Scientifico Statale \"Antonio Pacinotti\"",
+        "Città": "Cagliari",
+        "Meccanografico": "CAPS050007",
+        "NomeRete": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "IDPortale": "1821",
+        "già in MS": "SI",
+        "Urlsitoscuola": "https://pacinotti.edu.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          9.118285,
+          39.228973
+        ],
+        "type": "Point"
+      },
+      "id": "8fff3119de8e22849309798810411eff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "Grado": "IS",
+        "Full Address": "via Pintus, snc Cagliari (CA) Sardegna Italia",
+        "Paese": "Italia",
+        "Prov": "(CA)",
+        "Dominio": "https://bibliajo.medialibrary.it",
+        "Indirizzo": "via Pintus, snc",
+        "Regione": "Sardegna",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Convitto Nazionale \"Vittorio Emanuele II\"",
+        "Città": "Cagliari",
+        "Meccanografico": "CAVC010001",
+        "NomeRete": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "IDPortale": "1821",
+        "già in MS": "NO",
+        "Urlsitoscuola": "https://www.convittocagliari.edu.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          9.137863,
+          39.242014
+        ],
+        "type": "Point"
+      },
+      "id": "a69d31f581bf299fa07e6a1fa1e11d40"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "Grado": "IS",
+        "Full Address": "via Sebastiano Satta, 6 Ozieri (SS) Sardegna Italia",
+        "Paese": "Italia",
+        "Prov": "(SS)",
+        "Dominio": "https://bibliajo.medialibrary.it",
+        "Indirizzo": "via Sebastiano Satta, 6",
+        "Regione": "Sardegna",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto di Istruzione Superiore  \"A. Segni\"",
+        "Città": "Ozieri",
+        "Meccanografico": "SSIS02400N",
+        "NomeRete": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "IDPortale": "1821",
+        "già in MS": "NO",
+        "Urlsitoscuola": "https://www.iisantoniosegni.edu.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          9.004517,
+          40.588093
+        ],
+        "type": "Point"
+      },
+      "id": "b1928fa5fd210883dea3d56bddba7ea7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "Grado": "IC",
+        "Full Address": "via Roma, 64 Iglesias (SU) Sardegna Italia ",
+        "Paese": "Italia",
+        "Prov": "(SU)",
+        "Dominio": "https://bibliajo.medialibrary.it",
+        "Indirizzo": "via Roma, 64",
+        "Regione": "Sardegna",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Istituto Comprensivo \"Pietro Allori\"",
+        "Città": "Iglesias",
+        "Meccanografico": "CAIC88900X",
+        "NomeRete": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "IDPortale": "1821",
+        "già in MS": "NO",
+        "Urlsitoscuola": "https://www.comprensivoallori.edu.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          8.530923,
+          39.312494
+        ],
+        "type": "Point"
+      },
+      "id": "ef4a0d605feed0c725a9032975ad2d97"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "Grado": "IS",
+        "Full Address": "via Carboni Boy, 1 Cagliari (CA) Sardegna Italia",
+        "Paese": "Italia",
+        "Prov": "(CA)",
+        "Dominio": "https://bibliajo.medialibrary.it",
+        "Indirizzo": "via Carboni Boy, 1",
+        "Regione": "Sardegna",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo \"Eleonora d'Arborea\"",
+        "Città": "Cagliari",
+        "Meccanografico": "CAPM02000C",
+        "NomeRete": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "IDPortale": "1821",
+        "già in MS": "NO",
+        "Urlsitoscuola": "https://liceoeleonoradarborea.edu.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          9.127804,
+          39.217163
+        ],
+        "type": "Point"
+      },
+      "id": "eff9ee476b0dbd7959ada6b5a23d1cf5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NomePortale": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "Grado": "IS",
+        "Full Address": "via Campidano, snc Olbia (SS) Sardegna Italia",
+        "Paese": "Italia",
+        "Prov": "(SS)",
+        "Dominio": "https://bibliajo.medialibrary.it",
+        "Indirizzo": "via Campidano, snc",
+        "Regione": "Sardegna",
+        "Note": "",
+        "Tipo": "Rete Scuole",
+        "NomeScuola": "Liceo Scientifico Statale \"Lorenzo Mossa\"",
+        "Città": "Olbia",
+        "Meccanografico": "SSPS05000G",
+        "NomeRete": "Bibli@jò - Rete delle Biblioteche innovative Sarde",
+        "IDPortale": "1821",
+        "già in MS": "NO",
+        "Urlsitoscuola": "https://www.liceomossaolbia.edu.it/"
+      },
+      "geometry": {
+        "coordinates": [
+          9.494085,
+          40.920918
+        ],
+        "type": "Point"
+      },
+      "id": "fb94119bb895454330ba76f4f40cfae1"
+    }
+  ],
+  "type": "FeatureCollection"
+}
